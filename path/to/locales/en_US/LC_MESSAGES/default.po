@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: log_character_onlines.go:59 log_character_onlines.go:64
+msgid "上线"
+msgstr "online"
+
+#: log_character_onlines.go:55
+msgid "上线/下线"
+msgstr "online/offline"
+
+#: log_character_onlines.go:61 log_character_onlines.go:65
+msgid "下线"
+msgstr "offline"
+
+#: log_character_chats.go:54
+msgid "内容"
+msgstr ""
+
+#: log_character_chats.go:52
+msgid "接收玩家"
+msgstr ""
+
+#: log_character_chats.go:37 log_character_onlines.go:35
+#: log_player_amulet.go:36
+msgid "服务器ID"
+msgstr "ServerID"
+
+#: log_character_onlines.go:71
+msgid "登录日志表格"
+msgstr ""
+
+#: log_character_onlines.go:67
+msgid "登录时间"
+msgstr ""
+
+#: log_character_chats.go:60
+msgid "聊天日志"
+msgstr ""
+
+#: log_player_amulet.go:64
+msgid "艾尔特属性"
+msgstr ""
+
+#: log_player_amulet.go:63
+msgid "艾尔特类型ID"
+msgstr ""
+
+#: log_character_chats.go:45 log_character_onlines.go:43
+#: log_player_amulet.go:42
+msgid "角色ID"
+msgstr ""
+
+#: log_character_chats.go:48 log_character_onlines.go:46
+msgid "角色名"
+msgstr ""
+
+#: log_player_amulet.go:44
+msgid "角色昵称"
+msgstr ""
+
+#: log_character_onlines.go:49 log_player_amulet.go:46
+msgid "角色等级"
+msgstr ""
+
+#: log_character_chats.go:56 log_player_amulet.go:66
+msgid "记录时间"
+msgstr ""
+
+#: log_player_amulet.go:51
+msgid "记录类型"
+msgstr ""
+
+#: log_character_onlines.go:40
+msgid "账号"
+msgstr ""
+
+#: log_character_chats.go:42 log_player_amulet.go:40
+msgid "账号ID"
+msgstr ""
+
+#: log_player_amulet.go:69
+msgid "配饰镶嵌记录"
+msgstr ""
+
+#: log_character_chats.go:50
+msgid "频道"
+msgstr ""

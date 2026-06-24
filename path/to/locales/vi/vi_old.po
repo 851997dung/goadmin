@@ -1,0 +1,2460 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: AutoPages\t_ip_rules.go:36
+msgid "-1为黑名单,1为白名单."
+msgstr "-1 là danh sách đen, 1 là danh sách trắng."
+
+#: mgr\pageMgr\serverMgr.go:462
+msgid "ARPPU"
+msgstr "ARPPU"
+
+#: mgr\pageMgr\serverMgr.go:463
+msgid "ARPU"
+msgstr "ARPU"
+
+#: common\def\complaintDef.go:48
+msgid "BUG"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:424
+msgid "CHAR数据库"
+msgstr "Kho dữ liệu CHAR"
+
+#: pages\CustomPages\serverInfo.go:89
+msgid "ChartID"
+msgstr "ChartID"
+
+#: common\def\flowDef\logFlowType.go:182
+msgid "GM"
+msgstr "GM"
+
+#: pages\CustomPages\Email.go:49
+msgid "Host"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:95
+msgid "IOS"
+msgstr "IOS"
+
+#: pages\AutoPages\global_cfg_check.go:105
+msgid "Key"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:414
+msgid "LOG数据库"
+msgstr "Kho dữ liệu LOG"
+
+#: common\def\flowDef\logFlowType.go:248
+msgid "NPC商店出售"
+msgstr "NPC cửa hàng bán"
+
+#: common\def\flowDef\logFlowType.go:249
+msgid "NPC商店购回"
+msgstr "NPCcửa hàng mua lại"
+
+#: common\def\flowDef\logFlowType.go:192
+msgid "PK"
+msgstr "PK"
+
+#: pages\CustomPages\Email.go:53
+msgid "Port"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:434
+msgid "Redis序号"
+msgstr ""
+
+#: pages\AutoPages\log_character_onlines.go:51 pages\AutoPages\log_player_amulet.go:54
+#: pages\AutoPages\log_player_dungeons.go:52 pages\AutoPages\log_player_equip.go:52
+#: pages\AutoPages\log_player_ertl.go:52 pages\AutoPages\log_player_exps.go:58
+#: pages\AutoPages\log_player_item_add_error.go:65 pages\AutoPages\log_player_items.go:58
+#: pages\AutoPages\log_player_moneys.go:58 pages\AutoPages\log_player_quests.go:61
+#: pages\AutoPages\log_player_stone.go:53
+msgid "VIP等级"
+msgstr "đặc quyền Vip"
+
+#: common\def\flowDef\logFlowType.go:289
+msgid "Vip特权"
+msgstr "thẻ vip"
+
+#: common\def\flowDef\logFlowType.go:291
+msgid "vip卡"
+msgstr "thẻ vip"
+
+#: common\def\flowDef\logFlowType.go:290
+msgid "vip礼包"
+msgstr "lễ bao vip"
+
+#: pages\AutoPages\global_cfg_check.go:106 pages\AutoPages\global_cfg_check.go:172
+msgid "Value"
+msgstr ""
+
+#: pages\AutoPages\global_cfg_check.go:169
+msgid "key"
+msgstr ""
+
+#: pages\AutoPages\global_cfg_check.go:298
+msgid "something wrong"
+msgstr ""
+
+#: mgr\pageMgr\serverMgr.go:468 pages\CustomPages\serverInfo.go:577
+msgid "七日留存"
+msgstr "7 ngày đăng nhập"
+
+#: mgr\pageMgr\serverMgr.go:472 pages\CustomPages\serverInfo.go:597
+msgid "七日留存(%)"
+msgstr "7 ngày đăng nhập(%)"
+
+#: mgr\pageMgr\serverMgr.go:467 pages\CustomPages\serverInfo.go:575
+msgid "三日留存"
+msgstr "3 ngày đăng nhập"
+
+#: mgr\pageMgr\serverMgr.go:471 pages\CustomPages\serverInfo.go:588
+msgid "三日留存(%)"
+msgstr "3 ngày đăng nhập(%)"
+
+#: pages\AutoPages\log_character_onlines.go:61 pages\AutoPages\log_character_onlines.go:67
+msgid "上线"
+msgstr "online"
+
+#: pages\AutoPages\log_character_onlines.go:57
+msgid "上线/下线"
+msgstr "online/offline"
+
+#: pages\AutoPages\log_character_onlines.go:63 pages\AutoPages\log_character_onlines.go:68
+msgid "下线"
+msgstr "offline"
+
+#: pages\AutoPages\t_activation_code.go:41 pages\AutoPages\t_activation_code.go:99
+#: pages\AutoPages\t_function_switch.go:83 pages\AutoPages\t_notices.go:57 pages\AutoPages\t_notices.go:159
+msgid "不发往指定服务器"
+msgstr "Không gửi đến máy chủ được chỉ định"
+
+#: common\def\logDef.go:383
+msgid "世界"
+msgstr "thế giới"
+
+#: common\def\flowDef\logFlowType.go:196
+msgid "丢弃物品"
+msgstr "Vứt bỏ vật phẩm"
+
+#: pages\AutoPages\t_activation_code.go:46 pages\AutoPages\t_activation_code.go:52
+#: pages\AutoPages\t_activation_code.go:84
+msgid "个人"
+msgstr "Cá nhân"
+
+#: common\def\flowDef\logFlowType.go:268
+msgid "个人商店"
+msgstr ""
+
+#: pages\CustomPages\index.go:48
+msgid "中心服host"
+msgstr "Máy chủ trung tâm host"
+
+#: pages\CustomPages\index.go:51
+msgid "中心服端口"
+msgstr "Client trung tâm"
+
+#: pages\CustomPages\index.go:44
+msgid "中文"
+msgstr "Tiếng trung"
+
+#: common\def\questDef\questDef.go:39 common\def\questDef\questDef.go:46
+msgid "主线"
+msgstr "phó bản nghĩa quân"
+
+#: common\def\questDef\questDef.go:62
+msgid "义军任务"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:200
+msgid "交换物品"
+msgstr "trao đổi vật phẩm"
+
+#: common\def\logDef.go:150
+msgid "交换道具"
+msgstr "trao đổi đạo cụ"
+
+#: common\def\flowDef\logFlowType.go:247
+msgid "交易物品"
+msgstr "giao dịch vật phẩm"
+
+#: pages\CustomPages\dataTables.go:307 pages\CustomPages\serverInfo.go:117 pages\CustomPages\serverInfo.go:135
+#: pages\CustomPages\serverInfo.go:144 pages\CustomPages\serverInfo.go:163 pages\CustomPages\serverInfo.go:247
+#: pages\CustomPages\serverInfo.go:266 pages\CustomPages\serverInfo.go:282 pages\CustomPages\serverInfo.go:301
+#: pages\CustomPages\serverInfo.go:316
+msgid "人数"
+msgstr "số người"
+
+#: pages\CustomPages\serverInfo.go:104 pages\CustomPages\serverInfo.go:228
+msgid "人次"
+msgstr "Lượt truy cập"
+
+#: pages\AutoPages\log_player_quests.go:67
+msgid "任务ID"
+msgstr "ID nhiệm vụ"
+
+#: pages\AutoPages\log_player_quests.go:69
+msgid "任务名"
+msgstr "tên nhiệm vụ"
+
+#: pages\AutoPages\log_player_quests.go:81
+msgid "任务子类型"
+msgstr "loại nhiệm vụ"
+
+#: common\def\logDef.go:465 pages\AutoPages\log_player_quests.go:105
+msgid "任务日志"
+msgstr "nhiệm vụ hàng ngày"
+
+#: pages\CustomPages\serverInfo.go:140
+msgid "任务疑似流失"
+msgstr "Nhiệm vụ bị bỏ lỡ"
+
+#: pages\AutoPages\log_player_quests.go:71
+msgid "任务类型"
+msgstr "loại hình nhiệm vụ"
+
+#: pages\AutoPages\log_player_quests.go:91
+msgid "任务进度"
+msgstr "tiến độ nhiệm vụ"
+
+#: common\def\flowDef\logFlowType.go:207 common\def\flowDef\logFlowType.go:208
+msgid "传送"
+msgstr "truyền tống"
+
+#: common\def\flowDef\logFlowType.go:209
+msgid "传送UI"
+msgstr "UItruyền tống"
+
+#: pages\AutoPages\t_activation_code.go:62 pages\AutoPages\t_activation_code_use.go:34
+msgid "使用时间"
+msgstr "Thời gian sử dụng"
+
+#: common\def\flowDef\logFlowType.go:239
+msgid "使用激活码"
+msgstr "sử dụng mã kích hoạt"
+
+#: common\def\flowDef\logFlowType.go:194
+msgid "使用道具"
+msgstr "sử dụng đạo cụ"
+
+#: pages\AutoPages\t_game_servers.go:117
+msgid "修改服务器数据库配置"
+msgstr "Sửa đổi cấu hình cơ sở dữ liệu máy chủ"
+
+#: pages\CustomPages\playerInfo.go:286
+msgid "修改结果"
+msgstr "Kết quả sửa đổi"
+
+#: common\def\logDef.go:265
+msgid "修理"
+msgstr "sửa đổi"
+
+#: pages\AutoPages\log_player_equip.go:71
+msgid "修理方式"
+msgstr "phương thức sửa đổi"
+
+#: common\def\flowDef\logFlowType.go:198
+msgid "修理武器"
+msgstr "sửa đổi vũ khí"
+
+#: common\def\flowDef\logFlowType.go:184 pages\CustomPages\serverInfo.go:241
+msgid "充值"
+msgstr "nạp"
+
+#: mgr\pageMgr\serverMgr.go:460
+msgid "充值人数"
+msgstr "Số người nạp"
+
+#: pages\CustomPages\serverInfo.go:100
+msgid "充值分布"
+msgstr "Phân bố nạp"
+
+#: pages\AutoPages\rankList.go:38
+msgid "充值排行"
+msgstr "Xếp hạng nạp"
+
+#: mgr\pageMgr\serverMgr.go:464 pages\CustomPages\serverInfo.go:564
+msgid "充值渗透率(%)"
+msgstr "Tỷ lệ thâm nhập nạp (%)"
+
+#: pages\CustomPages\serverInfo.go:542
+msgid "充值玩家"
+msgstr "Người chơi nạp"
+
+#: pages\AutoPages\rankList.go:53 pages\AutoPages\totalRankList.go:42
+msgid "充值金额"
+msgstr "Giá trị nạp"
+
+#: mgr\pageMgr\serverMgr.go:459 pages\CustomPages\serverInfo.go:544
+msgid "充值金额(元)"
+msgstr "Số tiền nạp (tệ)"
+
+#: common\def\complaintDef.go:49
+msgid "充值问题"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:45 pages\AutoPages\t_activation_code.go:50
+#: pages\AutoPages\t_activation_code.go:83
+msgid "全服"
+msgstr "Tòan sever"
+
+#: pages\AutoPages\t_game_servers.go:120
+msgid "全服信息"
+msgstr "thông tin toàn sever"
+
+#: pages\CustomPages\dataTables.go:44
+msgid "全服总计"
+msgstr ""
+
+#: pages\AutoPages\t_affiche.go:38 pages\AutoPages\t_affiche.go:54
+msgid "公告管理"
+msgstr ""
+
+#: pages\AutoPages\t_account_characters.go:40 pages\AutoPages\t_account_characters.go:47
+msgid "关闭"
+msgstr ""
+
+#: pages\AutoPages\t_function_switch.go:38
+msgid "关闭该功能的服务器"
+msgstr "Máy chủ có tính năng này đã đóng"
+
+#: pages\AutoPages\t_game_servers.go:123
+msgid "关闭选中服务器"
+msgstr "Đóng máy chủ đã chọn"
+
+#: common\def\logDef.go:496 pages\AutoPages\global_cfg_check.go:104
+msgid "其他"
+msgstr ""
+
+#: pages\AutoPages\complaint_management.go:60 pages\AutoPages\complaint_management.go:77
+#: pages\AutoPages\log_character_chats.go:59 pages\AutoPages\t_affiche.go:31 pages\AutoPages\t_affiche.go:44
+#: pages\AutoPages\t_notices.go:45 pages\AutoPages\t_notices.go:151
+msgid "内容"
+msgstr "nội dung"
+
+#: common\def\logDef.go:420
+msgid "冒泡"
+msgstr "Nổi lên"
+
+#: common\def\logDef.go:149
+msgid "分割道具"
+msgstr "chia đạo cụ"
+
+#: pages\CustomPages\index.go:42
+msgid "切换语言"
+msgstr "Hoàn đổi ngôn ngữ"
+
+#: common\def\flowDef\logFlowType.go:202
+msgid "创建家族"
+msgstr "tạo phe"
+
+#: pages\playerInfo.go:68 pages\CustomPages\playerInfo.go:42
+msgid "创建时间"
+msgstr "thời gian tạo"
+
+#: common\def\flowDef\logFlowType.go:263
+msgid "创建角色"
+msgstr "tạo nhân vật"
+
+#: pages\CustomPages\mail.go:79 pages\CustomPages\mail.go:287
+msgid "到期时间"
+msgstr "Hạn sử dụng"
+
+#: pages\CustomPages\serverInfo.go:374
+msgid "副本"
+msgstr "phó bản"
+
+#: pages\CustomPages\serverInfo.go:192
+msgid "副本参与人数"
+msgstr "số người tham gia phó bản"
+
+#: pages\CustomPages\serverInfo.go:202
+msgid "副本参与记录"
+msgstr "Nhật ký tham gia phó bản"
+
+#: pages\AutoPages\log_player_dungeons.go:58
+msgid "副本名称"
+msgstr "tên phó bản"
+
+#: pages\CustomPages\serverInfo.go:193
+msgid "副本完成人数"
+msgstr "số người hoàn thành phó bản"
+
+#: pages\CustomPages\serverInfo.go:198
+msgid "副本完成度"
+msgstr "độ hoàn thành phó bản"
+
+#: common\def\logDef.go:458 pages\AutoPages\log_player_dungeons.go:76
+msgid "副本日志"
+msgstr "phó bản hàng ngày"
+
+#: pages\AutoPages\log_player_dungeons.go:64
+msgid "副本进度"
+msgstr "tiến độ phó bản"
+
+#: pages\AutoPages\t_function_switch.go:41
+msgid "功能开关"
+msgstr "Đóng mở tính năng"
+
+#: common\def\logDef.go:379
+msgid "区域"
+msgstr "khu vực"
+
+#: common\def\flowDef\logFlowType.go:284
+msgid "千层塔"
+msgstr "Thiên tầm tháp"
+
+#: common\def\flowDef\logFlowType.go:285
+msgid "千层塔挑战"
+msgstr "Khiêu chiến Thiên tầm tháp"
+
+#: common\def\logDef.go:344
+msgid "升级"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:297
+msgid "升级五行诀"
+msgstr "tăng cấp Ngũ hành quyết"
+
+#: common\def\flowDef\logFlowType.go:301
+msgid "升级头衔"
+msgstr "tăng cấp danh hiệu"
+
+#: common\def\flowDef\logFlowType.go:218
+msgid "升级插槽道具"
+msgstr "Nâng cấp vị trí đạo cụ"
+
+#: common\def\logDef.go:463 pages\AutoPages\log_player_levelups.go:62
+msgid "升级日志"
+msgstr "tăng cấp hàng ngày"
+
+#: common\def\logDef.go:343
+msgid "升阶"
+msgstr "Tăng cấp"
+
+#: pages\AutoPages\t_activation_code.go:71
+msgid "单个"
+msgstr "Đơn cái"
+
+#: pages\AutoPages\t_notices.go:44 pages\AutoPages\t_notices.go:149
+msgid "单位"
+msgstr "đơn vị"
+
+#: common\def\logDef.go:419
+msgid "即时"
+msgstr "Ngay lập tức"
+
+#: common\def\logDef.go:386
+msgid "即时公告"
+msgstr "Thông báo tức thì"
+
+#: common\def\flowDef\logFlowType.go:202
+msgid "卸下物品"
+msgstr "Tháo vật phẩm"
+
+#: pages\CustomPages\serverInfo.go:206 pages\CustomPages\serverInfo.go:361
+msgid "参与人数"
+msgstr "số người tham gia"
+
+#: pages\AutoPages\t_activation_code.go:40 pages\AutoPages\t_activation_code.go:96
+#: pages\AutoPages\t_function_switch.go:79 pages\AutoPages\t_notices.go:56 pages\AutoPages\t_notices.go:156
+msgid "发往指定服务器"
+msgstr "Gửi đến máy chủ được chỉ định"
+
+#: pages\CustomPages\mail.go:78 pages\CustomPages\mail.go:286
+msgid "发送时间"
+msgstr "thời gian gửi"
+
+#: pages\AutoPages\log_player_item_add_error.go:92 pages\CustomPages\mail.go:413
+msgid "发送补偿邮件"
+msgstr ""
+
+#: pages\CustomPages\mail.go:115 pages\CustomPages\mail.go:119 pages\CustomPages\mail.go:323
+#: pages\CustomPages\mail.go:327
+msgid "发送邮件"
+msgstr "gửi thư"
+
+#: common\def\flowDef\logFlowType.go:251
+msgid "发送邮件花费"
+msgstr "gửi thư tiêu hao"
+
+#: AutoPages\t_notices.go:52 AutoPages\t_notices.go:160 pages\AutoPages\t_notices.go:51
+#: pages\AutoPages\t_notices.go:154
+msgid "发送频道"
+msgstr "kênh gửi"
+
+#: common\def\questDef\questDef.go:80
+msgid "取消"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:204
+msgid "取消任务"
+msgstr "xóa bỏ nhiệm vụ"
+
+#: pages\AutoPages\log_player_equip.go:86
+msgid "变更属性ID"
+msgstr "ID thay đổi thuộc tính"
+
+#: pages\AutoPages\log_player_equip.go:87
+msgid "变更属性值"
+msgstr "thay đổi giá trị thuộc tính"
+
+#: common\def\itemdef.go:33
+msgid "可交易的"
+msgstr "Có thể giao dịch"
+
+#: common\def\itemdef.go:32
+msgid "可使用"
+msgstr "có thể sử dụng"
+
+#: common\def\logDef.go:225
+msgid "合成"
+msgstr "hợp thành"
+
+#: common\def\flowDef\logFlowType.go:222
+msgid "合成元素之心"
+msgstr "hợp thành Tim nguyên tố"
+
+#: common\def\flowDef\logFlowType.go:223
+msgid "合成元素之魂"
+msgstr "hợp thành quỷ nguyên tố"
+
+#: common\def\flowDef\logFlowType.go:227
+msgid "合成属性胶囊"
+msgstr "hợp thành thuộc tính viên nang"
+
+#: pages\AutoPages\t_activation_code.go:87
+msgid "同一个玩家只能使用一个同一批号的礼包码"
+msgstr "Cùng một người chơi chỉ có thể sử dụng một mã lễ bao"
+
+#: pages\mail.go:60
+msgid "向所有的服务器发送邮件"
+msgstr "Gửi thư đến tất cả các máy chủ"
+
+#: SendEMail\SendMail.go:24
+msgid "后台管理服务器"
+msgstr ""
+
+#: pages\mail.go:99
+msgid "向指定玩家发送邮件"
+msgstr "Gửi thư đến người chơi được chỉ định"
+
+#: SendEMail\SendMail.go:26
+msgid "后台管理服务器通知！"
+msgstr ""
+
+#: pages\AutoPages\t_notices.go:116
+msgid "向服务器请求取消选中条目"
+msgstr ""
+
+#: mgr\pageMgr\playerMgr.go:53 pages\AutoPages\t_notices.go:64 pages\AutoPages\t_notices.go:67
+#: pages\AutoPages\t_notices.go:164
+msgid "否"
+msgstr "không"
+
+#: pages\CustomPages\serverInfo.go:348
+msgid "商城"
+msgstr "thương thành"
+
+#: common\def\flowDef\logFlowType.go:187
+msgid "商店"
+msgstr "cửa hàng"
+
+#: pages\CustomPages\serverInfo.go:181
+msgid "商店道具购买分布"
+msgstr "Phân bố của hàng mua đạo cụ"
+
+#: pages\CustomPages\mail.go:64
+msgid "在此条邮件发送时间之前注册的用户可收到"
+msgstr ""
+
+#: pages\CustomPages\mail.go:65
+msgid "在此条邮件发送时间之后注册的用户可收到"
+msgstr ""
+
+#: pages\CustomPages\mail.go:59
+msgid "在此项中选择不发送邮件的服务器。"
+msgstr "Chọn máy chủ không gửi thư trong mục này"
+
+#: pages\CustomPages\mail.go:57
+msgid "在此项中选择发送邮件的服务器,若不选则默认为向所有服务器发送。"
+msgstr "Tại mục này, chọn máy chủ để gửi thư, nếu không chọn thì mặc định sẽ gửi đến tất cả các máy chủ."
+
+#: pages\AutoPages\t_activation_code.go:101 pages\AutoPages\t_function_switch.go:85
+#: pages\AutoPages\t_notices.go:161
+msgid "在此项选择不发往的服务器"
+msgstr "Chọn máy chủ không gửi đến"
+
+#: pages\AutoPages\t_activation_code.go:98 pages\AutoPages\t_function_switch.go:81
+#: pages\AutoPages\t_notices.go:157
+msgid "在此项选择要发往的服务器,若不填则向所有服务器发送"
+msgstr "Chọn máy chủ được gửi đến trong mục này, nếu không, sẽ gửi đến tất cả các máy chủ"
+
+#: pages\CustomPages\serverInfo.go:260
+msgid "在线人数统计"
+msgstr "thống kê người chơi online"
+
+#: pages\CustomPages\dataTables.go:211
+msgid "在线均值"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:209
+msgid "在线峰值"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:210
+msgid "在线谷值"
+msgstr ""
+
+#: common\def\itemdef.go:38
+msgid "坐骑"
+msgstr "tọa kỵ"
+
+#: common\def\flowDef\logFlowType.go:189
+msgid "复活"
+msgstr "hồi sinh"
+
+#: fusion\Tools.go:674
+msgid "多普瑞恩家族"
+msgstr "Gia tộc Dopreen"
+
+#: common\def\flowDef\logFlowType.go:308
+msgid "大转盘"
+msgstr "đại chuyển bàn"
+
+#: common\def\questDef\questDef.go:79
+msgid "失败"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:309
+msgid "大转盘爆机奖励"
+msgstr "Phần thưởng đại chuyển bàn bạo cơ"
+
+#: common\def\logDef.go:378
+msgid "好友"
+msgstr "hảo hữu"
+
+#: AutoPages\log_player_stone.go:72 pages\AutoPages\log_player_stone.go:72
+msgid "孔位"
+msgstr "khổng vị"
+
+#: common\def\flowDef\logFlowType.go:253
+msgid "存入货币仓库"
+msgstr "gửi vào kho tiền tệ"
+
+#: pages\CustomPages\serverInfo.go:93
+msgid "安卓"
+msgstr "Android"
+
+#: common\def\flowDef\logFlowType.go:287
+msgid "宋金战场"
+msgstr "Chiến trường tống kim"
+
+#: common\def\flowDef\logFlowType.go:325 common\def\flowDef\logFlowType.go:254
+msgid "完成任务"
+msgstr "Hoàn thành nhiệm vụ"
+
+#: common\def\complaintDef.go:57
+msgid "官网"
+msgstr ""
+
+#: pages\AutoPages\log_player_stone.go:80
+msgid "宝石等级"
+msgstr "Cấp đá"
+
+#: pages\AutoPages\log_player_stone.go:73 pages\AutoPages\log_player_stone.go:77
+#: pages\AutoPages\log_player_stone.go:81
+msgid "宝石类型ID"
+msgstr "ID loại đá"
+
+#: pages\CustomPages\dataTables.go:48 pages\CustomPages\dataTables.go:50
+msgid "实时在线人数"
+msgstr ""
+
+#: common\def\itemdef.go:39
+msgid "宠物转换器"
+msgstr "tiến hóa sủng vật"
+
+#: common\def\logDef.go:193 common\def\questDef\questDef.go:47
+msgid "家族任务"
+msgstr "nhiệm vụ phe"
+
+#: pages\CustomPages\serverInfo.go:154
+msgid "家族任务完成率"
+msgstr "Tỉ lệ hoàn thành nhiệm vụ phe"
+
+#: common\def\flowDef\logFlowType.go:203
+msgid "家族改名"
+msgstr "Đổi tên phe"
+
+#: common\def\flowDef\logFlowType.go:271
+msgid "寄售行.买"
+msgstr "ký thụ hành.mua"
+
+#: pages\CustomPages\Email.go:52
+msgid "对应邮箱的STMP服务器Host"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:272
+msgid "寄售行.卖"
+msgstr "ký thụ hành.mua"
+
+#: pages\CustomPages\Email.go:56
+msgid "对应邮箱的STMP服务器Port"
+msgstr ""
+
+#: pages\serverInfo.go:420 pages\serverInfo.go:430
+msgid "密码"
+msgstr "mật khẩu"
+
+#: pages\CustomPages\playerInfo.go:117
+msgid "封号"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:133
+msgid "封号时间"
+msgstr "thời gian khóa"
+
+#: pages\AutoPages\t_function_switch.go:43 pages\AutoPages\t_notices.go:88
+msgid "条目同步到服务器"
+msgstr "Đồng bộ hóa các mục đã chọn với máy chủ"
+
+#: common\def\logDef.go:381
+msgid "工会"
+msgstr "công hội"
+
+#: common\def\complaintDef.go:65
+msgid "已回复"
+msgstr ""
+
+#: common\def\complaintDef.go:66
+msgid "已忽略"
+msgstr ""
+
+#: fusion\Tools.go:675
+msgid "巴内尔特家族"
+msgstr "Gia tộc Barnett"
+
+#: common\def\logDef.go:194 common\def\flowDef\logFlowType.go:265
+msgid "帝国要塞"
+msgstr "Đế quốc cứ điểm"
+
+#: common\def\flowDef\logFlowType.go:254
+msgid "帮派兑换"
+msgstr "Trao đổi bang phái"
+
+#: common\def\flowDef\logFlowType.go:253
+msgid "帮派捐献"
+msgstr "quyên góp bang phái"
+
+#: common\def\flowDef\logFlowType.go:255
+msgid "帮派货运上交"
+msgstr "Nộp hóa vận bang phái"
+
+#: common\def\flowDef\logFlowType.go:257
+msgid "帮派货运奖励"
+msgstr "phần thưởng hóa vận"
+
+#: common\def\flowDef\logFlowType.go:256
+msgid "帮派货运帮助"
+msgstr "Trợ giúp hóa vận"
+
+#: common\def\flowDef\logFlowType.go:258
+msgid "帮派锻造"
+msgstr "Luyện tạo bang hội"
+
+#: pages\serverInfo.go:93 pages\CustomPages\serverInfo.go:91
+msgid "平台"
+msgstr "Nền tảng"
+
+#: pages\AutoPages\log_player_stone.go:76
+msgid "幸运属性"
+msgstr "Thuộc tính may mắn"
+
+#: common\def\logDef.go:189 common\def\flowDef\logFlowType.go:257
+msgid "幻影寺院"
+msgstr "huyễn ảnh tự viện"
+
+#: pages\AutoPages\t_notices.go:68
+msgid "广播列表"
+msgstr "danh sách phát sóng"
+
+#: common\def\complaintDef.go:47
+msgid "建议"
+msgstr ""
+
+#: pages\AutoPages\t_function_switch.go:36 pages\AutoPages\t_function_switch.go:73
+msgid "开关名字"
+msgstr "Đóng mở tên"
+
+#: pages\AutoPages\t_account_characters.go:41
+msgid "开启"
+msgstr "mở bí cảnh"
+
+#: pages\AutoPages\t_function_switch.go:37
+msgid "开启该功能的服务器"
+msgstr "Mở tính năng máy chủ này"
+
+#: pages\AutoPages\t_activation_code.go:60 pages\AutoPages\t_activation_code.go:92 pages\AutoPages\t_affiche.go:34
+#: pages\AutoPages\t_affiche.go:46 pages\AutoPages\t_notices.go:42 pages\AutoPages\t_notices.go:147
+msgid "开始时间"
+msgstr "thời gian bắt đầu"
+
+#: pages\AutoPages\t_game_servers.go:79
+msgid "开服时间"
+msgstr ""
+
+#: common\def\logDef.go:421
+msgid "弹窗"
+msgstr "Cửa sổ bật lên"
+
+#: common\def\logDef.go:226 common\def\logDef.go:266
+msgid "强化"
+msgstr "cường hóa"
+
+#: pages\CustomPages\serverInfo.go:110
+msgid "当前在线人数"
+msgstr "số người online hiện tại"
+
+#: pages\AutoPages\log_player_ertl.go:65
+msgid "当前艾尔特等级"
+msgstr "cấp Elt hiện tại"
+
+#: pages\AutoPages\log_player_ertl.go:66
+msgid "当前艾尔特阶级"
+msgstr "Giai đoạn Elt hiện tại"
+
+#: pages\CustomPages\dataTables.go:215
+msgid "当天充值玩家数"
+msgstr "phải chọn máy chủ"
+
+#: pages\CustomPages\dataTables.go:217
+msgid "当天总充值人次"
+msgstr ""
+
+#: common\def\complaintDef.go:64
+msgid "待处理"
+msgstr ""
+
+#: pages\AutoPages\log_character_chats.go:71 pages\AutoPages\log_character_onlines.go:75
+#: pages\AutoPages\log_player_amulet.go:88 pages\AutoPages\log_player_dungeons.go:77
+#: pages\AutoPages\log_player_equip.go:94 pages\AutoPages\log_player_ertl.go:81
+#: pages\AutoPages\log_player_exps.go:84 pages\AutoPages\log_player_items.go:99
+#: pages\AutoPages\log_player_levelups.go:63 pages\AutoPages\log_player_moneys.go:97
+#: pages\AutoPages\log_player_quests.go:106 pages\AutoPages\log_player_stone.go:88
+msgid "必须选择服务器与记录时间后方可查询"
+msgstr "Bạn phải chọn một máy chủ và ghi lại thời gian trước khi kiểm tra"
+
+#: pages\AutoPages\inst_player_char_brief.go:59
+msgid "必须选择服务器后方可查询"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:188
+msgid "怪物掉落"
+msgstr "quái rơi"
+
+#: pages\CustomPages\serverInfo.go:62
+msgid "总充值游戏内金额数"
+msgstr "Nạp tiền trong trò chơi"
+
+#: pages\CustomPages\dataTables.go:216
+msgid "总充值玩家数"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:58
+msgid "总注册账号数"
+msgstr "Tổng số tài khoản đã đăng ký"
+
+#: pages\serverInfo.go:66
+msgid "总流失人数"
+msgstr "Tổng số người bỏ"
+
+#: pages\serverInfo.go:59 pages\CustomPages\serverInfo.go:64
+msgid "总游戏内充值人数"
+msgstr "Tổng số người đã nạp tiền trong trò chơi"
+
+#: pages\CustomPages\serverInfo.go:65
+msgid "总网页充值人数"
+msgstr "Tổng số người nạp tiền vào trang web"
+
+#: pages\CustomPages\serverInfo.go:63
+msgid "总网页充值金额"
+msgstr "Tổng số tiền nạp tiền trên web"
+
+#: pages\CustomPages\dataTables.go:213
+msgid "总账号数"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:250
+msgid "恶名值忏悔"
+msgstr "giá trị ác danh"
+
+#: common\def\flowDef\logFlowType.go:251
+msgid "恶名值自首"
+msgstr "giá trị ác danh tự nhận"
+
+#: common\def\logDef.go:185
+msgid "恶魔广场"
+msgstr "quảng trường ác ma"
+
+#: common\def\flowDef\logFlowType.go:332
+msgid "恶魔广场获取的经验"
+msgstr "kinh nghiệm nhận được ở quảng trường ác ma"
+
+#: common\def\flowDef\logFlowType.go:270
+msgid "成就系统"
+msgstr "hệ thống thành tựu"
+
+#: pages\AutoPages\t_account_characters.go:45
+msgid "打开"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:321
+msgid "战场经验"
+msgstr "kinh nghiệm chiến trường"
+
+#: pages\serverInfo.go:155
+msgid "战盟人数统计"
+msgstr "thông kê số người guild"
+
+#: AutoPages\t_activation_code.go:56 AutoPages\t_activation_code.go:85 AutoPages\t_activation_code_use.go:31
+#: pages\AutoPages\t_activation_code.go:56 pages\AutoPages\t_activation_code.go:86
+#: pages\AutoPages\t_activation_code_use.go:31
+msgid "批号"
+msgstr "Nhiều mã"
+
+#: pages\AutoPages\t_activation_code.go:70
+msgid "批量"
+msgstr "Số lượng lớn"
+
+#: common\def\flowDef\logFlowType.go:209
+msgid "技能"
+msgstr "kỹ năng"
+
+#: pages\AutoPages\t_game_servers.go:82 pages\AutoPages\t_game_servers.go:84
+msgid "批量设置服务器标签"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:210
+msgid "技能学习"
+msgstr "kỹ năng học tập"
+
+#: pages\AutoPages\t_game_servers.go:98 pages\AutoPages\t_game_servers.go:100
+msgid "批量设置服务器状态"
+msgstr ""
+
+#: pages\AutoPages\complaint_management.go:70
+msgid "投诉建议管理"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:228
+msgid "护身符开孔"
+msgstr "hộ thân phù khai khổng"
+
+#: common\def\flowDef\logFlowType.go:229
+msgid "护身符强化"
+msgstr "cường hóa hộ thân phù"
+
+#: common\def\flowDef\logFlowType.go:230 common\def\flowDef\logFlowType.go:231
+msgid "护身符镶嵌宝石"
+msgstr "hộ thân phù khảm đá"
+
+#: common\def\flowDef\logFlowType.go:199
+msgid "拆分物品"
+msgstr "Tách phẩm"
+
+#: common\def\flowDef\logFlowType.go:242
+msgid "拍卖行.下架"
+msgstr "Cửa hàng đấu giá.xuống kệ"
+
+#: common\def\flowDef\logFlowType.go:246
+msgid "拍卖行.卖出"
+msgstr "Cửa hàng đấu giá.bán ra"
+
+#: common\def\flowDef\logFlowType.go:240
+msgid "拍卖行.拍卖"
+msgstr "Cửa hàng đấu giá.đấu giá"
+
+#: common\def\flowDef\logFlowType.go:241 common\def\flowDef\logFlowType.go:269
+msgid "拍卖行.拍卖.错误"
+msgstr "Cửa hàng đấu giá.đấu giá.lỗi"
+
+#: common\def\flowDef\logFlowType.go:243
+msgid "拍卖行.竞拍"
+msgstr "Cửa hàng đấu giá.đấu giá"
+
+#: common\def\flowDef\logFlowType.go:245
+msgid "拍卖行.竞拍.失败"
+msgstr "Cửa hàng đấu giá.đấu giá.thất bại"
+
+#: common\def\flowDef\logFlowType.go:244
+msgid "拍卖行.竞拍.错误"
+msgstr "Cửa hàng đấu giá.đấu giá.lỗi"
+
+#: common\def\flowDef\logFlowType.go:322
+msgid "挂机奖励"
+msgstr "phần thưởng ngẫu nhiên"
+
+#: common\def\questDef\questDef.go:42
+msgid "指引"
+msgstr ""
+
+#: pages\CustomPages\Email.go:45
+msgid "授权码"
+msgstr ""
+
+#: pages\AutoPages\rankList.go:46 pages\AutoPages\totalRankList.go:39
+msgid "排名"
+msgstr "Xếp hạng"
+
+#: pages\AutoPages\rankList.go:35
+msgid "排行榜类型"
+msgstr "Loại hình bảng xếp hạng"
+
+#: pages\CustomPages\mail.go:58
+msgid "排除的服务器"
+msgstr "máy chủ bị loại trừ"
+
+#: common\def\questDef\questDef.go:77
+msgid "接受"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:203
+msgid "接受任务"
+msgstr "nhận nhiệm vụ"
+
+#: pages\AutoPages\log_character_chats.go:57
+msgid "接收玩家"
+msgstr "người chơi chấp nhận"
+
+#: common\def\serverDef.go:36
+msgid "推荐"
+msgstr "tiến cử"
+
+#: common\def\questDef\questDef.go:81 pages\CustomPages\playerInfo.go:102 pages\CustomPages\serverInfo.go:84
+#: pages\CustomPages\serverInfo.go:388
+msgid "提交"
+msgstr "giao"
+
+#: common\def\flowDef\logFlowType.go:205
+msgid "提交任务"
+msgstr "giao nhiệm vụ"
+
+#: common\def\flowDef\logFlowType.go:237
+msgid "提交道具"
+msgstr "giao đạo cụ"
+
+#: common\def\logDef.go:195
+msgid "提炼之塔"
+msgstr "Tháp thí luyện"
+
+#: common\def\flowDef\logFlowType.go:264
+msgid "提炼宝石"
+msgstr "Đá thí luyện"
+
+#: common\def\flowDef\logFlowType.go:195
+msgid "摧毁物品"
+msgstr "Phá hủy vật phẩm"
+
+#: pages\CustomPages\playerInfo.go:139
+msgid "操作"
+msgstr ""
+
+#: pages\AutoPages\log_player_equip.go:83
+msgid "操作后等级"
+msgstr "Cấp sau thao tác"
+
+#: pages\AutoPages\t_game_servers.go:158 pages\CustomPages\playerInfo.go:241 pages\CustomPages\playerInfo.go:259
+#: pages\CustomPages\playerInfo.go:263
+msgid "操作失败"
+msgstr "thao tác thất bại"
+
+#: pages\CustomPages\mail.go:403
+msgid "操作失败！"
+msgstr ""
+
+#: pages\CustomPages\mail.go:400
+msgid "操作失败！该条已处理！"
+msgstr ""
+
+#: pages\AutoPages\t_game_servers.go:94 pages\AutoPages\t_game_servers.go:110
+msgid "操作失败，请联系管理员"
+msgstr ""
+
+#: pages\AutoPages\t_game_servers.go:94 pages\AutoPages\t_game_servers.go:110
+#: pages\AutoPages\t_game_servers.go:166 pages\CustomPages\Email.go:104 pages\CustomPages\index.go:113
+#: pages\CustomPages\mail.go:224 pages\CustomPages\mail.go:345 pages\CustomPages\playerInfo.go:269
+#: pages\CustomPages\serverInfo.go:498
+msgid "操作成功"
+msgstr "thao tác thành công"
+
+#: pages\AutoPages\log_player_exps.go:67 pages\AutoPages\log_player_item_add_error.go:80
+#: pages\AutoPages\log_player_items.go:78 pages\AutoPages\log_player_moneys.go:85
+msgid "操作来源"
+msgstr "Nguồn thao tác"
+
+#: pages\AutoPages\t_function_switch.go:44 pages\AutoPages\t_game_servers.go:124
+#: pages\AutoPages\t_game_servers.go:153 pages\AutoPages\t_game_servers.go:171 pages\AutoPages\t_notices.go:89
+#: pages\AutoPages\t_notices.go:117
+msgid "操作结果"
+msgstr "Kết quả thao tác"
+
+#: pages\AutoPages\complaint_management.go:68 pages\AutoPages\complaint_management.go:85
+msgid "操作者"
+msgstr ""
+
+#: pages\AutoPages\log_player_moneys.go:81
+msgid "支出"
+msgstr "Chi phí"
+
+#: common\def\questDef\questDef.go:40
+msgid "支线"
+msgstr ""
+
+#: pages\AutoPages\log_player_moneys.go:82
+msgid "收入"
+msgstr "thu nhập"
+
+#: pages\AutoPages\log_player_moneys.go:78
+msgid "收入/支出"
+msgstr "thu nhập/Chi phí"
+
+#: common\def\logDef.go:513
+msgid "攻击速度"
+msgstr ""
+
+#: common\def\logDef.go:197 common\def\flowDef\logFlowType.go:267
+msgid "攻城战"
+msgstr "Công thành chiến"
+
+#: pages\CustomPages\serverInfo.go:414 pages\CustomPages\serverInfo.go:424
+msgid "数据库"
+msgstr "Kho dữ liệu"
+
+#: pages\CustomPages\serverInfo.go:419 pages\CustomPages\serverInfo.go:429
+msgid "数据库名"
+msgstr "kho dữ liệu tên"
+
+#: pages\CustomPages\serverInfo.go:903
+msgid "数据明细"
+msgstr "Số liệu chi tiết"
+
+#: pages\CustomPages\serverInfo.go:114
+msgid "整点在线人数"
+msgstr "Số người online trong 1 giờ"
+
+#: common\def\flowDef\logFlowType.go:197
+msgid "整理物品"
+msgstr "chỉnh lý vật phẩm"
+
+#: pages\CustomPages\dataTables.go:214
+msgid "新增充值玩家"
+msgstr ""
+
+#: mgr\pageMgr\serverMgr.go:457 pages\CustomPages\serverInfo.go:538
+msgid "新增玩家"
+msgstr "Người chơi mới"
+
+#: pages\CustomPages\dataTables.go:212
+msgid "新增账号数"
+msgstr ""
+
+#: common\def\serverDef.go:35
+msgid "新服"
+msgstr "sever mới"
+
+#: pages\AutoPages\player_active_count.go:44
+msgid "新注册用户活跃率"
+msgstr ""
+
+#: common\def\logDef.go:146
+msgid "新道具"
+msgstr "đạo cụ mới"
+
+#: fusion\Tools.go:673
+msgid "无"
+msgstr "Không"
+
+#: pages\CustomPages\mail.go:63
+msgid "无限制"
+msgstr ""
+
+#: common\def\questDef\questDef.go:41
+msgid "日常"
+msgstr ""
+
+#: pages\AutoPages\rankList.go:55 pages\CustomPages\dataTables.go:119 pages\CustomPages\serverInfo.go:97
+#: pages\CustomPages\serverInfo.go:534 pages\CustomPages\serverInfo.go:750
+msgid "日期"
+msgstr "ngày tháng"
+
+#: common\def\flowDef\logFlowType.go:296
+msgid "时装购买"
+msgstr "mua thời trang"
+
+#: pages\AutoPages\player_active_count.go:42
+msgid "日活跃用户A"
+msgstr ""
+
+#: pages\serverInfo.go:70
+msgid "昨日充值分布"
+msgstr "phân bố nạp hôm qua"
+
+#: pages\AutoPages\player_active_count.go:43
+msgid "日活跃用户B"
+msgstr ""
+
+#: pages\AutoPages\player_active_count.go:49
+msgid "日登录人次"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:68
+msgid "昨日总充值人数"
+msgstr "số người nạp hôm qua"
+
+#: pages\CustomPages\serverInfo.go:69
+msgid "昨日总充值金额"
+msgstr "tổng giá trị nạp hôm qua"
+
+#: pages\serverInfo.go:78
+msgid "昨日最大在线人数"
+msgstr "Số người online nhiều nhất hôm qua"
+
+#: pages\serverInfo.go:79
+msgid "昨日最小在线人数"
+msgstr "Số người online ít nhất hôm qua"
+
+#: AutoPages\t_notices.go:62 AutoPages\t_notices.go:66 AutoPages\t_notices.go:169 mgr\pageMgr\playerMgr.go:51
+#: pages\AutoPages\t_notices.go:62 pages\AutoPages\t_notices.go:66 pages\AutoPages\t_notices.go:163
+msgid "是"
+msgstr "xác nhận"
+
+#: mgr\pageMgr\playerMgr.go:47
+msgid "是/否绑定"
+msgstr "xác nhận/hủy bỏ khóa"
+
+#: pages\AutoPages\t_account_characters.go:38
+msgid "是否启用GM命令"
+msgstr ""
+
+#: pages\AutoPages\log_player_item_add_error.go:89
+msgid "是否处理"
+msgstr ""
+
+#: pages\AutoPages\t_notices.go:58 pages\AutoPages\t_notices.go:162
+msgid "是否循环"
+msgstr "chắc chắn tuần hoàn"
+
+#: pages\AutoPages\t_affiche.go:36 pages\AutoPages\t_affiche.go:48
+msgid "是否激活"
+msgstr ""
+
+#: common\def\itemdef.go:30 common\def\serverDef.go:26 pages\CustomPages\mail.go:74
+msgid "普通"
+msgstr "phổ thông"
+
+#: pages\AutoPages\global_cfg_check.go:78 pages\AutoPages\global_cfg_check.go:177 pages\AutoPages\t_affiche.go:33
+#: pages\AutoPages\t_affiche.go:45 pages\AutoPages\t_function_switch.go:39
+msgid "更新时间"
+msgstr "thời gian Update"
+
+#: pages\CustomPages\serverInfo.go:503
+msgid "更新服务器数据库配置"
+msgstr "Cập nhật cấu hình cơ sở dữ liệu máy chủ"
+
+#: pages\CustomPages\Email.go:119
+msgid "更新邮件发送配置"
+msgstr ""
+
+#: pages\CustomPages\index.go:128
+msgid "更新配置"
+msgstr "Update cấu hình"
+
+#: pages\CustomPages\playerInfo.go:46
+msgid "最后登录时间"
+msgstr "lần đăng nhập cuối cùng"
+
+#: pages\CustomPages\playerInfo.go:49
+msgid "最近充值时间"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:54
+msgid "最近登录IP"
+msgstr ""
+
+#: mgr\timerMgr.go:837
+msgid "有"
+msgstr ""
+
+#: common\def\itemdef.go:31
+msgid "有期限"
+msgstr "có thời hạn"
+
+#: pages\CustomPages\serverInfo.go:526
+msgid "服务器"
+msgstr "Sever"
+
+#: pages\AutoPages\complaint_management.go:52 pages\AutoPages\complaint_management.go:78
+#: pages\AutoPages\inst_player_char_brief.go:35 pages\AutoPages\log_character_chats.go:41
+#: pages\AutoPages\log_character_onlines.go:39 pages\AutoPages\log_player_amulet.go:42
+#: pages\AutoPages\log_player_dungeons.go:40 pages\AutoPages\log_player_equip.go:40
+#: pages\AutoPages\log_player_ertl.go:40 pages\AutoPages\log_player_exps.go:45
+#: pages\AutoPages\log_player_item_add_error.go:49 pages\AutoPages\log_player_items.go:45
+#: pages\AutoPages\log_player_levelups.go:39 pages\AutoPages\log_player_moneys.go:45
+#: pages\AutoPages\log_player_quests.go:49 pages\AutoPages\log_player_stone.go:41
+#: pages\AutoPages\player_active_count.go:33 pages\AutoPages\rankList.go:42
+#: pages\AutoPages\suspicious_data_record.go:43 pages\AutoPages\t_game_servers.go:90
+#: pages\AutoPages\t_game_servers.go:106 pages\AutoPages\totalRankList.go:35 pages\CustomPages\dataTables.go:40
+#: pages\CustomPages\dataTables.go:116 pages\CustomPages\dataTables.go:205 pages\CustomPages\mail.go:68
+#: pages\CustomPages\playerInfo.go:34 pages\CustomPages\playerInfo.go:109 pages\CustomPages\serverInfo.go:90
+#: pages\CustomPages\serverInfo.go:411 pages\CustomPages\serverInfo.go:746 pages\CustomPages\serverInfo.go:894
+msgid "服务器ID"
+msgstr "ID sever"
+
+#: pages\AutoPages\t_account_characters.go:33 pages\CustomPages\mail.go:274
+msgid "服务器Id"
+msgstr ""
+
+#: pages\AutoPages\log_character_chats.go:39 pages\AutoPages\log_character_onlines.go:37
+#: pages\AutoPages\log_player_amulet.go:40 pages\AutoPages\log_player_dungeons.go:38
+#: pages\AutoPages\log_player_equip.go:38 pages\AutoPages\log_player_ertl.go:38
+#: pages\AutoPages\log_player_exps.go:43 pages\AutoPages\log_player_item_add_error.go:47
+#: pages\AutoPages\log_player_items.go:43 pages\AutoPages\log_player_levelups.go:37
+#: pages\AutoPages\log_player_moneys.go:43 pages\AutoPages\log_player_quests.go:47
+#: pages\AutoPages\log_player_stone.go:39 pages\AutoPages\t_game_servers.go:59 pages\CustomPages\serverInfo.go:412
+msgid "服务器名"
+msgstr "tên sever"
+
+#: pages\AutoPages\t_game_servers.go:70 pages\AutoPages\t_game_servers.go:92 pages\CustomPages\serverInfo.go:56
+msgid "服务器标签"
+msgstr "nhãn hiệu sever"
+
+#: pages\CustomPages\serverInfo.go:57
+msgid "服务器状态"
+msgstr "trạng thái sever"
+
+#: pages\CustomPages\serverInfo.go:502
+msgid "服务器管理"
+msgstr "quản lý sever"
+
+#: pages\AutoPages\t_game_servers.go:114
+msgid "服务器详情"
+msgstr "Mô tả sever"
+
+#: pages\AutoPages\log_player_item_add_error.go:71 pages\CustomPages\mail.go:289
+msgid "未成功添加的道具"
+msgstr ""
+
+#: pages\AutoPages\log_player_item_add_error.go:90
+msgid "未成功添加道具日志"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:191
+msgid "杀怪"
+msgstr "Giết quái"
+
+#: mgr\timerMgr.go:837
+msgid "条监测信息待处理!"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:735 pages\CustomPages\serverInfo.go:739
+msgid "查找"
+msgstr "Tìm kiếm"
+
+#: pages\AutoPages\inst_player_char_brief.go:58
+msgid "查找玩家"
+msgstr "tìm người chơi"
+
+#: common\def\logDef.go:418
+msgid "格式化两次"
+msgstr "định dạng hai lần"
+
+#: pages\CustomPages\playerInfo.go:118
+msgid "模拟充值"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:134
+msgid "模拟充值类型"
+msgstr "Loại hình nạp"
+
+#: pages\AutoPages\log_player_exps.go:66 pages\CustomPages\serverInfo.go:185 pages\CustomPages\serverInfo.go:335
+msgid "次数"
+msgstr "số lần"
+
+#: mgr\pageMgr\serverMgr.go:466 pages\CustomPages\serverInfo.go:573
+msgid "次日留存"
+msgstr "số lần online trong 1 ngày"
+
+#: mgr\pageMgr\serverMgr.go:470 pages\CustomPages\serverInfo.go:579
+msgid "次日留存(%)"
+msgstr "số lần online trong 1 ngày(%)"
+
+#: common\def\flowDef\logFlowType.go:193
+msgid "死亡惩罚"
+msgstr "trùng phạt chết"
+
+#: common\def\logDef.go:188 common\def\questDef\questDef.go:60
+msgid "每日任务"
+msgstr "nhiệm vụ hàng ngày"
+
+#: common\def\logDef.go:191 common\def\questDef\questDef.go:61
+msgid "每日活跃"
+msgstr "điểm năng động hàng ngày"
+
+#: common\def\flowDef\logFlowType.go:298
+msgid "江湖大盗"
+msgstr "Giang hồ đại đạo"
+
+#: common\def\questDef\questDef.go:64
+msgid "江湖大盗任务"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:319
+msgid "江湖威望排行奖励"
+msgstr "phần thưởng xếp hạng Giang hồ đại đạo"
+
+#: common\def\questDef\questDef.go:45
+msgid "活动副本"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:211
+msgid "活动奖励"
+msgstr "phần thưởng hoạt động"
+
+#: common\def\flowDef\logFlowType.go:213
+msgid "活动扫荡"
+msgstr "hoạt động càn quét"
+
+#: common\def\flowDef\logFlowType.go:339 common\def\flowDef\logFlowType.go:270
+msgid "活动消耗"
+msgstr "hạt động tiêu hao"
+
+#: common\def\flowDef\logFlowType.go:216 common\def\flowDef\logFlowType.go:311
+msgid "活动管家"
+msgstr "quản gia"
+
+#: common\def\questDef\questDef.go:44
+msgid "活跃"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:212
+msgid "活跃度奖励"
+msgstr "phần thưởng điểm năng động"
+
+#: mgr\pageMgr\serverMgr.go:458 pages\serverInfo.go:531 pages\CustomPages\serverInfo.go:540
+msgid "活跃玩家"
+msgstr "Điểm năng động người chơi"
+
+#: pages\CustomPages\serverInfo.go:295
+msgid "流失统计"
+msgstr "thống kê bỏ lỡ"
+
+#: common\def\flowDef\logFlowType.go:260
+msgid "消耗宠物智力转换器获得魔力之石"
+msgstr "Tiêu hao trí lực sủng vật nhận đá ma thuật"
+
+#: common\def\flowDef\logFlowType.go:331
+msgid "消耗钻石获得VIP经验"
+msgstr "Tiêu hao kim cường nhận kinh nghiệm VIP"
+
+#: AutoPages\t_notices.go:171 pages\AutoPages\t_notices.go:165
+msgid "添加广播"
+msgstr "thêm trình phát"
+
+#: common\def\logDef.go:148
+msgid "添加道具"
+msgstr "Thêm đạo cụ"
+
+#: pages\AutoPages\t_game_servers.go:170
+msgid "清理数据库"
+msgstr ""
+
+#: common\def\complaintDef.go:58
+msgid "游戏内提交"
+msgstr ""
+
+#: common\def\serverDef.go:33
+msgid "火爆"
+msgstr "Hỏa bạo"
+
+#: common\def\flowDef\logFlowType.go:208
+msgid "熔炼"
+msgstr "dung luyện"
+
+#: common\def\serverDef.go:34
+msgid "爆满"
+msgstr "bạo mãn"
+
+#: common\def\flowDef\logFlowType.go:206
+msgid "物品到期"
+msgstr "vật phẩm đến hạn"
+
+#: common\def\logDef.go:387
+msgid "特殊提示"
+msgstr "thông báo đặc thù"
+
+#: pages\AutoPages\complaint_management.go:61 pages\AutoPages\complaint_management.go:83
+msgid "状态"
+msgstr ""
+
+#: common\def\logDef.go:192
+msgid "狼魂要塞"
+msgstr "Pháo đài sói"
+
+#: pages\AutoPages\inst_player_char_brief.go:38 pages\AutoPages\t_activation_code_use.go:30
+#: pages\CustomPages\playerInfo.go:35
+msgid "玩家ID"
+msgstr "ID người chơi"
+
+#: pages\CustomPages\playerInfo.go:58 pages\CustomPages\playerInfo.go:160
+msgid "玩家信息"
+msgstr "thông tin người chơi"
+
+#: pages\CustomPages\serverInfo.go:329
+msgid "玩家信息统计"
+msgstr "thông kê thông tin người chơi"
+
+#: pages\CustomPages\serverInfo.go:155
+msgid "玩家在线总时长"
+msgstr "Tổng thời gian người chơi online"
+
+#: pages\CustomPages\serverInfo.go:169
+msgid "玩家家族分布"
+msgstr "Phân bố phe người chơi"
+
+#: common\def\flowDef\logFlowType.go:204
+msgid "玩家改名"
+msgstr "Đổi tên người chơi"
+
+#: pages\playerInfo.go:64 pages\AutoPages\inst_player_char_brief.go:40 pages\CustomPages\mail.go:70
+#: pages\CustomPages\mail.go:272 pages\CustomPages\playerInfo.go:37
+msgid "玩家昵称"
+msgstr "Tên người chơi"
+
+#: pages\AutoPages\inst_player_char_brief.go:42 pages\CustomPages\playerInfo.go:38
+msgid "玩家等级"
+msgstr "Cấp người chơi"
+
+#: pages\CustomPages\serverInfo.go:159
+msgid "玩家等级分布"
+msgstr "Phân bố cấp người chơi"
+
+#: pages\AutoPages\inst_player_char_brief.go:62 pages\AutoPages\suspicious_data_record.go:97
+#: pages\CustomPages\playerInfo.go:157
+msgid "玩家详情"
+msgstr "Thông tin người chơi"
+
+#: common\def\flowDef\logFlowType.go:190
+msgid "玩法"
+msgstr "Cách chơi"
+
+#: pages\AutoPages\t_activation_code.go:77
+msgid "生成数量"
+msgstr "Số lượng sinh thành"
+
+#: pages\AutoPages\t_activation_code.go:68
+msgid "生成方式"
+msgstr "Cách thức sinh thành"
+
+#: common\def\logDef.go:190 common\def\flowDef\logFlowType.go:258
+msgid "生魂广场"
+msgstr "Quảng trường sinh hồn"
+
+#: pages\CustomPages\Email.go:44
+msgid "用于发送紧急邮件的邮箱"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:417 pages\CustomPages\serverInfo.go:427
+msgid "用户名"
+msgstr "Tên người dùng"
+
+#: pages\AutoPages\player_active_count.go:53
+msgid "用户日活跃"
+msgstr ""
+
+#: pages\CustomPages\Email.go:75
+msgid "电子邮件配置"
+msgstr ""
+
+#: common\def\logDef.go:456 pages\AutoPages\log_character_onlines.go:74
+msgid "登录日志表格"
+msgstr "Bảng nhật ký đăng nhập"
+
+#: pages\AutoPages\log_character_onlines.go:70
+msgid "登录时间"
+msgstr "Thời gian đăng nhập"
+
+#: pages\mail.go:30
+msgid "确定"
+msgstr "xác nhận"
+
+#: pages\AutoPages\t_ip_rules.go:37 pages\AutoPages\t_ip_rules.go:46
+msgid "白名单"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:39 pages\AutoPages\t_activation_code.go:78
+msgid "礼包码"
+msgstr "Mã lễ bao"
+
+#: pages\AutoPages\t_activation_code_use.go:36
+msgid "礼包码使用记录"
+msgstr "Mã lễ bao sử dụng"
+
+#: pages\AutoPages\t_activation_code.go:79
+msgid "礼包码必须为8位，请尽量使用大写字母和数字，尽量避免使用'I','1','l','O','0'等不易区分的字符。"
+msgstr "Mã lễ bao phải có 8 chữ số, vui lòng sử dụng chữ in hoa và số,tránh sử dụng 'I', '1', 'l', 'O', '0', v.v."
+
+#: pages\AutoPages\t_activation_code.go:64 pages\AutoPages\t_activation_code.go:103
+msgid "礼包码管理"
+msgstr "Quản lý mã lễ bao"
+
+#: pages\AutoPages\t_activation_code.go:42 pages\AutoPages\t_activation_code.go:81
+msgid "礼包码类型"
+msgstr "Loại hình mã lễ bao"
+
+#: pages\AutoPages\t_activation_code.go:90
+msgid "礼物掉落ID对应掉落表中的掉落ID"
+msgstr "ID vật phẩm rơi tương ứng với ID rơi trong bảng rơi"
+
+#: pages\AutoPages\t_activation_code.go:59 pages\AutoPages\t_activation_code.go:89
+msgid "礼物掉落Id"
+msgstr "ID vật phẩm rơi"
+
+#: common\def\flowDef\logFlowType.go:218
+msgid "祈祷"
+msgstr "Chúc phúc"
+
+#: pages\mail.go:120 pages\CustomPages\mail.go:88
+msgid "票据"
+msgstr "Vé"
+
+#: pages\AutoPages\global_cfg_check.go:87 pages\AutoPages\global_cfg_check.go:101 pages\CustomPages\mail.go:89
+#: pages\CustomPages\mail.go:299
+msgid "票据ID"
+msgstr "ID vé"
+
+#: pages\AutoPages\global_cfg_check.go:134 pages\AutoPages\global_cfg_check.go:152
+msgid "票据Id"
+msgstr ""
+
+#: pages\AutoPages\global_cfg_check.go:88 pages\AutoPages\global_cfg_check.go:102 pages\CustomPages\mail.go:90
+#: pages\CustomPages\mail.go:300
+msgid "票据数量"
+msgstr "số vé"
+
+#: common\def\logDef.go:492 pages\AutoPages\global_cfg_check.go:86 pages\AutoPages\global_cfg_check.go:137
+msgid "票据获取总上限"
+msgstr ""
+
+#: common\def\logDef.go:494 pages\AutoPages\global_cfg_check.go:100 pages\AutoPages\global_cfg_check.go:155
+msgid "票据获取日上限"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:116
+msgid "禁言"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:132
+msgid "禁言时间"
+msgstr "thời gian cấm"
+
+#: common\def\logDef.go:377
+msgid "私聊"
+msgstr "chat riêng"
+
+#: pages\AutoPages\t_notices.go:44 pages\AutoPages\t_notices.go:149
+msgid "秒"
+msgstr "giây"
+
+#: common\def\logDef.go:514
+msgid "移动速度"
+msgstr ""
+
+#: common\def\logDef.go:227 common\def\logDef.go:306
+msgid "移除"
+msgstr "loại bỏ"
+
+#: pages\CustomPages\playerInfo.go:115
+msgid "移除玩家道具"
+msgstr "xóa đạo cụ của người chơi"
+
+#: common\def\logDef.go:147
+msgid "移除道具"
+msgstr "xóa đạo cụ"
+
+#: common\def\flowDef\logFlowType.go:247
+msgid "竞技场挑战"
+msgstr "khiêu chiến cảnh kỹ trường"
+
+#: common\def\flowDef\logFlowType.go:249
+msgid "竞技场每周奖励"
+msgstr "phần thưởng tuần cảnh kỹ trường"
+
+#: common\def\flowDef\logFlowType.go:248
+msgid "竞技场每天奖励"
+msgstr "phần thưởng ngày cảnh kỹ trường"
+
+#: pages\serverInfo.go:418 pages\serverInfo.go:428 pages\CustomPages\serverInfo.go:416
+#: pages\CustomPages\serverInfo.go:426
+msgid "端口"
+msgstr "Cảng"
+
+#: pages\AutoPages\rankList.go:37
+msgid "等级排行"
+msgstr "Xếp hạng cấp"
+
+#: pages\CustomPages\serverInfo.go:131
+msgid "等级疑似流失"
+msgstr "Thọt cấp"
+
+#: common\def\flowDef\logFlowType.go:267 common\def\flowDef\logFlowType.go:268
+msgid "签到奖励"
+msgstr "phần thưởng ký danh"
+
+#: pages\AutoPages\global_cfg_check.go:43 pages\AutoPages\global_cfg_check.go:112
+msgid "类型"
+msgstr ""
+
+#: common\def\managerDef.go:221
+msgid "类型处理错误"
+msgstr "loại xử lý lỗi"
+
+#: common\def\itemdef.go:40
+msgid "精灵"
+msgstr "tinh linh"
+
+#: common\def\logDef.go:384 pages\CustomPages\mail.go:75
+msgid "系统"
+msgstr "hệ thống"
+
+#: common\def\logDef.go:461 pages\AutoPages\log_player_exps.go:83
+msgid "经验获取日志"
+msgstr "tích lũy kinh nghiệm"
+
+#: common\def\currencyDef\currencyDef.go:30
+msgid "绑定金币"
+msgstr "kim tệ khóa"
+
+#: common\def\currencyDef\currencyDef.go:32
+msgid "绑定钻石"
+msgstr "kim cương khóa"
+
+#: pages\CustomPages\playerInfo.go:78
+msgid "绑钻数量"
+msgstr "Số lượng kim tệ khóa"
+
+#: common\def\questDef\questDef.go:78
+msgid "结束"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:61 pages\AutoPages\t_activation_code.go:94 pages\AutoPages\t_affiche.go:35
+#: pages\AutoPages\t_affiche.go:47 pages\AutoPages\t_notices.go:43 pages\AutoPages\t_notices.go:148
+msgid "结束时间"
+msgstr "thời gian kết thúc"
+
+#: common\def\flowDef\logFlowType.go:266
+msgid "绝学技能升级"
+msgstr "Tăng cấp kỹ năng tuyệt học"
+
+#: common\def\serverDef.go:27
+msgid "维护"
+msgstr "duy trì"
+
+#: pages\CustomPages\serverInfo.go:455
+msgid "编辑服务器数据库配置"
+msgstr "Chỉnh sửa cấu hình cơ sở dữ liệu máy chủ"
+
+#: pages\CustomPages\serverInfo.go:94
+msgid "网页"
+msgstr "Trang web"
+
+#: pages\AutoPages\rankList.go:39
+msgid "网页充值排行"
+msgstr "Xếp hạng nạp tiền trang web"
+
+#: common\def\itemdef.go:37
+msgid "翅膀"
+msgstr "Cánh"
+
+#: common\def\flowDef\logFlowType.go:232
+msgid "翅膀合成"
+msgstr "Hợp thành cánh"
+
+#: common\def\flowDef\logFlowType.go:233
+msgid "翅膀强化"
+msgstr "Cường hóa cánh"
+
+#: common\def\flowDef\logFlowType.go:234
+msgid "翅膀追加"
+msgstr "Bổ sung cánh"
+
+#: common\def\flowDef\logFlowType.go:235
+msgid "翅膀追加元素之魂"
+msgstr "bổ sung nguyên tố quỷ cánh"
+
+#: common\def\flowDef\logFlowType.go:236
+msgid "翅膀追加元素之魂升级"
+msgstr "tăng cấp bổ sung nguyên tố quỷ cánh"
+
+#: common\def\logDef.go:455 pages\AutoPages\log_character_chats.go:70
+msgid "聊天日志"
+msgstr "Nhật ký trò chuyện"
+
+#: common\def\flowDef\logFlowType.go:303
+msgid "聚义厅奖励"
+msgstr "Phần thưởng sảnh tụ nghĩa"
+
+#: common\def\flowDef\logFlowType.go:302
+msgid "聚义厅摇色子"
+msgstr "xúc xắc sảnh tụ nghĩa"
+
+#: AutoPages\log_player_equip.go:77 pages\AutoPages\log_player_equip.go:77
+msgid "背包修理"
+msgstr "CDọn dẹp túi đồ"
+
+#: common\def\flowDef\logFlowType.go:183
+msgid "脚本"
+msgstr "cước bản"
+
+#: common\def\flowDef\logFlowType.go:259
+msgid "自动战斗"
+msgstr "auto"
+
+#: common\def\itemdef.go:35
+msgid "艾尔特"
+msgstr "Elt"
+
+#: common\def\flowDef\logFlowType.go:226
+msgid "艾尔特分解"
+msgstr "Phân giải Elt"
+
+#: common\def\flowDef\logFlowType.go:225
+msgid "艾尔特升级"
+msgstr "Tăng cấp Elt"
+
+#: common\def\flowDef\logFlowType.go:224
+msgid "艾尔特升阶"
+msgstr "tiến giai Elt"
+
+#: pages\AutoPages\log_player_amulet.go:81
+msgid "艾尔特属性"
+msgstr "thuộc tính Elt"
+
+#: pages\AutoPages\log_player_ertl.go:75
+msgid "艾尔特属性变更"
+msgstr "thay đổi thuộc tính Elt"
+
+#: common\def\logDef.go:460 pages\AutoPages\log_player_ertl.go:80
+msgid "艾尔特日志"
+msgstr "Nhật ký Elt"
+
+#: pages\AutoPages\log_player_amulet.go:73 pages\AutoPages\log_player_ertl.go:67
+msgid "艾尔特类型ID"
+msgstr "ID loại Elt"
+
+#: common\def\flowDef\logFlowType.go:219
+msgid "荧之石抽取"
+msgstr "Nhận huỳnh thạch"
+
+#: common\def\logDef.go:466 pages\AutoPages\log_player_stone.go:87
+msgid "荧之石日志"
+msgstr "Nhật ký huỳnh thạch"
+
+#: common\def\flowDef\logFlowType.go:220
+msgid "荧光宝石合成"
+msgstr "Hợp thành huỳnh quang bảo thạch"
+
+#: common\def\flowDef\logFlowType.go:221
+msgid "荧光宝石强化"
+msgstr "cường hóa huỳnh quang bảo thạch"
+
+#: pages\AutoPages\log_player_exps.go:64
+msgid "获取经验"
+msgstr "Kinh nghiệm nhaajnn được"
+
+#: common\def\flowDef\logFlowType.go:288
+msgid "藏宝洞树"
+msgstr "Cây tàng bảo động"
+
+#: common\def\questDef\questDef.go:63
+msgid "藏宝图任务"
+msgstr ""
+
+#: common\def\logDef.go:186 common\def\flowDef\logFlowType.go:255
+msgid "血色城堡"
+msgstr "Huyết lâu"
+
+#: common\def\itemdef.go:34
+msgid "装备"
+msgstr "Trang bị"
+
+#: common\def\flowDef\logFlowType.go:212
+msgid "装备再生"
+msgstr "tái sinh trang bị"
+
+#: common\def\flowDef\logFlowType.go:211
+msgid "装备强化"
+msgstr "cường hóa trang bị"
+
+#: common\def\logDef.go:459 pages\AutoPages\log_player_equip.go:93
+msgid "装备日志"
+msgstr "Nhật ký trang bị"
+
+#: common\def\flowDef\logFlowType.go:201
+msgid "装备物品"
+msgstr "Vật phẩm trang bị"
+
+#: common\def\flowDef\logFlowType.go:217
+msgid "装备移除宝石"
+msgstr "Bảo thạch xóa bỏ trang bị"
+
+#: common\def\flowDef\logFlowType.go:214
+msgid "装备还原"
+msgstr "Trang bị gốc"
+
+#: common\def\flowDef\logFlowType.go:213
+msgid "装备进化"
+msgstr "Tiến hóa trang bị"
+
+#: common\def\flowDef\logFlowType.go:215
+msgid "装备追加"
+msgstr "Bổ sung trang bị"
+
+#: common\def\flowDef\logFlowType.go:216
+msgid "装备镶嵌宝石"
+msgstr "Khản đá trang bị"
+
+#: pages\AutoPages\complaint_management.go:80 pages\AutoPages\exportForm.go:43
+#: pages\AutoPages\log_character_chats.go:47 pages\AutoPages\log_character_onlines.go:45
+#: pages\AutoPages\log_player_amulet.go:48 pages\AutoPages\log_player_dungeons.go:46
+#: pages\AutoPages\log_player_equip.go:46 pages\AutoPages\log_player_ertl.go:46
+#: pages\AutoPages\log_player_exps.go:52 pages\AutoPages\log_player_item_add_error.go:62
+#: pages\AutoPages\log_player_items.go:52 pages\AutoPages\log_player_levelups.go:46
+#: pages\AutoPages\log_player_moneys.go:52 pages\AutoPages\log_player_quests.go:55
+#: pages\AutoPages\log_player_stone.go:47 pages\AutoPages\rankList.go:47
+#: pages\AutoPages\suspicious_data_record.go:52 pages\AutoPages\t_account_characters.go:36
+#: pages\AutoPages\totalRankList.go:40 pages\CustomPages\playerInfo.go:108
+msgid "角色ID"
+msgstr "ID nhân vật"
+
+#: pages\AutoPages\complaint_management.go:58 pages\CustomPages\mail.go:270
+msgid "角色Id"
+msgstr ""
+
+#: pages\AutoPages\complaint_management.go:57 pages\AutoPages\complaint_management.go:79
+#: pages\AutoPages\exportForm.go:45 pages\AutoPages\log_character_chats.go:48
+#: pages\AutoPages\log_character_onlines.go:46 pages\AutoPages\rankList.go:48
+#: pages\AutoPages\suspicious_data_record.go:53 pages\AutoPages\totalRankList.go:41
+msgid "角色名"
+msgstr "tên nhân vật"
+
+#: pages\AutoPages\t_account_characters.go:37
+msgid "角色名字"
+msgstr ""
+
+#: pages\AutoPages\log_player_amulet.go:49 pages\AutoPages\log_player_dungeons.go:47
+#: pages\AutoPages\log_player_equip.go:47 pages\AutoPages\log_player_ertl.go:47
+#: pages\AutoPages\log_player_exps.go:53 pages\AutoPages\log_player_item_add_error.go:63
+#: pages\AutoPages\log_player_items.go:53 pages\AutoPages\log_player_levelups.go:47
+#: pages\AutoPages\log_player_moneys.go:53 pages\AutoPages\log_player_quests.go:56
+#: pages\AutoPages\log_player_stone.go:48
+msgid "角色昵称"
+msgstr "Biệt danh nhân vật"
+
+#: pages\AutoPages\log_character_onlines.go:48 pages\AutoPages\log_player_amulet.go:51
+#: pages\AutoPages\log_player_dungeons.go:49 pages\AutoPages\log_player_equip.go:49
+#: pages\AutoPages\log_player_ertl.go:49 pages\AutoPages\log_player_exps.go:55
+#: pages\AutoPages\log_player_item_add_error.go:64 pages\AutoPages\log_player_items.go:55
+#: pages\AutoPages\log_player_levelups.go:49 pages\AutoPages\log_player_moneys.go:55
+#: pages\AutoPages\log_player_quests.go:58 pages\AutoPages\log_player_stone.go:50 pages\AutoPages\rankList.go:51
+msgid "角色等级"
+msgstr ""
+
+#: pages\AutoPages\complaint_management.go:59 pages\AutoPages\complaint_management.go:81
+#: pages\AutoPages\exportForm.go:48 pages\AutoPages\log_character_chats.go:61
+#: pages\AutoPages\log_player_amulet.go:83 pages\AutoPages\log_player_dungeons.go:72
+#: pages\AutoPages\log_player_ertl.go:76 pages\AutoPages\log_player_exps.go:79
+#: pages\AutoPages\log_player_item_add_error.go:87 pages\AutoPages\log_player_levelups.go:58
+#: pages\AutoPages\log_player_moneys.go:93 pages\AutoPages\log_player_quests.go:101
+#: pages\AutoPages\log_player_stone.go:83 pages\AutoPages\player_active_count.go:50
+#: pages\AutoPages\suspicious_data_record.go:88 pages\CustomPages\dataTables.go:218 pages\CustomPages\mail.go:283
+#: pages\CustomPages\serverInfo.go:895
+msgid "记录时间"
+msgstr "lịch sử thời gian"
+
+#: pages\AutoPages\log_player_amulet.go:60 pages\AutoPages\log_player_equip.go:58
+#: pages\AutoPages\log_player_ertl.go:58 pages\AutoPages\log_player_items.go:87
+#: pages\AutoPages\log_player_stone.go:59 pages\AutoPages\suspicious_data_record.go:54
+msgid "记录类型"
+msgstr "loại hình"
+
+#: common\def\complaintDef.go:56
+msgid "论坛"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:309
+msgid "设备信息"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:306
+msgid "设备类型"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:113 pages\CustomPages\playerInfo.go:127
+msgid "设置等级"
+msgstr "thiết lập"
+
+#: pages\mail.go:36
+msgid "请先选择服务器"
+msgstr "hãy chọn máy chủ"
+
+#: pages\AutoPages\t_account_characters.go:49
+msgid "设置角色白名单"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:114
+msgid "设置货币"
+msgstr ""
+
+#: pages\CustomPages\mail.go:184
+msgid "请填写正确的玩家id"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:219 pages\CustomPages\playerInfo.go:229 pages\CustomPages\playerInfo.go:254
+msgid "请检查输入 "
+msgstr "Vui lòng kiểm tra giá trị nhập "
+
+#: pages\CustomPages\playerInfo.go:191
+msgid "请输入正确的值 "
+msgstr "Vui lòng xác nhận giá trị nhập "
+
+#: pages\CustomPages\playerInfo.go:201 pages\CustomPages\playerInfo.go:209 pages\CustomPages\playerInfo.go:273
+msgid "请输入正确的数量 "
+msgstr "Vui lòng nhập giá trị chính xác "
+
+#: pages\AutoPages\t_game_servers.go:147 pages\AutoPages\t_game_servers.go:253
+msgid "请选择服务器"
+msgstr "Hãy chọn máy chủ"
+
+#: pages\AutoPages\t_function_switch.go:65 pages\AutoPages\t_notices.go:111 pages\AutoPages\t_notices.go:139
+msgid "请选择条目"
+msgstr "Hãy chọn mục"
+
+#: pages\AutoPages\exportForm.go:33
+msgid "请选择要导出的表"
+msgstr "Vui lòng chọn một bảng để xuất"
+
+#: pages\AutoPages\log_character_onlines.go:44 pages\AutoPages\log_player_levelups.go:45
+msgid "账号"
+msgstr "tài khoản"
+
+#: pages\AutoPages\exportForm.go:41 pages\AutoPages\inst_player_char_brief.go:39
+#: pages\AutoPages\log_character_chats.go:46 pages\AutoPages\log_player_amulet.go:47
+#: pages\AutoPages\log_player_dungeons.go:45 pages\AutoPages\log_player_equip.go:45
+#: pages\AutoPages\log_player_ertl.go:45 pages\AutoPages\log_player_exps.go:51
+#: pages\AutoPages\log_player_item_add_error.go:61 pages\AutoPages\log_player_items.go:51
+#: pages\AutoPages\log_player_moneys.go:51 pages\AutoPages\log_player_quests.go:54
+#: pages\AutoPages\log_player_stone.go:46 pages\AutoPages\rankList.go:50
+#: pages\AutoPages\suspicious_data_record.go:51 pages\CustomPages\mail.go:268 pages\CustomPages\playerInfo.go:36
+msgid "账号ID"
+msgstr "ID tài khoản"
+
+#: pages\CustomPages\playerInfo.go:53
+msgid "账号创建时间"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:55
+msgid "账号名"
+msgstr ""
+
+#: pages\AutoPages\log_player_moneys.go:76
+msgid "货币值"
+msgstr "Giá trị tiền tệ"
+
+#: pages\AutoPages\log_player_moneys.go:74
+msgid "货币名称"
+msgstr "Tên tiền tệ"
+
+#: pages\CustomPages\playerInfo.go:129
+msgid "货币数量"
+msgstr "Số lượng tiền tệ"
+
+#: common\def\logDef.go:464 pages\AutoPages\log_player_moneys.go:96
+msgid "货币日志"
+msgstr "Nhật ký  tiền tệ"
+
+#: pages\AutoPages\log_player_moneys.go:64
+msgid "货币类型"
+msgstr "Loại tiền tệ"
+
+#: common\def\flowDef\logFlowType.go:259
+msgid "购买帮派或商店货物"
+msgstr "Mua vật phẩm phe hoặc cửa hàng"
+
+#: common\def\flowDef\logFlowType.go:250
+msgid "购买活动次数"
+msgstr "số lần mua hoạt động"
+
+#: pages\playerInfo.go:95 pages\CustomPages\playerInfo.go:80
+msgid "资产统计"
+msgstr "Thông kê tiền tệ"
+
+#: common\def\flowDef\logFlowType.go:215
+msgid "资源找回"
+msgstr "tài nguyên"
+
+#: common\def\logDef.go:187 common\def\flowDef\logFlowType.go:327 common\def\flowDef\logFlowType.go:256
+msgid "赤色要塞"
+msgstr "Huyết lâu"
+
+#: pages\CustomPages\index.go:45
+msgid "越南文"
+msgstr "Tiếng việt"
+
+#: common\def\flowDef\logFlowType.go:306
+msgid "趣味竞技抽奖"
+msgstr "phần thưởng thi đấu"
+
+#: common\def\flowDef\logFlowType.go:307
+msgid "趣味竞技道具兑换"
+msgstr "Trao đổi đạo cụ thi đấu"
+
+#: common\def\logDef.go:385 common\def\logDef.go:413
+msgid "跑马灯"
+msgstr "bảng thông báo"
+
+#: common\def\flowDef\logFlowType.go:252
+msgid "转生"
+msgstr "chuyển sinh"
+
+#: common\def\flowDef\logFlowType.go:305
+msgid "辰虫镇"
+msgstr "Thần trùng trấn"
+
+#: common\def\questDef\questDef.go:43
+msgid "转职"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:271
+msgid "运营活动"
+msgstr "Hoạt động vận hành"
+
+#: common\def\complaintDef.go:55
+msgid "运营转交"
+msgstr ""
+
+#: pages\CustomPages\Email.go:110 pages\CustomPages\index.go:119 pages\CustomPages\mail.go:140
+#: pages\CustomPages\playerInfo.go:279
+msgid "返回上级"
+msgstr "Trở lại cấp trên"
+
+#: pages\AutoPages\log_player_dungeons.go:68
+msgid "进入"
+msgstr "Tiến vào"
+
+#: common\def\flowDef\logFlowType.go:266
+msgid "进入魔炼之地"
+msgstr ""
+
+#: common\def\logDef.go:269
+msgid "进化"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:262
+msgid "进化之石充能"
+msgstr "sung năng đá tiến hóa"
+
+#: common\def\flowDef\logFlowType.go:261
+msgid "进化之石兑换"
+msgstr "Hoàn đổi đá tiến hóa"
+
+#: common\def\logDef.go:196
+msgid "迷宫"
+msgstr "Mê cung"
+
+#: common\def\logDef.go:267
+msgid "追加"
+msgstr "bổ sung"
+
+#: pages\CustomPages\mail.go:56
+msgid "选中的服务器"
+msgstr "sever chọn"
+
+#: pages\CustomPages\playerInfo.go:130
+msgid "选择移除道具"
+msgstr "chọn xóa bỏ đạo cụ"
+
+#: pages\AutoPages\exportForm.go:37
+msgid "选择要导出的服务器"
+msgstr "Chọn máy chủ đề xuất"
+
+#: pages\CustomPages\playerInfo.go:128
+msgid "选择货币"
+msgstr "chọn tiền tệ"
+
+#: common\def\flowDef\logFlowType.go:282
+msgid "逍遥谷"
+msgstr "tiêu dao cốc"
+
+#: common\def\flowDef\logFlowType.go:283
+msgid "逍遥谷额外奖励"
+msgstr "phần thưởng tiêu dao cốc"
+
+#: pages\serverInfo.go:211 pages\serverInfo.go:363 pages\CustomPages\serverInfo.go:209
+#: pages\CustomPages\serverInfo.go:361
+msgid "通关人数"
+msgstr "số người thông quan"
+
+#: common\def\logDef.go:418
+msgid "通知"
+msgstr "Thông báo"
+
+#: pages\AutoPages\t_game_servers.go:152
+msgid "通知到服务器"
+msgstr "thông báo đến sever"
+
+#: pages\AutoPages\log_player_dungeons.go:70
+msgid "通过"
+msgstr "thông qua"
+
+#: pages\CustomPages\mail.go:83
+msgid "道具"
+msgstr "đạo cụ"
+
+#: mgr\pageMgr\playerMgr.go:36
+msgid "道具GUID"
+msgstr "GUID đạo cụ"
+
+#: mgr\pageMgr\playerMgr.go:39 pages\AutoPages\global_cfg_check.go:91 pages\AutoPages\global_cfg_check.go:96
+#: pages\AutoPages\log_player_items.go:72 pages\CustomPages\mail.go:84 pages\CustomPages\mail.go:294
+msgid "道具ID"
+msgstr "ID đạo cụ"
+
+#: common\def\flowDef\logFlowType.go:310
+msgid "道具兑换"
+msgstr "Hoàn đổi đạo cụ"
+
+#: pages\AutoPages\global_cfg_check.go:143 pages\AutoPages\global_cfg_check.go:161
+msgid "道具Id"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:210
+msgid "道具合成"
+msgstr "Hợp thành đạo cụ"
+
+#: pages\AutoPages\log_player_items.go:74
+msgid "道具名称"
+msgstr "Tên đạo cụ"
+
+#: mgr\pageMgr\playerMgr.go:45 pages\AutoPages\global_cfg_check.go:92 pages\AutoPages\global_cfg_check.go:97
+#: pages\AutoPages\log_player_items.go:76 pages\CustomPages\mail.go:85 pages\CustomPages\mail.go:295
+#: pages\CustomPages\playerInfo.go:131
+msgid "道具数量"
+msgstr "Số lượng đạo cụ"
+
+#: common\def\logDef.go:462 pages\AutoPages\log_player_items.go:98
+msgid "道具日志"
+msgstr "Nhật ký đạo cụ"
+
+#: mgr\pageMgr\playerMgr.go:33
+msgid "道具格子"
+msgstr "Ô đạo cụ"
+
+#: common\def\logDef.go:493 pages\AutoPages\global_cfg_check.go:90 pages\AutoPages\global_cfg_check.go:146
+msgid "道具获取总上限"
+msgstr ""
+
+#: common\def\logDef.go:495 pages\AutoPages\global_cfg_check.go:95 pages\AutoPages\global_cfg_check.go:164
+msgid "道具获取日上限"
+msgstr ""
+
+#: pages\AutoPages\log_player_items.go:70
+msgid "道具装载位置"
+msgstr "Vị trí mặc đạo cụ"
+
+#: common\def\flowDef\logFlowType.go:185 pages\CustomPages\mail.go:96
+msgid "邮件"
+msgstr "Thư"
+
+#: pages\CustomPages\mail.go:61
+msgid "邮件新功能"
+msgstr ""
+
+#: pages\CustomPages\mail.go:80 pages\CustomPages\mail.go:303
+msgid "邮件标题"
+msgstr "tiêu đề thư"
+
+#: pages\CustomPages\mail.go:81 pages\CustomPages\mail.go:305
+msgid "邮件正文"
+msgstr "văn bản thư"
+
+#: pages\CustomPages\mail.go:118 pages\CustomPages\mail.go:187 pages\CustomPages\mail.go:232
+#: pages\CustomPages\mail.go:326
+msgid "邮件管理"
+msgstr "quản lý thư"
+
+#: pages\CustomPages\Email.go:48
+msgid "邮箱的授权码"
+msgstr ""
+
+#: pages\CustomPages\Email.go:41
+msgid "邮箱账号"
+msgstr ""
+
+#: pages\CustomPages\index.go:74
+msgid "配置管理"
+msgstr "Quản lý cấu hình"
+
+#: common\def\itemdef.go:36
+msgid "配饰"
+msgstr "trang sức"
+
+#: common\def\logDef.go:457 pages\AutoPages\log_player_amulet.go:87
+msgid "配饰镶嵌记录"
+msgstr "lịch sử khảm trang sức"
+
+#: common\def\flowDef\logFlowType.go:186
+msgid "采集"
+msgstr "thu thập"
+
+#: common\def\logDef.go:268
+msgid "重生"
+msgstr "tái sinh"
+
+#: pages\CustomPages\serverInfo.go:394
+msgid "重置"
+msgstr "reset"
+
+#: common\def\flowDef\logFlowType.go:238
+msgid "野外BOSS"
+msgstr "BOSS dã ngoại"
+
+#: common\def\currencyDef\currencyDef.go:29
+msgid "金币"
+msgstr "kim tệ"
+
+#: pages\CustomPages\playerInfo.go:77
+msgid "金币数量"
+msgstr "số lượng kim tệ"
+
+#: common\def\flowDef\logFlowType.go:318
+msgid "金盟战场击杀奖励"
+msgstr "phần thưởng kích sát chiến trường tống kim"
+
+#: common\def\flowDef\logFlowType.go:292
+msgid "钓鱼"
+msgstr "câu cá"
+
+#: common\def\flowDef\logFlowType.go:294
+msgid "钓鱼重量奖励"
+msgstr "phần thưởng số cân cá"
+
+#: common\def\currencyDef\currencyDef.go:31
+msgid "钻石"
+msgstr "kim cương"
+
+#: pages\CustomPages\playerInfo.go:79
+msgid "钻石数量"
+msgstr "Số lượng kim cương"
+
+#: common\def\logDef.go:224 common\def\logDef.go:305
+msgid "镶嵌"
+msgstr "khảm nạm"
+
+#: pages\AutoPages\complaint_management.go:42 pages\AutoPages\complaint_management.go:75
+msgid "问题分类"
+msgstr ""
+
+#: pages\AutoPages\complaint_management.go:47 pages\AutoPages\complaint_management.go:76
+msgid "问题来源"
+msgstr ""
+
+#: pages\AutoPages\t_notices.go:44 pages\AutoPages\t_notices.go:149
+msgid "间隔"
+msgstr "giãn cách"
+
+#: common\def\logDef.go:380
+msgid "队伍"
+msgstr "tổ đội"
+
+#: common\def\logDef.go:382
+msgid "阵营"
+msgstr "trận doanh"
+
+#: common\def\serverDef.go:28
+msgid "隐藏"
+msgstr "ẩn"
+
+#: pages\AutoPages\log_character_chats.go:50
+msgid "频道"
+msgstr "kênh"
+
+#: common\def\flowDef\logFlowType.go:262
+msgid "马具培养"
+msgstr "bồi dưỡng mã cụ"
+
+#: pages\CustomPages\mail.go:298
+msgid "额外补发票据"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:261
+msgid "骑乘技能学习"
+msgstr "học kỹ năng tọa kỵ"
+
+#: pages\CustomPages\mail.go:293
+msgid "额外补发道具"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:260
+msgid "骑乘技能开孔"
+msgstr "khảm kỹ năng tọa kỵ"
+
+#: common\def\flowDef\logFlowType.go:263
+msgid "骑乘根骨培养"
+msgstr "bồi dưỡng căn cốt tọa kỵ"
+
+#: common\def\flowDef\logFlowType.go:299
+msgid "鲜花榜奖励"
+msgstr "bảng xếp hạng tiên hoa"
+
+msgid "操作类型"
+msgstr "Loại hình thao tác"
+
+msgid "全服邮件"
+msgstr "Thư toàn sever"
+
+msgid "个人邮件"
+msgstr "Thư cá nhân"
+
+msgid "服务器开启状态"
+msgstr "Trạng thái đóng mở sever"
+
+msgid "邮件类型"
+msgstr "Loại hình thư"
+
+msgid "角色创建时间"
+msgstr "Thời gian tạo nhân vật"
+
+msgid "角色最后登录时间"
+msgstr "Thời gian lần đăng nhập cuối của nhân vật"
+
+#: pages\CustomPages\playerInfo.go:48
+msgid "首次充值时间"
+msgstr ""
+
+#: pages\AutoPages\t_ip_rules.go:35 pages\AutoPages\t_ip_rules.go:45
+msgid "黑名单"
+msgstr ""

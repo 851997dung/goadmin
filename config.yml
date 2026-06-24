@@ -1,0 +1,210 @@
+# Cấu hình sẽ được ghi vào bảng dữ liệu goadmin_site trong cơ sở dữ liệu khi ứng dụng khởi chạy lần đầu tiên.
+# Các lần khởi chạy sau sẽ ưu tiên tải cấu hình từ goadmin_site. Nếu muốn chỉnh sửa, bạn có thể click vào lối vào Trung tâm cấu hình ở góc trên bên phải trang web để sửa đổi.
+
+# Thiết lập cơ sở dữ liệu, hỗ trợ cấu hình nhiều cơ sở dữ liệu. Các trình điều khiển CSDL hiện tại được hỗ trợ là: sqlite/mssql/mysql/postgresql
+# Tên kết nối CSDL mặc định là "default". Trong framework, bạn có thể lấy đối tượng kết nối này thông qua tên kết nối tự định nghĩa.
+# Trong model bảng dữ liệu cũng có thể lấy dữ liệu tương ứng bằng cách chỉ định tên kết nối tương ứng.
+database:
+  default:
+    driver: mysql
+    host: 45.125.237.177
+    port: 3306
+    user: app
+    pwd: 123456
+    name: go_admin
+    max_idle_con: 5
+    max_open_con: 10
+    # params là các tham số bổ sung cần thiết cho trình điều khiển (driver)
+    # params:
+    #   character: utf8mb4
+
+    # Nếu thiết lập DSN, thì các cấu hình trên ngoại trừ Driver sẽ mất hiệu lực và áp dụng DSN được cấu hình thay thế
+    # dsn: ""
+
+  db_global:
+    driver: mysql
+    host: 45.125.237.177
+    port: 3306
+    user: app
+    pwd: 123456
+    name: mmorpg_global
+    max_idle_con: 5
+    max_open_con: 10
+
+  go_manager:
+    driver: mysql
+    host: 45.125.237.177
+    port: 3306
+    user: app
+    pwd: 123456
+    name: go_manager
+    max_idle_con: 5
+    max_open_con: 10
+
+  go_backup:
+    driver: mysql
+    host: 45.125.237.177
+    port: 3306
+    user: app
+    pwd: 123456
+    name: go_backup
+    max_idle_con: 5
+    max_open_con: 10
+
+  db_world:
+    driver: mysql
+    host: 45.125.237.177
+    port: 3306
+    user: app
+    pwd: 123456
+    name: mmorpg_world_newui
+    max_idle_con: 5
+    max_open_con: 10
+
+  db_log:
+     driver: mysql
+     host: 45.125.237.177
+     port: 3306
+     user: app
+     pwd: 123456
+     name: mmorpg_log
+     max_idle_con: 5
+     max_open_con: 10
+
+
+# ID duy nhất của ứng dụng này
+app_id: Q572T86Y6tVd
+
+# Tên miền của trang web được định nghĩa, sử dụng để hạn chế tên miền cho xác thực cookie
+# domain: 
+# Ngôn ngữ của trang web
+language: en
+# Tiêu tố định tuyến toàn cục (global route prefix)
+prefix: admin
+# Giao diện UI (theme)
+theme: adminlte
+# Thiết lập lưu trữ tệp, thiết lập đường dẫn lưu trữ tệp tải lên và tiền tố định tuyến
+store:
+  path: ./uploads
+  prefix: uploads
+
+# Tiêu đề của trang web
+title: GoAdmin
+# Chữ LOGO trang web, hiển thị trên trang đăng nhập và phía trên thanh bên (sidebar), có thể là HTML tự định nghĩa
+logo: GoAdmin
+# Chữ LOGO thu nhỏ của trang web, hiển thị phía trên thanh bên khi thu nhỏ, có thể là HTML tự định nghĩa
+mini_logo: GA
+# Định tuyến trang chủ (index route)
+index: /
+# Định tuyến đăng nhập (login route)
+login_url: /login
+
+# Có phải là chế độ debug (gỡ lỗi) không
+debug: false
+# Môi trường chạy: Cục bộ EnvLocal / Thử nghiệm EnvTest / Sản xuất EnvProd
+env: test
+
+# Đường dẫn lưu trữ cục bộ của nhật ký info
+info_log: ./logs/info.log
+# Đường dẫn lưu trữ cục bộ của nhật ký error
+error_log: ./logs/error.log
+# Đường dẫn lưu trữ cục bộ của nhật ký truy cập (access)
+access_log: ./logs/access.log
+
+# Có tắt nhật ký truy cập tài nguyên (access assets log) không
+# access_assets_log_off: false
+# Có tắt nhật ký SQL không
+# sql_log: false
+# Có tắt nhật ký truy cập (access log) không
+# access_log_off: false
+# Có tắt nhật ký info không
+# info_log_off: false
+# Có tắt nhật ký error không
+# error_log_off: false
+
+# Bảng màu (color scheme), có hiệu lực khi theme của framework là adminlte
+# color_scheme: 
+
+# Thời gian hiệu lực của session, đơn vị là giây, mặc định là 2 giờ. Sau 2 giờ không hoạt động liên tục sẽ cần đăng nhập lại.
+session_life_time: 7200
+
+# Định tuyến tài nguyên, cấu hình này có hiệu lực khi sử dụng CDN
+# asset_url: 
+
+# Bộ máy tải lên tệp (file upload engine)
+file_upload_engine:
+  name: local
+
+# HTML phần đầu (head) tự định nghĩa
+# custom_head_html:
+# HTML phần chân trang (foot) tự định nghĩa
+# custom_foot_html:
+# Thông tin chân trang tự định nghĩa
+# footer_info:
+
+# Tiêu đề trang đăng nhập
+# login_title: GoAdmin
+# Logo trang đăng nhập
+# login_logo: GoAdmin
+
+# Bảng người dùng tùy chỉnh (custom auth user table)
+auth_user_table: goadmin_users_custom
+
+# Có không giới hạn đăng nhập từ nhiều IP không. Nếu cần đăng nhập trên nhiều trình duyệt/thiết bị cùng lúc, vui lòng đặt thành true.
+# no_limit_login_ip: false
+
+# Có đóng trang web không
+# site_off: false
+
+# Có ẩn lối vào Trung tâm cấu hình không
+# hide_config_center_entrance: false
+# Có cấm sửa đổi cấu hình không
+# prohibit_config_modification: false
+# Có ẩn lối vào Trung tâm ứng dụng không
+# hide_app_info_entrance: false
+# Có ẩn lối vào Công cụ không
+# hide_tool_entrance: false
+# Có ẩn lối vào Trung tâm plugin không
+# hide_plugin_entrance: false
+
+# HTML trang lỗi 404 tùy chỉnh
+# custom_404_html: 
+# HTML trang lỗi 403 tùy chỉnh
+# custom_403_html: 
+# HTML trang lỗi 500 tùy chỉnh
+# custom_500_html: 
+
+# Có mở Admin API không
+# open_admin_api: false
+# Có ẩn lối vào Trung tâm người dùng không
+# hide_visitor_user_center_entrance: false
+
+# Các thành phần giao diện (theme components) bị loại trừ không tải
+# exclude_theme_components:
+# - ""
+
+# Đường dẫn cục bộ của file bootstrap (khởi tạo code)
+bootstrap_file_path: g:/admin/bootstrap.go
+# Đường dẫn cục bộ của file go.mod
+go_mod_file_path: g:/admin/go.mod
+
+# Có cho phép xóa nhật ký thao tác không
+allow_del_operation_log: false
+# Có tắt nhật ký thao tác không
+operation_log_off: false
+
+# Đường dẫn cục bộ của các file tài nguyên tĩnh
+# Cần thiết lập mục này khi chọn chế độ theme phân tách file tài nguyên.
+asset_root_path: ./public/
+
+# Định dạng cấu trúc URL
+# url_format:
+#   info: /info/:__prefix
+#   detail: /info/:__prefix/detail
+#   create: /new/:__prefix
+#   delete: /delete/:__prefix
+#   export: /export/:__prefix
+#   edit: /edit/:__prefix
+#   show_edit: /info/:__prefix/edit
+#   show_create: /info/:__prefix/new
+#   update: /update/:__prefix

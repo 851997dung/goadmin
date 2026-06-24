@@ -1,0 +1,864 @@
+2023-10-18T14:23:53.654+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2023-10-18T14:23:53.677+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2023-10-18T14:23:53.681+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2023-10-18T14:23:53.681+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2023-10-18T14:23:53.681+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2023-10-18T14:35:28.104+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2023-10-18T14:35:28.124+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2023-10-18T14:35:28.128+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2023-10-18T14:35:28.129+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2023-10-18T14:35:28.129+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2023-10-18T14:35:37.392+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2023-10-18T14:35:37.422+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2023-10-18T14:35:37.444+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2023-10-18T14:35:37.444+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2023-10-18T14:35:37.445+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2023-10-18T14:35:45.936+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2023-10-18T14:35:45.967+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2023-10-18T14:35:45.970+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2023-10-18T14:35:45.971+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2023-10-18T14:35:45.971+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2023-10-18T14:35:56.113+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2023-10-18T14:35:56.133+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2023-10-18T14:35:56.139+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2023-10-18T14:35:56.139+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2023-10-18T14:35:56.139+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2024-01-03T11:10:37.717+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2024-01-03T11:10:37.807+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2024-01-03T11:10:37.815+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2024-01-03T11:10:37.816+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2024-01-03T11:10:37.817+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2024-01-03T11:11:06.520+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2024-01-03T11:11:06.561+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2024-01-03T11:11:06.567+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2024-01-03T11:11:06.568+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2024-01-03T11:11:06.569+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2024-01-03T11:11:27.109+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2024-01-03T11:11:27.133+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2024-01-03T11:11:27.149+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2024-01-03T11:11:27.149+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2024-01-03T11:11:27.149+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2024-01-03T11:13:50.613+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2024-01-03T11:13:50.635+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2024-01-03T11:13:50.639+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2024-01-03T11:13:50.640+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2024-01-03T11:13:50.640+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2024-01-03T17:05:10.346+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2024-01-03T17:05:10.384+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2024-01-03T17:05:10.390+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2024-01-03T17:05:10.391+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2024-01-03T17:05:10.392+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2024-01-28T10:17:22.385+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2024-01-28T10:17:22.417+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2024-01-28T10:17:22.424+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2024-01-28T10:17:22.425+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2024-01-28T10:17:22.425+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2024-01-28T10:22:23.852+0800	[34mINFO[0m	mgr/timerMgr.go:1125	Start CountPlayerOnlineNum
+2024-01-28T10:22:23.858+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 1,With game server `1` is offline.
+2024-01-28T10:22:23.861+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 2,With game server `2` is offline.
+2024-01-28T10:22:23.866+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 3,With game server `3` is offline.
+2024-01-28T10:22:23.870+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 4,With game server `4` is offline.
+2024-01-28T10:22:23.878+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 7,With game server `7` is offline.
+2024-01-28T10:22:23.883+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 9,With game server `9` is offline.
+2024-01-28T10:22:23.898+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 18,With game server `18` is offline.
+2024-01-28T10:22:23.904+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 29,With game server `29` is offline.
+2024-01-28T10:22:23.910+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 32,With game server `32` is offline.
+2024-01-28T10:22:23.917+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 33,With game server `33` is offline.
+2024-01-28T10:22:23.931+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 34,With game server `34` is offline.
+2024-01-28T10:22:23.935+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 35,With game server `35` is offline.
+2024-01-28T10:22:23.944+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 37,With game server `37` is offline.
+2024-01-28T10:22:23.948+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 38,With game server `38` is offline.
+2024-01-28T10:22:23.953+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 39,With game server `39` is offline.
+2024-01-28T10:22:23.958+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 40,With game server `40` is offline.
+2024-01-28T10:22:23.962+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 41,With game server `41` is offline.
+2024-01-28T10:22:23.969+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 42,With game server `42` is offline.
+2024-01-28T10:22:23.974+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 43,With game server `43` is offline.
+2024-01-28T10:22:23.978+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 44,With game server `44` is offline.
+2024-01-28T10:22:23.982+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 55,With game server `55` is offline.
+2024-01-28T10:22:23.986+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 56,With game server `56` is offline.
+2024-01-28T10:22:23.992+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 57,With game server `57` is offline.
+2024-01-28T10:22:24.066+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 59,With game server `59` is offline.
+2024-01-28T10:22:24.070+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 60,With game server `60` is offline.
+2024-01-28T10:22:24.078+0800	[34mINFO[0m	mgr/timerMgr.go:1155	End CountPlayerOnlineNum
+2024-01-28T10:27:23.860+0800	[34mINFO[0m	mgr/timerMgr.go:1125	Start CountPlayerOnlineNum
+2024-01-28T10:27:23.864+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 1,With game server `1` is offline.
+2024-01-28T10:27:23.868+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 2,With game server `2` is offline.
+2024-01-28T10:27:23.872+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 3,With game server `3` is offline.
+2024-01-28T10:27:23.878+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 4,With game server `4` is offline.
+2024-01-28T10:27:23.881+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 7,With game server `7` is offline.
+2024-01-28T10:27:23.885+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 9,With game server `9` is offline.
+2024-01-28T10:27:23.889+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 18,With game server `18` is offline.
+2024-01-28T10:27:23.893+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 29,With game server `29` is offline.
+2024-01-28T10:27:23.897+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 32,With game server `32` is offline.
+2024-01-28T10:27:23.902+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 33,With game server `33` is offline.
+2024-01-28T10:27:23.907+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 34,With game server `34` is offline.
+2024-01-28T10:27:23.911+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 35,With game server `35` is offline.
+2024-01-28T10:27:23.922+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 37,With game server `37` is offline.
+2024-01-28T10:27:23.926+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 38,With game server `38` is offline.
+2024-01-28T10:27:23.930+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 39,With game server `39` is offline.
+2024-01-28T10:27:23.934+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 40,With game server `40` is offline.
+2024-01-28T10:27:23.938+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 41,With game server `41` is offline.
+2024-01-28T10:27:23.942+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 42,With game server `42` is offline.
+2024-01-28T10:27:23.947+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 43,With game server `43` is offline.
+2024-01-28T10:27:23.952+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 44,With game server `44` is offline.
+2024-01-28T10:27:23.956+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 55,With game server `55` is offline.
+2024-01-28T10:27:23.960+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 56,With game server `56` is offline.
+2024-01-28T10:27:23.963+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 57,With game server `57` is offline.
+2024-01-28T10:27:24.057+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 60,With game server `60` is offline.
+2024-01-28T10:27:24.066+0800	[34mINFO[0m	mgr/timerMgr.go:1155	End CountPlayerOnlineNum
+2024-02-29T10:08:26.387+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2024-02-29T10:08:26.424+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2024-02-29T10:08:26.436+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2024-02-29T10:08:26.437+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2024-02-29T10:08:26.437+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2024-02-29T10:11:20.384+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2024-02-29T10:11:20.412+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2024-02-29T10:11:20.417+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2024-02-29T10:11:20.417+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2024-02-29T10:11:20.417+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2024-02-29T10:16:21.445+0800	[34mINFO[0m	mgr/timerMgr.go:1125	Start CountPlayerOnlineNum
+2024-02-29T10:16:21.450+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 1,With game server `1` is offline.
+2024-02-29T10:16:21.453+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 2,With game server `2` is offline.
+2024-02-29T10:16:21.456+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 3,With game server `3` is offline.
+2024-02-29T10:16:21.517+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 7,With game server `7` is offline.
+2024-02-29T10:16:21.520+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 9,With game server `9` is offline.
+2024-02-29T10:16:21.524+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 18,With game server `18` is offline.
+2024-02-29T10:16:21.528+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 29,With game server `29` is offline.
+2024-02-29T10:16:21.531+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 32,With game server `32` is offline.
+2024-02-29T10:16:21.535+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 33,With game server `33` is offline.
+2024-02-29T10:16:21.539+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 34,With game server `34` is offline.
+2024-02-29T10:16:21.542+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 35,With game server `35` is offline.
+2024-02-29T10:16:21.546+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 37,With game server `37` is offline.
+2024-02-29T10:16:21.549+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 38,With game server `38` is offline.
+2024-02-29T10:16:21.553+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 39,With game server `39` is offline.
+2024-02-29T10:16:21.557+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 40,With game server `40` is offline.
+2024-02-29T10:16:21.561+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 41,With game server `41` is offline.
+2024-02-29T10:16:21.565+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 42,With game server `42` is offline.
+2024-02-29T10:16:21.589+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 44,With game server `44` is offline.
+2024-02-29T10:16:21.593+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 55,With game server `55` is offline.
+2024-02-29T10:16:21.596+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 56,With game server `56` is offline.
+2024-02-29T10:16:21.600+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 57,With game server `57` is offline.
+2024-02-29T10:16:21.614+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 59,With game server `59` is offline.
+2024-02-29T10:16:21.617+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 60,With game server `60` is offline.
+2024-02-29T10:16:21.625+0800	[34mINFO[0m	mgr/timerMgr.go:1155	End CountPlayerOnlineNum
+2024-02-29T10:21:21.445+0800	[34mINFO[0m	mgr/timerMgr.go:1125	Start CountPlayerOnlineNum
+2024-02-29T10:21:21.448+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 1,With game server `1` is offline.
+2024-02-29T10:21:21.452+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 2,With game server `2` is offline.
+2024-02-29T10:21:21.456+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 3,With game server `3` is offline.
+2024-02-29T10:21:21.514+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 7,With game server `7` is offline.
+2024-02-29T10:21:21.518+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 9,With game server `9` is offline.
+2024-02-29T10:21:21.521+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 18,With game server `18` is offline.
+2024-02-29T10:21:21.525+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 29,With game server `29` is offline.
+2024-02-29T10:21:21.528+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 32,With game server `32` is offline.
+2024-02-29T10:21:21.532+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 33,With game server `33` is offline.
+2024-02-29T10:21:21.535+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 34,With game server `34` is offline.
+2024-02-29T10:21:21.539+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 35,With game server `35` is offline.
+2024-02-29T10:21:21.542+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 37,With game server `37` is offline.
+2024-02-29T10:21:21.546+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 38,With game server `38` is offline.
+2024-02-29T10:21:21.550+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 39,With game server `39` is offline.
+2024-02-29T10:21:21.553+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 40,With game server `40` is offline.
+2024-02-29T10:21:21.557+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 41,With game server `41` is offline.
+2024-02-29T10:21:21.560+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 42,With game server `42` is offline.
+2024-02-29T10:21:21.564+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 43,With game server `43` is offline.
+2024-02-29T10:21:21.567+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 44,With game server `44` is offline.
+2024-02-29T10:21:21.576+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 55,With game server `55` is offline.
+2024-02-29T10:21:21.579+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 56,With game server `56` is offline.
+2024-02-29T10:21:21.583+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 57,With game server `57` is offline.
+2024-02-29T10:21:21.621+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 59,With game server `59` is offline.
+2024-02-29T10:21:21.625+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 60,With game server `60` is offline.
+2024-02-29T10:21:21.634+0800	[34mINFO[0m	mgr/timerMgr.go:1155	End CountPlayerOnlineNum
+2024-02-29T10:26:21.446+0800	[34mINFO[0m	mgr/timerMgr.go:1125	Start CountPlayerOnlineNum
+2024-02-29T10:26:21.450+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 1,With game server `1` is offline.
+2024-02-29T10:26:21.454+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 2,With game server `2` is offline.
+2024-02-29T10:26:21.458+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 3,With game server `3` is offline.
+2024-02-29T10:26:21.495+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 7,With game server `7` is offline.
+2024-02-29T10:26:21.499+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 9,With game server `9` is offline.
+2024-02-29T10:26:21.502+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 18,With game server `18` is offline.
+2024-02-29T10:26:21.506+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 29,With game server `29` is offline.
+2024-02-29T10:26:21.509+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 32,With game server `32` is offline.
+2024-02-29T10:26:21.513+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 33,With game server `33` is offline.
+2024-02-29T10:26:21.518+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 34,With game server `34` is offline.
+2024-02-29T10:26:21.521+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 35,With game server `35` is offline.
+2024-02-29T10:26:21.525+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 37,With game server `37` is offline.
+2024-02-29T10:26:21.529+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 38,With game server `38` is offline.
+2024-02-29T10:26:21.532+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 39,With game server `39` is offline.
+2024-02-29T10:26:21.536+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 40,With game server `40` is offline.
+2024-02-29T10:26:21.540+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 41,With game server `41` is offline.
+2024-02-29T10:26:21.543+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 42,With game server `42` is offline.
+2024-02-29T10:26:21.548+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 43,With game server `43` is offline.
+2024-02-29T10:26:21.551+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 44,With game server `44` is offline.
+2024-02-29T10:26:21.555+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 55,With game server `55` is offline.
+2024-02-29T10:26:21.562+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 56,With game server `56` is offline.
+2024-02-29T10:26:21.566+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 57,With game server `57` is offline.
+2024-02-29T10:26:21.616+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 59,With game server `59` is offline.
+2024-02-29T10:26:21.619+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 60,With game server `60` is offline.
+2024-02-29T10:26:21.627+0800	[34mINFO[0m	mgr/timerMgr.go:1155	End CountPlayerOnlineNum
+2024-02-29T10:31:21.452+0800	[34mINFO[0m	mgr/timerMgr.go:1125	Start CountPlayerOnlineNum
+2024-02-29T10:31:21.475+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 1,With game server `1` is offline.
+2024-02-29T10:31:21.482+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 2,With game server `2` is offline.
+2024-02-29T10:31:21.486+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 3,With game server `3` is offline.
+2024-02-29T10:31:21.541+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 7,With game server `7` is offline.
+2024-02-29T10:31:21.568+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 9,With game server `9` is offline.
+2024-02-29T10:31:21.572+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 18,With game server `18` is offline.
+2024-02-29T10:31:21.576+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 29,With game server `29` is offline.
+2024-02-29T10:31:21.580+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 32,With game server `32` is offline.
+2024-02-29T10:31:21.583+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 33,With game server `33` is offline.
+2024-02-29T10:31:21.588+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 34,With game server `34` is offline.
+2024-02-29T10:31:21.591+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 35,With game server `35` is offline.
+2024-02-29T10:31:21.595+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 37,With game server `37` is offline.
+2024-02-29T10:31:21.602+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 38,With game server `38` is offline.
+2024-02-29T10:31:21.622+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 39,With game server `39` is offline.
+2024-02-29T10:31:21.627+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 40,With game server `40` is offline.
+2024-02-29T10:31:21.630+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 41,With game server `41` is offline.
+2024-02-29T10:31:21.634+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 42,With game server `42` is offline.
+2024-02-29T10:31:21.638+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 43,With game server `43` is offline.
+2024-02-29T10:31:21.642+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 44,With game server `44` is offline.
+2024-02-29T10:31:21.645+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 55,With game server `55` is offline.
+2024-02-29T10:31:21.649+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 56,With game server `56` is offline.
+2024-02-29T10:31:21.656+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 57,With game server `57` is offline.
+2024-02-29T10:31:21.701+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 59,With game server `59` is offline.
+2024-02-29T10:31:21.737+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 60,With game server `60` is offline.
+2024-02-29T10:31:21.760+0800	[34mINFO[0m	mgr/timerMgr.go:1155	End CountPlayerOnlineNum
+2024-02-29T10:36:21.449+0800	[34mINFO[0m	mgr/timerMgr.go:1125	Start CountPlayerOnlineNum
+2024-02-29T10:36:21.453+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 1,With game server `1` is offline.
+2024-02-29T10:36:21.457+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 2,With game server `2` is offline.
+2024-02-29T10:36:21.461+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 3,With game server `3` is offline.
+2024-02-29T10:36:21.490+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 7,With game server `7` is offline.
+2024-02-29T10:36:21.494+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 9,With game server `9` is offline.
+2024-02-29T10:36:21.498+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 18,With game server `18` is offline.
+2024-02-29T10:36:21.501+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 29,With game server `29` is offline.
+2024-02-29T10:36:21.505+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 32,With game server `32` is offline.
+2024-02-29T10:36:21.509+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 33,With game server `33` is offline.
+2024-02-29T10:36:21.513+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 34,With game server `34` is offline.
+2024-02-29T10:36:21.516+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 35,With game server `35` is offline.
+2024-02-29T10:36:21.520+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 37,With game server `37` is offline.
+2024-02-29T10:36:21.524+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 38,With game server `38` is offline.
+2024-02-29T10:36:21.528+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 39,With game server `39` is offline.
+2024-02-29T10:36:21.532+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 40,With game server `40` is offline.
+2024-02-29T10:36:21.535+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 41,With game server `41` is offline.
+2024-02-29T10:36:21.540+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 42,With game server `42` is offline.
+2024-02-29T10:36:21.543+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 43,With game server `43` is offline.
+2024-02-29T10:36:21.546+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 44,With game server `44` is offline.
+2024-02-29T10:36:21.550+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 55,With game server `55` is offline.
+2024-02-29T10:36:21.553+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 56,With game server `56` is offline.
+2024-02-29T10:36:21.557+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 57,With game server `57` is offline.
+2024-02-29T10:36:21.594+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 59,With game server `59` is offline.
+2024-02-29T10:36:21.598+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 60,With game server `60` is offline.
+2024-02-29T10:36:21.604+0800	[34mINFO[0m	mgr/timerMgr.go:1155	End CountPlayerOnlineNum
+2024-02-29T14:18:59.220+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2024-02-29T14:18:59.263+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2024-02-29T14:18:59.269+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2024-02-29T14:18:59.270+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2024-02-29T14:18:59.270+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2024-02-29T14:24:00.297+0800	[34mINFO[0m	mgr/timerMgr.go:1125	Start CountPlayerOnlineNum
+2024-02-29T14:24:00.301+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 1,With game server `1` is offline.
+2024-02-29T14:24:00.305+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 2,With game server `2` is offline.
+2024-02-29T14:24:00.309+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 3,With game server `3` is offline.
+2024-02-29T14:24:00.313+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 4,With game server `4` is offline.
+2024-02-29T14:24:00.316+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 7,With game server `7` is offline.
+2024-02-29T14:24:00.323+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 9,With game server `9` is offline.
+2024-02-29T14:24:00.328+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 18,With game server `18` is offline.
+2024-02-29T14:24:00.332+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 29,With game server `29` is offline.
+2024-02-29T14:24:00.336+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 32,With game server `32` is offline.
+2024-02-29T14:24:00.340+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 33,With game server `33` is offline.
+2024-02-29T14:24:00.343+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 34,With game server `34` is offline.
+2024-02-29T14:24:00.347+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 35,With game server `35` is offline.
+2024-02-29T14:24:00.351+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 37,With game server `37` is offline.
+2024-02-29T14:24:00.354+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 38,With game server `38` is offline.
+2024-02-29T14:24:00.358+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 39,With game server `39` is offline.
+2024-02-29T14:24:00.366+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 40,With game server `40` is offline.
+2024-02-29T14:24:00.370+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 41,With game server `41` is offline.
+2024-02-29T14:24:00.374+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 42,With game server `42` is offline.
+2024-02-29T14:24:00.402+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 44,With game server `44` is offline.
+2024-02-29T14:24:00.405+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 55,With game server `55` is offline.
+2024-02-29T14:24:00.409+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 56,With game server `56` is offline.
+2024-02-29T14:24:00.413+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 57,With game server `57` is offline.
+2024-02-29T14:24:00.467+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 59,With game server `59` is offline.
+2024-02-29T14:24:00.470+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 60,With game server `60` is offline.
+2024-02-29T14:24:00.477+0800	[34mINFO[0m	mgr/timerMgr.go:1155	End CountPlayerOnlineNum
+2024-02-29T14:29:00.301+0800	[34mINFO[0m	mgr/timerMgr.go:1125	Start CountPlayerOnlineNum
+2024-02-29T14:29:00.304+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 1,With game server `1` is offline.
+2024-02-29T14:29:00.308+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 2,With game server `2` is offline.
+2024-02-29T14:29:00.312+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 3,With game server `3` is offline.
+2024-02-29T14:29:00.316+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 4,With game server `4` is offline.
+2024-02-29T14:29:00.319+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 7,With game server `7` is offline.
+2024-02-29T14:29:00.323+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 9,With game server `9` is offline.
+2024-02-29T14:29:00.327+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 18,With game server `18` is offline.
+2024-02-29T14:29:00.338+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 29,With game server `29` is offline.
+2024-02-29T14:29:00.341+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 32,With game server `32` is offline.
+2024-02-29T14:29:00.345+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 33,With game server `33` is offline.
+2024-02-29T14:29:00.349+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 34,With game server `34` is offline.
+2024-02-29T14:29:00.352+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 35,With game server `35` is offline.
+2024-02-29T14:29:00.356+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 37,With game server `37` is offline.
+2024-02-29T14:29:00.360+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 38,With game server `38` is offline.
+2024-02-29T14:29:00.363+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 39,With game server `39` is offline.
+2024-02-29T14:29:00.367+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 40,With game server `40` is offline.
+2024-02-29T14:29:00.371+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 41,With game server `41` is offline.
+2024-02-29T14:29:00.374+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 42,With game server `42` is offline.
+2024-02-29T14:29:00.418+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 44,With game server `44` is offline.
+2024-02-29T14:29:00.421+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 55,With game server `55` is offline.
+2024-02-29T14:29:00.425+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 56,With game server `56` is offline.
+2024-02-29T14:29:00.429+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 57,With game server `57` is offline.
+2024-02-29T14:29:00.471+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 59,With game server `59` is offline.
+2024-02-29T14:29:00.475+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 60,With game server `60` is offline.
+2024-02-29T14:29:00.483+0800	[34mINFO[0m	mgr/timerMgr.go:1155	End CountPlayerOnlineNum
+2024-03-01T15:19:08.489+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2024-03-01T15:19:08.534+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2024-03-01T15:19:08.543+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2024-03-01T15:19:08.544+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2024-03-01T15:19:08.544+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2024-03-01T15:20:07.974+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2024-03-01T15:20:08.043+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2024-03-01T15:20:08.087+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2024-03-01T15:20:08.087+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2024-03-01T15:20:08.087+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2024-03-01T15:20:50.054+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2024-03-01T15:20:50.077+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2024-03-01T15:20:50.084+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2024-03-01T15:20:50.085+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2024-03-01T15:20:50.085+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2024-03-01T15:21:21.875+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2024-03-01T15:21:21.901+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2024-03-01T15:21:21.906+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2024-03-01T15:21:21.907+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2024-03-01T15:21:21.907+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2024-03-01T15:21:57.811+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2024-03-01T15:21:57.833+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2024-03-01T15:21:57.838+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2024-03-01T15:21:57.838+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2024-03-01T15:21:57.838+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2024-03-01T15:23:34.153+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2024-03-01T15:23:34.203+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2024-03-01T15:23:34.207+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2024-03-01T15:23:34.208+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2024-03-01T15:23:34.208+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2024-03-01T17:05:39.544+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2024-03-01T17:05:39.566+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2024-03-01T17:05:39.570+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2024-03-01T17:05:39.571+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2024-03-01T17:05:39.571+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2024-03-01T17:10:40.593+0800	[34mINFO[0m	mgr/timerMgr.go:1125	Start CountPlayerOnlineNum
+2024-03-01T17:10:40.598+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 1,With game server `1` is offline.
+2024-03-01T17:10:40.602+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 2,With game server `2` is offline.
+2024-03-01T17:10:40.606+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 3,With game server `3` is offline.
+2024-03-01T17:10:40.610+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 4,With game server `4` is offline.
+2024-03-01T17:10:40.614+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 7,With game server `7` is offline.
+2024-03-01T17:10:40.617+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 9,With game server `9` is offline.
+2024-03-01T17:10:40.620+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 18,With game server `18` is offline.
+2024-03-01T17:10:40.624+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 29,With game server `29` is offline.
+2024-03-01T17:10:40.628+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 32,With game server `32` is offline.
+2024-03-01T17:10:40.633+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 33,With game server `33` is offline.
+2024-03-01T17:10:40.636+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 34,With game server `34` is offline.
+2024-03-01T17:10:40.641+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 35,With game server `35` is offline.
+2024-03-01T17:10:40.644+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 37,With game server `37` is offline.
+2024-03-01T17:10:40.651+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 38,With game server `38` is offline.
+2024-03-01T17:10:40.655+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 39,With game server `39` is offline.
+2024-03-01T17:10:40.659+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 40,With game server `40` is offline.
+2024-03-01T17:10:40.662+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 41,With game server `41` is offline.
+2024-03-01T17:10:40.666+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 42,With game server `42` is offline.
+2024-03-01T17:10:40.670+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 43,With game server `43` is offline.
+2024-03-01T17:10:40.674+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 44,With game server `44` is offline.
+2024-03-01T17:10:40.677+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 55,With game server `55` is offline.
+2024-03-01T17:10:40.681+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 56,With game server `56` is offline.
+2024-03-01T17:10:40.685+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 57,With game server `57` is offline.
+2024-03-01T17:10:40.741+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 60,With game server `60` is offline.
+2024-03-01T17:10:40.749+0800	[34mINFO[0m	mgr/timerMgr.go:1155	End CountPlayerOnlineNum
+2024-03-01T17:15:31.120+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2024-03-01T17:15:31.140+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2024-03-01T17:15:31.144+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2024-03-01T17:15:31.144+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2024-03-01T17:15:31.144+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2024-03-01T17:20:32.179+0800	[34mINFO[0m	mgr/timerMgr.go:1125	Start CountPlayerOnlineNum
+2024-03-01T17:20:32.183+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 1,With game server `1` is offline.
+2024-03-01T17:20:32.186+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 2,With game server `2` is offline.
+2024-03-01T17:20:32.190+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 3,With game server `3` is offline.
+2024-03-01T17:20:32.194+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 4,With game server `4` is offline.
+2024-03-01T17:20:32.198+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 7,With game server `7` is offline.
+2024-03-01T17:20:32.201+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 9,With game server `9` is offline.
+2024-03-01T17:20:32.205+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 18,With game server `18` is offline.
+2024-03-01T17:20:32.209+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 29,With game server `29` is offline.
+2024-03-01T17:20:32.213+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 32,With game server `32` is offline.
+2024-03-01T17:20:32.217+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 33,With game server `33` is offline.
+2024-03-01T17:20:32.220+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 34,With game server `34` is offline.
+2024-03-01T17:20:32.224+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 35,With game server `35` is offline.
+2024-03-01T17:20:32.228+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 37,With game server `37` is offline.
+2024-03-01T17:20:32.231+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 38,With game server `38` is offline.
+2024-03-01T17:20:32.235+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 39,With game server `39` is offline.
+2024-03-01T17:20:32.238+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 40,With game server `40` is offline.
+2024-03-01T17:20:32.242+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 41,With game server `41` is offline.
+2024-03-01T17:20:32.246+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 42,With game server `42` is offline.
+2024-03-01T17:20:32.250+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 43,With game server `43` is offline.
+2024-03-01T17:20:32.253+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 44,With game server `44` is offline.
+2024-03-01T17:20:32.257+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 55,With game server `55` is offline.
+2024-03-01T17:20:32.261+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 56,With game server `56` is offline.
+2024-03-01T17:20:32.265+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 57,With game server `57` is offline.
+2024-03-01T17:20:32.351+0800	[34mINFO[0m	mgr/timerMgr.go:1139	CountPlayerOnlineNum Failed,serverID = 60,With game server `60` is offline.
+2024-03-01T17:20:32.358+0800	[34mINFO[0m	mgr/timerMgr.go:1155	End CountPlayerOnlineNum
+2024-03-04T15:20:44.642+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2024-03-04T15:20:44.739+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2024-03-04T15:20:44.772+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2024-03-04T15:20:44.772+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2024-03-04T15:20:44.773+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2024-03-04T15:22:00.653+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2024-03-04T15:22:00.701+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2024-03-04T15:22:00.710+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2024-03-04T15:22:00.710+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2024-03-04T15:22:00.711+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2024-03-04T15:22:59.144+0800	[34mINFO[0m	CustomPages/mail.go:271	End SendMail
+2024-05-22T18:07:49.229+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2024-05-22T18:07:49.271+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2024-05-22T18:07:49.276+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2024-05-22T18:07:49.277+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2024-05-22T18:07:49.277+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2024-05-22T18:08:52.492+0800	[34mINFO[0m	CustomPages/mail.go:272	End SendMail
+2026-04-16T16:09:45.781+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2026-04-16T16:09:45.808+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2026-04-16T16:09:45.813+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2026-04-16T16:09:45.813+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2026-04-16T16:09:45.813+0800	[34mINFO[0m	engine/engine.go:402	=====> --> librarian
+2026-04-16T16:09:45.815+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2026-04-16T16:58:41.449+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2026-04-16T16:58:41.452+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2026-04-16T16:58:41.482+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2026-04-16T16:58:41.484+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2026-04-16T16:58:41.486+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2026-04-16T16:58:41.486+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2026-04-16T16:58:41.486+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2026-04-16T16:58:41.486+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2026-04-16T16:58:41.488+0800	[34mINFO[0m	engine/engine.go:402	=====> --> librarian
+2026-04-16T16:58:41.488+0800	[34mINFO[0m	engine/engine.go:402	=====> --> librarian
+2026-04-16T16:58:41.489+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2026-04-16T16:58:41.490+0800	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2026-06-04T11:27:05.825+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2026-06-04T11:49:09.608+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2026-06-04T12:17:52.099+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2026-06-04T12:17:53.517+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2026-06-04T12:17:53.554+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2026-06-04T12:17:53.555+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2026-06-04T12:17:53.555+0700	[34mINFO[0m	engine/engine.go:402	=====> --> librarian
+2026-06-04T12:17:53.601+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2026-06-04T12:20:39.146+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2026-06-04T12:21:06.498+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2026-06-04T12:21:19.573+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2026-06-04T12:21:19.825+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2026-06-04T12:21:19.851+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2026-06-04T12:21:19.851+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2026-06-04T12:21:19.852+0700	[34mINFO[0m	engine/engine.go:402	=====> --> librarian
+2026-06-04T12:21:19.881+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2026-06-04T12:22:39.225+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2026-06-04T12:22:39.460+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2026-06-04T12:22:39.480+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2026-06-04T12:22:39.480+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2026-06-04T12:22:39.480+0700	[34mINFO[0m	engine/engine.go:402	=====> --> librarian
+2026-06-04T12:22:39.503+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2026-06-04T12:29:28.743+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2026-06-04T12:29:29.075+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2026-06-04T12:29:29.099+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2026-06-04T12:29:29.100+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2026-06-04T12:29:29.100+0700	[34mINFO[0m	engine/engine.go:402	=====> --> librarian
+2026-06-04T12:29:29.129+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2026-06-04T12:34:30.385+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T12:34:51.418+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T12:34:51.488+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T12:39:30.486+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T12:39:56.379+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2026-06-04T12:39:56.734+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2026-06-04T12:39:56.768+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2026-06-04T12:39:56.768+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2026-06-04T12:39:56.768+0700	[34mINFO[0m	engine/engine.go:402	=====> --> librarian
+2026-06-04T12:39:56.835+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2026-06-04T12:44:58.194+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T12:45:19.219+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T12:45:19.384+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T12:49:58.233+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T12:50:19.281+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T12:50:19.694+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T12:52:48.319+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2026-06-04T12:52:48.790+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2026-06-04T12:52:48.822+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2026-06-04T12:52:48.823+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2026-06-04T12:52:48.823+0700	[34mINFO[0m	engine/engine.go:402	=====> --> librarian
+2026-06-04T12:52:48.879+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2026-06-04T12:57:50.192+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T12:58:11.243+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T12:58:11.369+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T13:00:01.208+0700	[34mINFO[0m	mgr/timerMgr.go:42	Start CountPlayerOnlineNum
+2026-06-04T13:00:22.233+0700	[34mINFO[0m	mgr/timerMgr.go:50	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T13:00:22.287+0700	[34mINFO[0m	mgr/timerMgr.go:70	End CountPlayerOnlineNum
+2026-06-04T13:00:22.288+0700	[34mINFO[0m	mgr/timerMgr.go:1237	start CountPlayerOnlineNum4Career
+2026-06-04T13:00:43.334+0700	[34mINFO[0m	mgr/timerMgr.go:1246	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T13:00:43.393+0700	[34mINFO[0m	mgr/timerMgr.go:1267	end CountPlayerOnlineNum4Career
+2026-06-04T13:02:50.251+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T13:03:11.309+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T13:03:11.484+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T13:07:50.201+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T13:08:11.236+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T13:08:11.349+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T13:12:50.223+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T13:13:11.263+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T13:13:11.413+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T13:17:50.339+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T13:18:11.385+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T13:18:11.496+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T13:22:50.198+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T13:23:11.223+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T13:23:11.642+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T13:27:50.192+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T13:28:11.217+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T13:28:11.510+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T13:32:50.222+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T13:33:11.250+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T13:33:11.438+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T13:37:50.200+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T13:38:11.249+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T13:38:11.593+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T13:42:50.216+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T13:43:11.248+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T13:43:11.657+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T13:47:50.227+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T13:48:11.269+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T13:48:11.672+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T13:52:50.418+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T13:53:11.450+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T13:53:11.674+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T13:57:50.195+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T13:58:11.234+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T13:58:11.396+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T14:00:01.210+0700	[34mINFO[0m	mgr/timerMgr.go:42	Start CountPlayerOnlineNum
+2026-06-04T14:00:22.236+0700	[34mINFO[0m	mgr/timerMgr.go:50	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T14:00:22.366+0700	[34mINFO[0m	mgr/timerMgr.go:70	End CountPlayerOnlineNum
+2026-06-04T14:00:22.366+0700	[34mINFO[0m	mgr/timerMgr.go:1237	start CountPlayerOnlineNum4Career
+2026-06-04T14:00:43.454+0700	[34mINFO[0m	mgr/timerMgr.go:1246	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T14:00:43.538+0700	[34mINFO[0m	mgr/timerMgr.go:1267	end CountPlayerOnlineNum4Career
+2026-06-04T14:02:50.236+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T14:03:11.281+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T14:03:11.467+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T14:07:50.474+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T14:08:11.510+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T14:08:11.821+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T14:12:50.191+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T14:13:11.233+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T14:13:11.306+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T14:17:50.216+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T14:18:11.261+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T14:18:11.384+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T14:22:50.226+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T14:23:11.268+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T14:23:12.316+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T14:27:50.253+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T14:28:11.303+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T14:28:11.589+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T14:32:51.659+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T14:33:12.701+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T14:33:13.485+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T14:37:50.341+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T14:38:11.372+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T14:38:11.743+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T14:42:51.640+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T14:43:12.669+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T14:43:20.939+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T14:47:50.340+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T14:48:11.380+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T14:48:12.736+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T14:52:50.373+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T14:53:11.422+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T14:53:12.101+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T14:57:50.263+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T14:58:11.304+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T14:58:11.995+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T15:00:01.254+0700	[34mINFO[0m	mgr/timerMgr.go:42	Start CountPlayerOnlineNum
+2026-06-04T15:00:22.283+0700	[34mINFO[0m	mgr/timerMgr.go:50	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T15:00:22.511+0700	[34mINFO[0m	mgr/timerMgr.go:70	End CountPlayerOnlineNum
+2026-06-04T15:00:22.512+0700	[34mINFO[0m	mgr/timerMgr.go:1237	start CountPlayerOnlineNum4Career
+2026-06-04T15:00:43.591+0700	[34mINFO[0m	mgr/timerMgr.go:1246	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T15:00:43.669+0700	[34mINFO[0m	mgr/timerMgr.go:1267	end CountPlayerOnlineNum4Career
+2026-06-04T15:02:50.222+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T15:03:11.264+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T15:03:11.873+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T15:07:50.313+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T15:08:11.364+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T15:08:11.871+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T15:12:50.415+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T15:13:11.469+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T15:13:11.786+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T15:17:50.253+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T15:18:11.287+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T15:18:11.633+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T15:22:50.196+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T15:23:11.241+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T15:23:11.337+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T15:27:50.434+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T15:28:11.626+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T15:28:11.792+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T15:32:50.201+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T15:33:11.230+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T15:33:11.724+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T15:37:50.194+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T15:38:11.233+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T15:38:11.344+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T15:42:50.239+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T15:43:11.287+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T15:43:11.348+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T15:47:50.192+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T15:48:11.233+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T15:48:11.529+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T15:52:50.196+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T15:53:11.228+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T15:53:11.329+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T15:57:50.950+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T15:58:12.008+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T15:58:12.183+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T16:00:01.328+0700	[34mINFO[0m	mgr/timerMgr.go:42	Start CountPlayerOnlineNum
+2026-06-04T16:00:22.374+0700	[34mINFO[0m	mgr/timerMgr.go:50	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T16:00:22.540+0700	[34mINFO[0m	mgr/timerMgr.go:70	End CountPlayerOnlineNum
+2026-06-04T16:00:22.540+0700	[34mINFO[0m	mgr/timerMgr.go:1237	start CountPlayerOnlineNum4Career
+2026-06-04T16:00:43.580+0700	[34mINFO[0m	mgr/timerMgr.go:1246	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T16:00:43.789+0700	[34mINFO[0m	mgr/timerMgr.go:1267	end CountPlayerOnlineNum4Career
+2026-06-04T16:02:50.233+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T16:03:11.279+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T16:03:11.750+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T16:07:50.213+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T16:08:11.265+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T16:08:11.330+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T16:12:50.224+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T16:13:11.274+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T16:13:11.426+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T16:17:50.195+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T16:18:11.222+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T16:18:11.503+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T16:22:50.362+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T16:23:11.379+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T16:23:11.640+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T16:27:50.210+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T16:28:11.251+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T16:28:11.412+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T16:32:50.218+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T16:33:11.264+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T16:33:11.345+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T16:37:50.248+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T16:38:11.281+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T16:38:11.554+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T16:42:50.200+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T16:43:11.243+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T16:43:11.523+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T16:47:50.369+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T16:48:11.410+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T16:48:11.486+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T16:52:50.231+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T16:53:11.294+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T16:53:11.633+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T16:57:50.204+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T16:58:11.230+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T16:58:11.297+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T17:00:01.397+0700	[34mINFO[0m	mgr/timerMgr.go:42	Start CountPlayerOnlineNum
+2026-06-04T17:00:22.431+0700	[34mINFO[0m	mgr/timerMgr.go:50	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T17:00:22.617+0700	[34mINFO[0m	mgr/timerMgr.go:70	End CountPlayerOnlineNum
+2026-06-04T17:00:22.618+0700	[34mINFO[0m	mgr/timerMgr.go:1237	start CountPlayerOnlineNum4Career
+2026-06-04T17:00:43.754+0700	[34mINFO[0m	mgr/timerMgr.go:1246	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T17:00:43.888+0700	[34mINFO[0m	mgr/timerMgr.go:1267	end CountPlayerOnlineNum4Career
+2026-06-04T17:02:50.326+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T17:03:11.378+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T17:03:11.736+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T17:07:50.214+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T17:08:11.268+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T17:08:11.359+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T17:12:50.246+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T17:13:11.306+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T17:13:11.414+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T17:17:50.210+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T17:18:11.260+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T17:18:11.398+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T17:22:50.194+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T17:23:11.234+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T17:23:11.490+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T17:27:50.233+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T17:28:11.292+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T17:28:11.423+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T17:32:50.192+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T17:33:11.218+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T17:33:11.299+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T17:37:50.193+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T17:38:11.228+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T17:38:11.281+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T17:42:50.217+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T17:43:11.271+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T17:43:11.410+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T17:47:50.194+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T17:48:11.213+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T17:48:11.299+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T17:52:50.202+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T17:53:11.236+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T17:53:11.311+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T17:57:50.237+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T17:58:11.258+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T17:58:11.592+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T18:00:01.190+0700	[34mINFO[0m	mgr/timerMgr.go:42	Start CountPlayerOnlineNum
+2026-06-04T18:00:22.229+0700	[34mINFO[0m	mgr/timerMgr.go:50	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T18:00:22.345+0700	[34mINFO[0m	mgr/timerMgr.go:70	End CountPlayerOnlineNum
+2026-06-04T18:00:22.345+0700	[34mINFO[0m	mgr/timerMgr.go:1237	start CountPlayerOnlineNum4Career
+2026-06-04T18:00:43.452+0700	[34mINFO[0m	mgr/timerMgr.go:1246	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T18:00:43.516+0700	[34mINFO[0m	mgr/timerMgr.go:1267	end CountPlayerOnlineNum4Career
+2026-06-04T18:02:50.192+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T18:03:11.237+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T18:03:11.304+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T18:07:50.209+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T18:08:11.253+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T18:08:11.345+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T18:12:50.343+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T18:13:11.386+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T18:13:11.500+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T18:17:50.231+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T18:18:11.259+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T18:18:11.392+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T18:22:50.212+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T18:23:11.237+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T18:23:11.321+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-04T18:27:50.223+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-04T18:28:11.264+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-04T18:28:11.475+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-20T09:13:08.679+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2026-06-20T09:13:09.652+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2026-06-20T09:13:09.736+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2026-06-20T09:13:09.736+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2026-06-20T09:13:09.736+0700	[34mINFO[0m	engine/engine.go:402	=====> --> librarian
+2026-06-20T09:13:09.850+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2026-06-20T09:13:12.769+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-20T09:13:33.786+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T09:13:34.524+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-20T09:18:12.802+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-20T09:18:33.853+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T09:18:34.234+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-20T09:19:01.345+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2026-06-20T09:19:03.064+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2026-06-20T09:19:03.155+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2026-06-20T09:19:03.156+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2026-06-20T09:19:03.156+0700	[34mINFO[0m	engine/engine.go:402	=====> --> librarian
+2026-06-20T09:19:03.397+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2026-06-20T09:20:06.627+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化数据库连接
+2026-06-20T09:20:08.075+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化配置
+2026-06-20T09:20:08.169+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化导航栏按钮
+2026-06-20T09:20:08.171+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化插件
+2026-06-20T09:20:08.171+0700	[34mINFO[0m	engine/engine.go:402	=====> --> librarian
+2026-06-20T09:20:08.299+0700	[34mINFO[0m	engine/engine.go:402	=====> 初始化成功🍺🍺
+2026-06-20T09:24:42.137+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize database connections
+2026-06-20T09:24:43.044+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize configuration
+2026-06-20T09:24:43.143+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize navigation buttons
+2026-06-20T09:24:43.144+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize plugins
+2026-06-20T09:24:43.145+0700	[34mINFO[0m	engine/engine.go:402	=====> --> librarian
+2026-06-20T09:24:43.254+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize success🍺🍺
+2026-06-20T09:30:56.061+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize database connections
+2026-06-20T09:30:57.049+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize configuration
+2026-06-20T09:30:57.159+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize navigation buttons
+2026-06-20T09:30:57.160+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize plugins
+2026-06-20T09:30:57.160+0700	[34mINFO[0m	engine/engine.go:402	=====> --> librarian
+2026-06-20T09:30:57.261+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize success🍺🍺
+2026-06-20T09:35:59.223+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-20T09:36:20.259+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T09:36:20.575+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-20T09:41:07.934+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize database connections
+2026-06-20T09:41:10.090+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize configuration
+2026-06-20T09:41:10.200+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize navigation buttons
+2026-06-20T09:41:10.202+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize plugins
+2026-06-20T09:41:10.202+0700	[34mINFO[0m	engine/engine.go:402	=====> --> librarian
+2026-06-20T09:41:10.409+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize success🍺🍺
+2026-06-20T09:46:13.031+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-20T09:46:34.067+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T09:46:34.783+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-20T09:50:37.957+0700	[34mINFO[0m	fusion/Tools.go:844	 !!!! tempserverIdid :1 > serverId: 1
+2026-06-20T09:50:37.957+0700	[34mINFO[0m	fusion/Tools.go:862	 !!!! dbname :_s1 > serverId: 1
+2026-06-20T09:51:12.837+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-20T09:51:29.947+0700	[34mINFO[0m	fusion/Tools.go:844	 !!!! tempserverIdid :1 > serverId: 1
+2026-06-20T09:51:29.947+0700	[34mINFO[0m	fusion/Tools.go:862	 !!!! dbname :_s1 > serverId: 1
+2026-06-20T09:51:33.881+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T09:51:33.984+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-20T09:56:12.849+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-20T09:56:33.891+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T09:56:34.003+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-20T09:58:30.266+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize database connections
+2026-06-20T09:58:30.806+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize configuration
+2026-06-20T09:58:30.852+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize navigation buttons
+2026-06-20T09:58:30.852+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize plugins
+2026-06-20T09:58:30.852+0700	[34mINFO[0m	engine/engine.go:402	=====> --> librarian
+2026-06-20T09:58:30.908+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize success🍺🍺
+2026-06-20T09:58:39.447+0700	[34mINFO[0m	fusion/Tools.go:844	 !!!! tempserverIdid :1 > serverId: 1
+2026-06-20T09:58:39.447+0700	[34mINFO[0m	fusion/Tools.go:862	 !!!! dbname :_s1 > serverId: 1
+2026-06-20T10:00:01.418+0700	[34mINFO[0m	mgr/timerMgr.go:42	Start CountPlayerOnlineNum
+2026-06-20T10:00:22.430+0700	[34mINFO[0m	mgr/timerMgr.go:50	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T10:00:22.486+0700	[34mINFO[0m	mgr/timerMgr.go:70	End CountPlayerOnlineNum
+2026-06-20T10:00:22.486+0700	[34mINFO[0m	mgr/timerMgr.go:1237	start CountPlayerOnlineNum4Career
+2026-06-20T10:00:43.549+0700	[34mINFO[0m	mgr/timerMgr.go:1246	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T10:00:43.597+0700	[34mINFO[0m	mgr/timerMgr.go:1267	end CountPlayerOnlineNum4Career
+2026-06-20T10:03:32.356+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-20T10:03:53.398+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T10:03:53.557+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-20T10:08:32.596+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-20T10:08:53.611+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T10:08:54.381+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-20T10:13:32.380+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-20T10:13:53.434+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T10:13:53.661+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-20T10:14:58.411+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize database connections
+2026-06-20T10:14:59.191+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize configuration
+2026-06-20T10:14:59.298+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize navigation buttons
+2026-06-20T10:14:59.299+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize plugins
+2026-06-20T10:14:59.299+0700	[34mINFO[0m	engine/engine.go:402	=====> --> librarian
+2026-06-20T10:14:59.376+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize success🍺🍺
+2026-06-20T10:20:01.156+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-20T10:20:22.182+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T10:20:22.281+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-20T10:25:01.187+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-20T10:25:22.219+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T10:25:22.434+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-20T10:29:33.518+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize database connections
+2026-06-20T10:29:33.904+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize configuration
+2026-06-20T10:29:33.964+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize navigation buttons
+2026-06-20T10:29:33.965+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize plugins
+2026-06-20T10:29:33.965+0700	[34mINFO[0m	engine/engine.go:402	=====> --> librarian
+2026-06-20T10:29:34.059+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize success🍺🍺
+2026-06-20T10:29:59.241+0700	[34mINFO[0m	fusion/Tools.go:844	 !!!! tempserverIdid :1 > serverId: 1
+2026-06-20T10:29:59.241+0700	[34mINFO[0m	fusion/Tools.go:862	 !!!! dbname :_s1 > serverId: 1
+2026-06-20T10:30:18.668+0700	[34mINFO[0m	fusion/Tools.go:844	 !!!! tempserverIdid :1 > serverId: 1
+2026-06-20T10:30:18.668+0700	[34mINFO[0m	fusion/Tools.go:862	 !!!! dbname :_s1 > serverId: 1
+2026-06-20T10:30:58.831+0700	[34mINFO[0m	fusion/Tools.go:844	 !!!! tempserverIdid :1 > serverId: 1
+2026-06-20T10:30:58.831+0700	[34mINFO[0m	fusion/Tools.go:862	 !!!! dbname :_s1 > serverId: 1
+2026-06-20T10:31:11.100+0700	[34mINFO[0m	CustomPages/dataTables.go:61	GetRealTimeOnline Failed, Because CenterServer has some error
+2026-06-20T10:31:11.100+0700	[34mINFO[0m	CustomPages/dataTables.go:66	GetRealTimeOnline Failed,serverID = 1,With 
+2026-06-20T10:31:27.066+0700	[34mINFO[0m	fusion/Tools.go:844	 !!!! tempserverIdid :1 > serverId: 1
+2026-06-20T10:31:27.076+0700	[34mINFO[0m	fusion/Tools.go:862	 !!!! dbname :_s1 > serverId: 1
+2026-06-20T10:32:38.621+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize database connections
+2026-06-20T10:32:39.454+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize configuration
+2026-06-20T10:32:39.528+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize navigation buttons
+2026-06-20T10:32:39.528+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize plugins
+2026-06-20T10:32:39.528+0700	[34mINFO[0m	engine/engine.go:402	=====> --> librarian
+2026-06-20T10:32:39.623+0700	[34mINFO[0m	engine/engine.go:402	=====> Initialize success🍺🍺
+2026-06-20T10:32:42.235+0700	[34mINFO[0m	fusion/Tools.go:844	 !!!! tempserverIdid :1 > serverId: 1
+2026-06-20T10:32:42.235+0700	[34mINFO[0m	fusion/Tools.go:862	 !!!! dbname :_s1 > serverId: 1
+2026-06-20T10:37:41.521+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-20T10:38:02.560+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T10:38:02.712+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-20T10:42:41.656+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-20T10:43:02.685+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T10:43:03.098+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-20T10:47:41.483+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-20T10:48:02.516+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T10:48:02.619+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-20T10:52:42.543+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-20T10:53:03.589+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T10:53:03.901+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-20T10:57:41.513+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-20T10:58:02.543+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T10:58:02.808+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-20T11:00:01.512+0700	[34mINFO[0m	mgr/timerMgr.go:42	Start CountPlayerOnlineNum
+2026-06-20T11:00:22.546+0700	[34mINFO[0m	mgr/timerMgr.go:50	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T11:00:22.668+0700	[34mINFO[0m	mgr/timerMgr.go:70	End CountPlayerOnlineNum
+2026-06-20T11:00:22.668+0700	[34mINFO[0m	mgr/timerMgr.go:1237	start CountPlayerOnlineNum4Career
+2026-06-20T11:00:43.764+0700	[34mINFO[0m	mgr/timerMgr.go:1246	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T11:00:43.879+0700	[34mINFO[0m	mgr/timerMgr.go:1267	end CountPlayerOnlineNum4Career
+2026-06-20T11:02:41.511+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-20T11:03:02.563+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T11:03:02.655+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-20T11:07:41.574+0700	[34mINFO[0m	mgr/timerMgr.go:1126	Start CountPlayerOnlineNum
+2026-06-20T11:08:02.598+0700	[34mINFO[0m	mgr/timerMgr.go:1134	CountPlayerOnlineNum Failed, Because CenterServer has some error
+2026-06-20T11:08:02.663+0700	[34mINFO[0m	mgr/timerMgr.go:1156	End CountPlayerOnlineNum
+2026-06-20T11:11:21.708+0700	[34mINFO[0m	fusion/Tools.go:844	 !!!! tempserverIdid :1 > serverId: 1
+2026-06-20T11:11:21.709+0700	[34mINFO[0m	fusion/Tools.go:862	 !!!! dbname :_s1 > serverId: 1

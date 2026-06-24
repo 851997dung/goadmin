@@ -1,0 +1,55 @@
+邮件管理 Quản lý thư
+日志查询   nhật ký tìm kiếm
+登录日志 Nhật ký đăng nhập
+服务器管理  Quản lý sever
+玩家管理 Quản lý người chơi
+玩家信息 Thông tin người chơi
+聊天日志 Nhật ký chat
+升级日志 Nhật ký tăng cấp
+任务日志 Nhật ký nhiệm vụ
+经验日志n Nhật ký kinh nghiệm
+货币日志 Nhật ký tiền tệ
+道具日志 Nhật ký đạo cụ
+副本日志 Nhật ký phó bản
+荧之石日志 Nhật ký huỳnh thạch
+装备日志 Nhật ký trang bị
+广播管理 Quản lý truyền phát
+配饰日志 Nhật ký trang sức
+艾尔特日志 Nhật ký Elt
+导出日志数据 Xuất dữ liệu nhật ký
+数据明细 Số liệu cụ thể
+数据表格 Bảng số liệu
+数据图表 Biểu đồ số liệu
+服务器操作 Thao tác sever
+首页  TTTrang đầu
+功能开关 Đóng mở tính năng
+ip黑白名单 IP danh sách đen trắng
+礼包码 Mã lễ bao
+礼包码管理 Quản lý mã lễ bao
+礼包码使用记录 Nhật ký sử dụng mã lễ bao
+排行榜 bảng xếp hạng
+排行榜 bảng xếp hạng
+排行榜 bảng xếp hạng
+排行榜（每日） bảng xếp hạng((mỗi ngày)
+充值排行总榜  Tổng bảng xếp hạng nạp
+
+msgid "操作类型"
+msgstr "Loại hình thao tác"
+
+msgid "全服邮件"
+msgstr "Thư toàn sever"
+
+msgid "个人邮件"
+msgstr "Thư cá nhân"
+
+msgid "服务器开启状态"
+msgstr "Trạng thái đóng mở sever"
+
+msgid "邮件类型"
+msgstr "Loại hình thư"
+
+msgid "角色创建时间"
+msgstr "Thời gian tạo nhân vật"
+
+msgid "角色最后登录时间"
+msgstr "Thời gian lần đăng nhập cuối của nhân vật"

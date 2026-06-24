@@ -1,0 +1,2908 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: pages\AutoPages\t_client_version.go:61
+msgid "<h5>已通知到中心服！</h5>"
+msgstr ""
+
+#: mgr\pageMgr\serverMgr.go:462
+msgid "ARPPU"
+msgstr ""
+
+#: mgr\pageMgr\serverMgr.go:463
+msgid "ARPU"
+msgstr ""
+
+#: common\def\complaintDef.go:48
+msgid "BUG"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:671
+msgid "CCU"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:431 pages\CustomPages\serverInfo.go:1362
+msgid "CHAR数据库"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:89
+msgid "ChartID"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:297
+msgid "DUEL"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:194
+msgid "GM"
+msgstr ""
+
+#: pages\CustomPages\Email.go:49
+msgid "Host"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:95
+msgid "IOS"
+msgstr ""
+
+#: pages\AutoPages\global_cfg_check.go:105
+msgid "Key"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:414 pages\CustomPages\serverInfo.go:1344
+msgid "LOG数据库"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:264
+msgid "NPC商店出售"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:265
+msgid "NPC商店购回"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:204
+msgid "PK"
+msgstr ""
+
+#: pages\CustomPages\Email.go:53
+msgid "Port"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:448
+msgid "Redis序号"
+msgstr ""
+
+#: pages\AutoPages\log_character_onlines.go:51
+#: pages\AutoPages\log_player_amulet.go:54
+#: pages\AutoPages\log_player_dungeons.go:52
+#: pages\AutoPages\log_player_equip.go:52 pages\AutoPages\log_player_ertl.go:52
+#: pages\AutoPages\log_player_exps.go:58
+#: pages\AutoPages\log_player_item_add_error.go:65
+#: pages\AutoPages\log_player_items.go:58
+#: pages\AutoPages\log_player_moneys.go:57
+#: pages\AutoPages\log_player_quests.go:61
+#: pages\AutoPages\log_player_stone.go:53
+msgid "VIP等级"
+msgstr ""
+
+#: pages\AutoPages\global_cfg_check.go:106
+#: pages\AutoPages\global_cfg_check.go:172
+msgid "Value"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:451
+msgid "deployServerHost"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:454
+msgid "deployServerPort"
+msgstr ""
+
+#: pages\AutoPages\global_cfg_check.go:169
+msgid "key"
+msgstr ""
+
+#: pages\AutoPages\global_cfg_check.go:298
+msgid "something wrong"
+msgstr ""
+
+#: mgr\pageMgr\serverMgr.go:468 pages\CustomPages\serverInfo.go:611
+msgid "七日留存"
+msgstr ""
+
+#: mgr\pageMgr\serverMgr.go:472 pages\CustomPages\serverInfo.go:631
+msgid "七日留存(%)"
+msgstr ""
+
+#: mgr\pageMgr\serverMgr.go:467 pages\CustomPages\serverInfo.go:609
+msgid "三日留存"
+msgstr ""
+
+#: mgr\pageMgr\serverMgr.go:471 pages\CustomPages\serverInfo.go:622
+msgid "三日留存(%)"
+msgstr ""
+
+#: pages\AutoPages\t_excel_config.go:97
+msgid "上传配置"
+msgstr ""
+
+#: fusion\Tools.go:1311
+msgid "上架"
+msgstr ""
+
+#: fusion\Tools.go:1335
+msgid "上架后位置"
+msgstr ""
+
+#: fusion\Tools.go:1314
+msgid "上架失败"
+msgstr ""
+
+#: pages\AutoPages\log_character_onlines.go:61
+#: pages\AutoPages\log_character_onlines.go:67
+msgid "上线"
+msgstr ""
+
+#: pages\AutoPages\log_character_onlines.go:57
+msgid "上线/下线"
+msgstr ""
+
+#: fusion\Tools.go:1312
+msgid "下架"
+msgstr ""
+
+#: pages\AutoPages\log_character_onlines.go:63
+#: pages\AutoPages\log_character_onlines.go:68
+msgid "下线"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:1291
+msgid "下载资源文件"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:41
+#: pages\AutoPages\t_activation_code.go:99
+#: pages\AutoPages\t_function_switch.go:86 pages\AutoPages\t_notices.go:57
+#: pages\AutoPages\t_notices.go:159
+msgid "不发往指定服务器"
+msgstr ""
+
+#: common\def\logDef.go:386
+msgid "世界"
+msgstr ""
+
+#: fusion\Tools.go:1261
+msgid "丢弃"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:208
+msgid "丢弃物品"
+msgstr ""
+
+#: fusion\Tools.go:1262
+msgid "丢弃者"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:46
+#: pages\AutoPages\t_activation_code.go:52
+#: pages\AutoPages\t_activation_code.go:84
+msgid "个人"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:284
+msgid "个人商店"
+msgstr ""
+
+#: fusion\Tools.go:1338 fusion\Tools.go:1341
+msgid "个人商店记录id"
+msgstr ""
+
+#: pages\CustomPages\mail.go:50
+msgid "个人邮件"
+msgstr ""
+
+#: pages\CustomPages\index.go:52
+msgid "中心服host"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:1562
+#: pages\AutoPages\t_game_servers.go:86
+msgid "中心服数据库备份"
+msgstr ""
+
+#: pages\CustomPages\index.go:55
+msgid "中心服端口"
+msgstr ""
+
+#: pages\CustomPages\index.go:45
+msgid "中文"
+msgstr ""
+
+#: common\def\questDef\questDef.go:39 common\def\questDef\questDef.go:46
+msgid "主线"
+msgstr ""
+
+#: common\def\questDef\questDef.go:62
+msgid "义军任务"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:212
+msgid "交换物品"
+msgstr ""
+
+#: common\def\logDef.go:153
+msgid "交换道具"
+msgstr ""
+
+#: fusion\Tools.go:1300
+msgid "交易对象playerID"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:263
+msgid "交易物品"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:312 pages\CustomPages\onlineChart.go:68
+#: pages\CustomPages\onlineChart.go:76 pages\CustomPages\serverInfo.go:117
+#: pages\CustomPages\serverInfo.go:135 pages\CustomPages\serverInfo.go:144
+#: pages\CustomPages\serverInfo.go:163 pages\CustomPages\serverInfo.go:247
+#: pages\CustomPages\serverInfo.go:266 pages\CustomPages\serverInfo.go:282
+#: pages\CustomPages\serverInfo.go:301 pages\CustomPages\serverInfo.go:316
+msgid "人数"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:104 pages\CustomPages\serverInfo.go:228
+msgid "人次"
+msgstr ""
+
+#: pages\AutoPages\account_data_count.go:29
+msgid "付费账号/账号"
+msgstr ""
+
+#: pages\AutoPages\log_player_quests.go:67
+msgid "任务ID"
+msgstr ""
+
+#: pages\AutoPages\log_player_quests.go:69
+msgid "任务名"
+msgstr ""
+
+#: pages\AutoPages\log_player_quests.go:81
+msgid "任务子类型"
+msgstr ""
+
+#: common\def\logDef.go:468 pages\AutoPages\log_player_quests.go:105
+msgid "任务日志"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:140
+msgid "任务疑似流失"
+msgstr ""
+
+#: pages\AutoPages\log_player_quests.go:71
+msgid "任务类型"
+msgstr ""
+
+#: pages\AutoPages\log_player_quests.go:91
+msgid "任务进度"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:219 common\def\flowDef\logFlowType.go:220
+msgid "传送"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:221
+msgid "传送UI"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:62
+#: pages\AutoPages\t_activation_code_use.go:34
+msgid "使用时间"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:255
+msgid "使用激活码"
+msgstr ""
+
+#: fusion\Tools.go:1241
+msgid "使用者的剩余数量"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:206
+msgid "使用道具"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:77
+#: pages\AutoPages\operation_servers.go:919
+msgid "修改后台服务器读取数据库配置"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:80
+#: pages\AutoPages\operation_servers.go:922
+msgid "修改备份服务器读取数据库配置"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:334
+msgid "修改结果"
+msgstr ""
+
+#: common\def\logDef.go:268
+msgid "修理"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:294
+msgid "修理天鹰"
+msgstr ""
+
+#: pages\AutoPages\log_player_equip.go:71
+msgid "修理方式"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:210
+msgid "修理武器"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:196 pages\CustomPages\serverInfo.go:241
+msgid "充值"
+msgstr ""
+
+#: mgr\pageMgr\serverMgr.go:460
+msgid "充值人数"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:100
+msgid "充值分布"
+msgstr ""
+
+#: pages\AutoPages\rankList.go:40
+msgid "充值排行"
+msgstr ""
+
+#: pages\AutoPages\rankList.go:177 pages\AutoPages\rankList.go:421
+msgid "充值次数"
+msgstr ""
+
+#: mgr\pageMgr\serverMgr.go:464 pages\CustomPages\serverInfo.go:598
+msgid "充值渗透率(%)"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:576
+msgid "充值玩家"
+msgstr ""
+
+#: pages\AutoPages\rankList.go:53 pages\AutoPages\totalRankList.go:42
+msgid "充值金额"
+msgstr ""
+
+#: mgr\pageMgr\serverMgr.go:459 pages\CustomPages\serverInfo.go:578
+msgid "充值金额(元)"
+msgstr ""
+
+#: common\def\complaintDef.go:49
+msgid "充值问题"
+msgstr ""
+
+#: pages\AutoPages\rankList.go:167 pages\AutoPages\rankList.go:180
+#: pages\AutoPages\rankList.go:418
+msgid "充值额度"
+msgstr ""
+
+#: fusion\Tools.go:827 pages\AutoPages\t_activation_code.go:45
+#: pages\AutoPages\t_activation_code.go:50
+#: pages\AutoPages\t_activation_code.go:83
+msgid "全服"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:664
+msgid "全服ccu"
+msgstr ""
+
+#: pages\AutoPages\t_game_servers.go:197
+msgid "全服信息"
+msgstr ""
+
+#: pages\AutoPages\rankList.go:415
+msgid "全服累充排行"
+msgstr ""
+
+#: pages\CustomPages\mail.go:49
+msgid "全服邮件"
+msgstr ""
+
+#: pages\AutoPages\t_affiche.go:38 pages\AutoPages\t_affiche.go:54
+msgid "公告管理"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:650
+msgid "关服"
+msgstr ""
+
+#: pages\AutoPages\t_account_characters.go:41
+#: pages\AutoPages\t_account_characters.go:48
+msgid "关闭"
+msgstr ""
+
+#: pages\AutoPages\t_function_switch.go:39
+msgid "关闭该功能的服务器"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:1455
+msgid "关闭进程守护"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:1426
+msgid "关闭选中服务器"
+msgstr ""
+
+#: common\def\logDef.go:499 pages\AutoPages\global_cfg_check.go:104
+msgid "其他"
+msgstr ""
+
+#: pages\AutoPages\complaint_management.go:60
+#: pages\AutoPages\complaint_management.go:77
+#: pages\AutoPages\log_character_chats.go:59 pages\AutoPages\t_affiche.go:31
+#: pages\AutoPages\t_affiche.go:44 pages\AutoPages\t_notices.go:45
+#: pages\AutoPages\t_notices.go:151
+msgid "内容"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:725
+#: pages\AutoPages\operation_servers.go:1709
+msgid "内部IP"
+msgstr ""
+
+#: common\def\logDef.go:423
+msgid "冒泡"
+msgstr ""
+
+#: common\def\logDef.go:152
+msgid "分割道具"
+msgstr ""
+
+#: pages\CustomPages\index.go:43
+msgid "切换语言"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:43
+msgid "创建时间"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:279
+msgid "创建角色"
+msgstr ""
+
+#: pages\CustomPages\mail.go:79 pages\CustomPages\mail.go:287
+msgid "到期时间"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:374
+msgid "副本"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:192
+msgid "副本参与人数"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:202
+msgid "副本参与记录"
+msgstr ""
+
+#: pages\AutoPages\log_player_dungeons.go:58
+msgid "副本名称"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:193
+msgid "副本完成人数"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:198
+msgid "副本完成度"
+msgstr ""
+
+#: common\def\logDef.go:461 pages\AutoPages\log_player_dungeons.go:76
+msgid "副本日志"
+msgstr ""
+
+#: pages\AutoPages\log_player_dungeons.go:64
+msgid "副本进度"
+msgstr ""
+
+#: pages\AutoPages\t_function_switch.go:42
+msgid "功能开关"
+msgstr ""
+
+#: common\def\logDef.go:382
+msgid "区域"
+msgstr ""
+
+#: common\def\logDef.go:347
+msgid "升级"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:234
+msgid "升级插槽道具"
+msgstr ""
+
+#: common\def\logDef.go:466 pages\AutoPages\log_player_levelups.go:62
+msgid "升级日志"
+msgstr ""
+
+#: common\def\logDef.go:346
+msgid "升阶"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:71
+msgid "单个"
+msgstr ""
+
+#: pages\AutoPages\t_notices.go:44 pages\AutoPages\t_notices.go:149
+msgid "单位"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:354
+msgid "单服ccu"
+msgstr ""
+
+#: pages\AutoPages\rankList.go:154
+msgid "单服累充排行"
+msgstr ""
+
+#: common\def\logDef.go:422
+msgid "即时"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:214
+msgid "卸下物品"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:206 pages\CustomPages\serverInfo.go:361
+msgid "参与人数"
+msgstr ""
+
+#: fusion\Tools.go:1180 fusion\Tools.go:1220 fusion\Tools.go:1244
+#: fusion\Tools.go:1264 fusion\Tools.go:1282 fusion\Tools.go:1297
+#: fusion\Tools.go:1321
+msgid "参数有误"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:849
+msgid "参数错误"
+msgstr ""
+
+#: fusion\Tools.go:1206
+msgid "发件人ID"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:40
+#: pages\AutoPages\t_activation_code.go:96
+#: pages\AutoPages\t_function_switch.go:82 pages\AutoPages\t_notices.go:56
+#: pages\AutoPages\t_notices.go:156
+msgid "发往指定服务器"
+msgstr ""
+
+#: fusion\Tools.go:1186
+msgid "发送"
+msgstr ""
+
+#: fusion\Tools.go:1208 pages\CustomPages\mail.go:78
+#: pages\CustomPages\mail.go:286
+msgid "发送时间"
+msgstr ""
+
+#: pages\AutoPages\log_player_item_add_error.go:95
+#: pages\CustomPages\mail.go:413
+msgid "发送补偿邮件"
+msgstr ""
+
+#: pages\CustomPages\mail.go:115 pages\CustomPages\mail.go:119
+#: pages\CustomPages\mail.go:323 pages\CustomPages\mail.go:327
+msgid "发送邮件"
+msgstr ""
+
+#: pages\AutoPages\t_notices.go:51 pages\AutoPages\t_notices.go:154
+msgid "发送频道"
+msgstr ""
+
+#: common\def\questDef\questDef.go:80
+msgid "取消"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:216
+msgid "取消任务"
+msgstr ""
+
+#: pages\AutoPages\log_player_equip.go:86
+msgid "变更属性ID"
+msgstr ""
+
+#: pages\AutoPages\log_player_equip.go:87
+msgid "变更属性值"
+msgstr ""
+
+#: common\def\itemdef.go:71
+msgid "可交易的"
+msgstr ""
+
+#: common\def\itemdef.go:70
+msgid "可使用"
+msgstr ""
+
+#: common\def\logDef.go:228
+msgid "合成"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:238
+msgid "合成元素之心"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:239
+msgid "合成元素之魂"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:243
+msgid "合成属性胶囊"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:87
+msgid "同一个玩家只能使用一个同一批号的礼包码"
+msgstr ""
+
+#: SendEMail\SendMail.go:24
+msgid "后台管理服务器"
+msgstr ""
+
+#: SendEMail\SendMail.go:26
+msgid "后台管理服务器通知！"
+msgstr ""
+
+#: pages\AutoPages\t_notices.go:116
+msgid "向服务器请求取消选中条目"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:224
+msgid "向玩家开放"
+msgstr ""
+
+#: mgr\pageMgr\playerMgr.go:56 pages\AutoPages\log_player_moneys.go:108
+#: pages\AutoPages\t_notices.go:64 pages\AutoPages\t_notices.go:67
+#: pages\AutoPages\t_notices.go:164
+msgid "否"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:348
+msgid "商城"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:199
+msgid "商店"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:222
+msgid "商店出售"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:181
+msgid "商店道具购买分布"
+msgstr ""
+
+#: pages\CustomPages\mail.go:64
+msgid "在此条邮件发送时间之前注册的用户可收到"
+msgstr ""
+
+#: pages\CustomPages\mail.go:65
+msgid "在此条邮件发送时间之后注册的用户可收到"
+msgstr ""
+
+#: pages\CustomPages\mail.go:59
+msgid "在此项中选择不发送邮件的服务器。"
+msgstr ""
+
+#: pages\CustomPages\mail.go:57
+msgid "在此项中选择发送邮件的服务器,若不选则默认为向所有服务器发送。"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:101
+#: pages\AutoPages\t_function_switch.go:88 pages\AutoPages\t_notices.go:161
+msgid "在此项选择不发往的服务器"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:98
+#: pages\AutoPages\t_function_switch.go:84 pages\AutoPages\t_notices.go:157
+msgid "在此项选择要发往的服务器,若不填则向所有服务器发送"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:260
+msgid "在线人数统计"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:216
+msgid "在线均值"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:214
+msgid "在线峰值"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:215
+msgid "在线谷值"
+msgstr ""
+
+#: common\def\itemdef.go:76
+msgid "坐骑"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:450
+msgid "填写服务器配置文件对应的redis序号,默认为2"
+msgstr ""
+
+#: pages\CustomPages\index.go:59
+msgid "备份服务器host"
+msgstr ""
+
+#: pages\CustomPages\index.go:62
+msgid "备份服务器端口"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:201
+msgid "复活"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:723
+#: pages\AutoPages\operation_servers.go:1707
+msgid "外部IP"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:724
+#: pages\AutoPages\operation_servers.go:1708
+msgid "外部端口"
+msgstr ""
+
+#: fusion\Tools.go:901
+msgid "多普瑞恩家族"
+msgstr ""
+
+#: common\def\questDef\questDef.go:79
+msgid "失败"
+msgstr ""
+
+#: pages\AutoPages\log_player_stone.go:72
+msgid "孔位"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:269
+msgid "存入货币仓库"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:93
+msgid "安卓"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:270
+msgid "完成任务"
+msgstr ""
+
+#: common\def\complaintDef.go:57
+msgid "官网"
+msgstr ""
+
+#: pages\AutoPages\log_player_stone.go:80
+msgid "宝石等级"
+msgstr ""
+
+#: pages\AutoPages\log_player_stone.go:73
+#: pages\AutoPages\log_player_stone.go:77
+#: pages\AutoPages\log_player_stone.go:81
+msgid "宝石类型ID"
+msgstr ""
+
+#: pages\AutoPages\rankList.go:170
+msgid "实力"
+msgstr ""
+
+#: pages\AutoPages\rankList.go:155
+msgid "实力排行"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:45 pages\CustomPages\dataTables.go:47
+msgid "实时在线人数"
+msgstr ""
+
+#: common\def\itemdef.go:77
+msgid "宠物转换器"
+msgstr ""
+
+#: common\def\logDef.go:196 common\def\questDef\questDef.go:47
+msgid "家族任务"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:154
+msgid "家族任务完成率"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:419 pages\CustomPages\serverInfo.go:436
+#: pages\CustomPages\serverInfo.go:1349 pages\CustomPages\serverInfo.go:1367
+msgid "密码"
+msgstr ""
+
+#: pages\CustomPages\Email.go:52
+msgid "对应邮箱的STMP服务器Host"
+msgstr ""
+
+#: pages\CustomPages\Email.go:56
+msgid "对应邮箱的STMP服务器Port"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:123 pages\CustomPages\playerInfo.go:156
+msgid "封禁角色"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:124 pages\CustomPages\playerInfo.go:157
+msgid "封禁账号"
+msgstr ""
+
+#: pages\AutoPages\t_function_switch.go:44 pages\AutoPages\t_notices.go:88
+msgid "将选中条目同步到服务器"
+msgstr ""
+
+#: common\def\logDef.go:384
+msgid "工会"
+msgstr ""
+
+#: common\def\complaintDef.go:65
+msgid "已回复"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:245
+msgid "已将选中服务器设为开放状态"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:708
+msgid "已将选中服务器设为维护状态"
+msgstr ""
+
+#: common\def\complaintDef.go:66
+msgid "已忽略"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:1690
+msgid "已经踢出所有玩家"
+msgstr ""
+
+#: fusion\Tools.go:902
+msgid "巴内尔特家族"
+msgstr ""
+
+#: common\def\logDef.go:197 common\def\flowDef\logFlowType.go:281
+msgid "帝国要塞"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:91
+msgid "平台"
+msgstr ""
+
+#: pages\AutoPages\log_player_stone.go:76
+msgid "幸运属性"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:288
+msgid "幸运抽奖"
+msgstr ""
+
+#: common\def\logDef.go:192 common\def\flowDef\logFlowType.go:273
+#: fusion\Tools.go:1251
+msgid "幻影寺院"
+msgstr ""
+
+#: pages\AutoPages\t_notices.go:68
+msgid "广播列表"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:48
+#: pages\AutoPages\operation_servers.go:1704
+#: pages\AutoPages\t_game_servers.go:46 pages\AutoPages\t_game_servers.go:228
+msgid "序号"
+msgstr ""
+
+#: common\def\complaintDef.go:47
+msgid "建议"
+msgstr ""
+
+#: pages\AutoPages\t_function_switch.go:37
+#: pages\AutoPages\t_function_switch.go:76
+msgid "开关名字"
+msgstr ""
+
+#: pages\AutoPages\t_account_characters.go:42
+msgid "开启"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:375
+msgid "开启服务器(更新后)"
+msgstr ""
+
+#: pages\AutoPages\t_function_switch.go:38
+msgid "开启该功能的服务器"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:1029
+msgid "开启进程守护"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:60
+#: pages\AutoPages\t_activation_code.go:92 pages\AutoPages\t_affiche.go:34
+#: pages\AutoPages\t_affiche.go:46 pages\AutoPages\t_notices.go:42
+#: pages\AutoPages\t_notices.go:147
+msgid "开始时间"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:74
+#: pages\AutoPages\operation_servers.go:916
+#: pages\AutoPages\t_game_servers.go:83
+msgid "开服时间"
+msgstr ""
+
+#: common\def\logDef.go:424
+msgid "弹窗"
+msgstr ""
+
+#: common\def\logDef.go:229 common\def\logDef.go:269
+msgid "强化"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:110
+msgid "当前在线人数"
+msgstr ""
+
+#: pages\AutoPages\log_player_ertl.go:65
+msgid "当前艾尔特等级"
+msgstr ""
+
+#: pages\AutoPages\log_player_ertl.go:66
+msgid "当前艾尔特阶级"
+msgstr ""
+
+#: pages\AutoPages\log_player_moneys.go:77
+msgid "当前货币值"
+msgstr ""
+
+#: pages\AutoPages\log_player_items.go:78
+msgid "当前道具数量"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:220
+msgid "当天充值玩家数"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:222
+msgid "当天总充值人次"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:118
+msgid "当日最大在线"
+msgstr ""
+
+#: common\def\complaintDef.go:64
+msgid "待处理"
+msgstr ""
+
+#: pages\AutoPages\log_character_chats.go:71
+#: pages\AutoPages\log_character_onlines.go:76
+#: pages\AutoPages\log_player_amulet.go:88
+#: pages\AutoPages\log_player_dungeons.go:77
+#: pages\AutoPages\log_player_equip.go:94 pages\AutoPages\log_player_ertl.go:81
+#: pages\AutoPages\log_player_exps.go:87
+#: pages\AutoPages\log_player_items.go:108
+#: pages\AutoPages\log_player_levelups.go:63
+#: pages\AutoPages\log_player_moneys.go:112
+#: pages\AutoPages\log_player_quests.go:106
+#: pages\AutoPages\log_player_stone.go:88
+msgid "必须选择服务器与记录时间后方可查询"
+msgstr ""
+
+#: pages\AutoPages\inst_player_char_brief.go:60
+msgid "必须选择服务器后方可查询"
+msgstr ""
+
+#: pages\AutoPages\t_exp_cfg.go:37 pages\AutoPages\t_exp_cfg.go:51
+msgid "怪物id"
+msgstr ""
+
+#: pages\AutoPages\t_exp_cfg.go:38 pages\AutoPages\t_exp_cfg.go:52
+msgid "怪物名"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:200
+msgid "怪物掉落"
+msgstr ""
+
+#: fusion\Tools.go:1224 fusion\Tools.go:1232
+msgid "怪物生成ID"
+msgstr ""
+
+#: fusion\Tools.go:1227 fusion\Tools.go:1235
+msgid "怪物类型ID"
+msgstr ""
+
+#: pages\AutoPages\t_exp_cfg.go:41 pages\AutoPages\t_exp_cfg.go:54
+msgid "怪物经验系数表"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:62
+msgid "总充值游戏内金额数"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:221
+msgid "总充值玩家数"
+msgstr ""
+
+#: pages\AutoPages\account_data_count.go:28
+msgid "总在线超过48小时的付费账号数量"
+msgstr ""
+
+#: pages\AutoPages\account_data_count.go:27
+msgid "总在线超过48小时的账号数量"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:58
+msgid "总注册账号数"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:64
+msgid "总游戏内充值人数"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:65
+msgid "总网页充值人数"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:63
+msgid "总网页充值金额"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:218
+msgid "总账号数"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:266
+msgid "恶名值忏悔"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:267
+msgid "恶名值自首"
+msgstr ""
+
+#: common\def\logDef.go:188
+msgid "恶魔广场"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:153
+msgid "战盟人数统计"
+msgstr ""
+
+#: pages\AutoPages\rankList.go:422
+msgid "所在服务器"
+msgstr ""
+
+#: pages\AutoPages\t_account_characters.go:46
+msgid "打开"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:56
+#: pages\AutoPages\t_activation_code.go:86
+#: pages\AutoPages\t_activation_code_use.go:31
+msgid "批号"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:70
+msgid "批量"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:1638
+#: pages\AutoPages\operation_servers.go:1640
+#: pages\AutoPages\t_game_servers.go:162 pages\AutoPages\t_game_servers.go:164
+msgid "批量设置服务器标签"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:1654
+#: pages\AutoPages\operation_servers.go:1656
+#: pages\AutoPages\t_game_servers.go:178 pages\AutoPages\t_game_servers.go:180
+msgid "批量设置服务器状态"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:223
+msgid "技能"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:224
+msgid "技能学习"
+msgstr ""
+
+#: pages\AutoPages\complaint_management.go:70
+msgid "投诉建议管理"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:244
+msgid "护身符开孔"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:245
+msgid "护身符强化"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:246 common\def\flowDef\logFlowType.go:247
+msgid "护身符镶嵌宝石"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:211
+msgid "拆分物品"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:258
+msgid "拍卖行.下架"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:262
+msgid "拍卖行.卖出"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:256
+msgid "拍卖行.拍卖"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:257 common\def\flowDef\logFlowType.go:285
+msgid "拍卖行.拍卖.错误"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:259
+msgid "拍卖行.竞拍"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:261
+msgid "拍卖行.竞拍.失败"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:260
+msgid "拍卖行.竞拍.错误"
+msgstr ""
+
+#: common\def\questDef\questDef.go:42
+msgid "指引"
+msgstr ""
+
+#: pages\CustomPages\Email.go:45
+msgid "授权码"
+msgstr ""
+
+#: pages\AutoPages\rankList.go:46 pages\AutoPages\rankList.go:160
+#: pages\AutoPages\rankList.go:417 pages\AutoPages\totalRankList.go:39
+msgid "排名"
+msgstr ""
+
+#: pages\AutoPages\rankList.go:36 pages\AutoPages\rankList.go:150
+msgid "排行榜类型"
+msgstr ""
+
+#: pages\CustomPages\mail.go:58
+msgid "排除的服务器"
+msgstr ""
+
+#: common\def\questDef\questDef.go:77
+msgid "接受"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:215
+msgid "接受任务"
+msgstr ""
+
+#: fusion\Tools.go:1184
+msgid "接收"
+msgstr ""
+
+#: pages\AutoPages\log_character_chats.go:57
+msgid "接收玩家"
+msgstr ""
+
+#: common\def\serverDef.go:37
+msgid "推荐"
+msgstr ""
+
+#: common\def\questDef\questDef.go:81 pages\CustomPages\playerInfo.go:104
+#: pages\CustomPages\serverInfo.go:84 pages\CustomPages\serverInfo.go:388
+#: pages\CustomPages\serverInfo.go:1318
+msgid "提交"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:217
+msgid "提交任务"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:253
+msgid "提交道具"
+msgstr ""
+
+#: common\def\logDef.go:198
+msgid "提炼之塔"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:280
+msgid "提炼宝石"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:207
+msgid "摧毁物品"
+msgstr ""
+
+#: fusion\Tools.go:1184 fusion\Tools.go:1186 fusion\Tools.go:1362
+#: pages\CustomPages\playerInfo.go:173
+msgid "操作"
+msgstr ""
+
+#: pages\AutoPages\log_player_equip.go:83
+msgid "操作后等级"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:758
+#: pages\AutoPages\operation_servers.go:793
+#: pages\AutoPages\operation_servers.go:1744
+#: pages\AutoPages\operation_servers.go:1781
+#: pages\AutoPages\t_game_servers.go:206 pages\CustomPages\playerInfo.go:289
+#: pages\CustomPages\playerInfo.go:307 pages\CustomPages\playerInfo.go:311
+msgid "操作失败"
+msgstr ""
+
+#: pages\CustomPages\mail.go:403
+msgid "操作失败！"
+msgstr ""
+
+#: pages\CustomPages\mail.go:400
+msgid "操作失败！该条已处理！"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:1650
+#: pages\AutoPages\operation_servers.go:1666
+#: pages\AutoPages\t_game_servers.go:174 pages\AutoPages\t_game_servers.go:190
+msgid "操作失败，请联系管理员"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:1650
+#: pages\AutoPages\operation_servers.go:1666
+#: pages\AutoPages\t_game_servers.go:174 pages\AutoPages\t_game_servers.go:190
+#: pages\AutoPages\t_game_servers.go:214 pages\CustomPages\Email.go:104
+#: pages\CustomPages\index.go:138 pages\CustomPages\mail.go:224
+#: pages\CustomPages\mail.go:345 pages\CustomPages\playerInfo.go:317
+#: pages\CustomPages\serverInfo.go:532 pages\CustomPages\serverInfo.go:1435
+msgid "操作成功"
+msgstr ""
+
+#: fusion\Tools.go:1359
+msgid "操作时间"
+msgstr ""
+
+#: pages\AutoPages\log_player_exps.go:67
+#: pages\AutoPages\log_player_item_add_error.go:80
+#: pages\AutoPages\log_player_items.go:79
+#: pages\AutoPages\log_player_moneys.go:85
+msgid "操作来源"
+msgstr ""
+
+#: pages\CustomPages\mail.go:46 pages\CustomPages\playerInfo.go:115
+#: pages\CustomPages\playerInfo.go:152
+msgid "操作类型"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:225
+#: pages\AutoPages\operation_servers.go:375
+#: pages\AutoPages\operation_servers.go:521
+#: pages\AutoPages\operation_servers.go:650
+#: pages\AutoPages\operation_servers.go:1029
+#: pages\AutoPages\operation_servers.go:1255
+#: pages\AutoPages\operation_servers.go:1291
+#: pages\AutoPages\operation_servers.go:1327
+#: pages\AutoPages\operation_servers.go:1427
+#: pages\AutoPages\operation_servers.go:1455
+#: pages\AutoPages\operation_servers.go:1562
+#: pages\AutoPages\operation_servers.go:1583
+#: pages\AutoPages\operation_servers.go:1605
+#: pages\AutoPages\operation_servers.go:1670
+#: pages\AutoPages\t_function_switch.go:45 pages\AutoPages\t_game_servers.go:86
+#: pages\AutoPages\t_game_servers.go:107 pages\AutoPages\t_game_servers.go:129
+#: pages\AutoPages\t_game_servers.go:201 pages\AutoPages\t_notices.go:89
+#: pages\AutoPages\t_notices.go:117
+msgid "操作结果"
+msgstr ""
+
+#: pages\AutoPages\complaint_management.go:68
+#: pages\AutoPages\complaint_management.go:85
+msgid "操作者"
+msgstr ""
+
+#: pages\AutoPages\log_player_moneys.go:81
+msgid "支出"
+msgstr ""
+
+#: common\def\questDef\questDef.go:40
+msgid "支线"
+msgstr ""
+
+#: fusion\Tools.go:1207
+msgid "收件人ID"
+msgstr ""
+
+#: pages\AutoPages\log_player_moneys.go:82
+msgid "收入"
+msgstr ""
+
+#: pages\AutoPages\log_player_moneys.go:78
+msgid "收入/支出"
+msgstr ""
+
+#: common\def\logDef.go:516
+msgid "攻击速度"
+msgstr ""
+
+#: common\def\logDef.go:200 common\def\flowDef\logFlowType.go:283
+msgid "攻城战"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:414 pages\CustomPages\serverInfo.go:431
+#: pages\CustomPages\serverInfo.go:1344 pages\CustomPages\serverInfo.go:1362
+msgid "数据库"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:426 pages\CustomPages\serverInfo.go:443
+#: pages\CustomPages\serverInfo.go:1356 pages\CustomPages\serverInfo.go:1374
+msgid "数据库名"
+msgstr ""
+
+#: pages\AutoPages\rankList.go:148
+msgid "数据排行榜"
+msgstr ""
+
+#: pages\CustomPages\onlineChart.go:90 pages\CustomPages\serverInfo.go:1212
+msgid "数据明细"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:114
+msgid "整点在线人数"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:209
+msgid "整理物品"
+msgstr ""
+
+#: pages\AutoPages\t_excel_config.go:64
+msgid "文件MD5"
+msgstr ""
+
+#: pages\AutoPages\t_excel_config.go:65
+msgid "文件更新时间"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:219
+msgid "新增充值玩家"
+msgstr ""
+
+#: mgr\pageMgr\serverMgr.go:457 pages\CustomPages\serverInfo.go:572
+msgid "新增玩家"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:217
+msgid "新增账号数"
+msgstr ""
+
+#: common\def\serverDef.go:36
+msgid "新服"
+msgstr ""
+
+#: pages\AutoPages\player_active_count.go:44
+msgid "新注册用户活跃率"
+msgstr ""
+
+#: common\def\logDef.go:149
+msgid "新道具"
+msgstr ""
+
+#: fusion\Tools.go:900
+msgid "无"
+msgstr ""
+
+#: pages\CustomPages\mail.go:63
+msgid "无限制"
+msgstr ""
+
+#: common\def\questDef\questDef.go:41
+msgid "日常"
+msgstr ""
+
+#: pages\AutoPages\rankList.go:55 pages\CustomPages\dataTables.go:116
+#: pages\CustomPages\dataTables.go:369 pages\CustomPages\dataTables.go:670
+#: pages\CustomPages\serverInfo.go:97 pages\CustomPages\serverInfo.go:568
+#: pages\CustomPages\serverInfo.go:1059
+msgid "日期"
+msgstr ""
+
+#: pages\AutoPages\player_active_count.go:42
+msgid "日活跃用户A"
+msgstr ""
+
+#: pages\AutoPages\player_active_count.go:43
+msgid "日活跃用户B"
+msgstr ""
+
+#: pages\AutoPages\player_active_count.go:49
+msgid "日登录人次"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:68
+msgid "昨日总充值人数"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:69
+msgid "昨日总充值金额"
+msgstr ""
+
+#: mgr\pageMgr\playerMgr.go:54 pages\AutoPages\log_player_moneys.go:107
+#: pages\AutoPages\t_notices.go:62 pages\AutoPages\t_notices.go:66
+#: pages\AutoPages\t_notices.go:163
+msgid "是"
+msgstr ""
+
+#: mgr\pageMgr\playerMgr.go:50
+msgid "是/否绑定"
+msgstr ""
+
+#: pages\AutoPages\t_account_characters.go:39
+msgid "是否启用GM命令"
+msgstr ""
+
+#: pages\AutoPages\log_player_item_add_error.go:92
+msgid "是否处理"
+msgstr ""
+
+#: pages\AutoPages\log_player_moneys.go:105
+msgid "是否将货币按来源汇总"
+msgstr ""
+
+#: pages\AutoPages\t_notices.go:58 pages\AutoPages\t_notices.go:162
+msgid "是否循环"
+msgstr ""
+
+#: pages\AutoPages\t_affiche.go:36 pages\AutoPages\t_affiche.go:48
+msgid "是否激活"
+msgstr ""
+
+#: common\def\itemdef.go:68 common\def\serverDef.go:27 fusion\Tools.go:1172
+#: pages\CustomPages\mail.go:74
+msgid "普通"
+msgstr ""
+
+#: pages\AutoPages\global_cfg_check.go:78
+#: pages\AutoPages\global_cfg_check.go:177 pages\AutoPages\t_affiche.go:33
+#: pages\AutoPages\t_affiche.go:45 pages\AutoPages\t_function_switch.go:40
+msgid "更新时间"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:537 pages\CustomPages\serverInfo.go:1440
+msgid "更新服务器数据库配置"
+msgstr ""
+
+#: pages\CustomPages\Email.go:119
+msgid "更新邮件发送配置"
+msgstr ""
+
+#: pages\CustomPages\index.go:153
+msgid "更新配置"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:47
+msgid "最后登录时间"
+msgstr ""
+
+#: pages\AutoPages\query_excellent_count.go:56
+#: pages\CustomPages\playerInfo.go:50
+msgid "最近充值时间"
+msgstr ""
+
+#: pages\AutoPages\query_excellent_count.go:57
+#: pages\CustomPages\playerInfo.go:55
+msgid "最近登录IP"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:374 pages\CustomPages\dataTables.go:387
+msgid "月最大在线"
+msgstr ""
+
+#: mgr\timerMgr.go:1108
+msgid "有"
+msgstr ""
+
+#: common\def\itemdef.go:69
+msgid "有期限"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:560
+msgid "服务器"
+msgstr ""
+
+#: pages\AutoPages\account_data_count.go:23
+#: pages\AutoPages\complaint_management.go:52
+#: pages\AutoPages\complaint_management.go:78
+#: pages\AutoPages\inst_player_char_brief.go:35
+#: pages\AutoPages\log_character_chats.go:41
+#: pages\AutoPages\log_character_onlines.go:39
+#: pages\AutoPages\log_player_amulet.go:42
+#: pages\AutoPages\log_player_dungeons.go:40
+#: pages\AutoPages\log_player_equip.go:40 pages\AutoPages\log_player_ertl.go:40
+#: pages\AutoPages\log_player_exps.go:45
+#: pages\AutoPages\log_player_item_add_error.go:49
+#: pages\AutoPages\log_player_items.go:45
+#: pages\AutoPages\log_player_levelups.go:39
+#: pages\AutoPages\log_player_moneys.go:45
+#: pages\AutoPages\log_player_quests.go:49
+#: pages\AutoPages\log_player_stone.go:41
+#: pages\AutoPages\operation_servers.go:262
+#: pages\AutoPages\operation_servers.go:1104
+#: pages\AutoPages\operation_servers.go:1646
+#: pages\AutoPages\operation_servers.go:1662
+#: pages\AutoPages\player_active_count.go:33
+#: pages\AutoPages\query_excellent_count.go:40 pages\AutoPages\rankList.go:43
+#: pages\AutoPages\rankList.go:157 pages\AutoPages\suspicious_data_record.go:45
+#: pages\AutoPages\t_excel_config.go:42 pages\AutoPages\t_exp_cfg.go:31
+#: pages\AutoPages\t_exp_cfg.go:44 pages\AutoPages\t_game_servers.go:170
+#: pages\AutoPages\t_game_servers.go:186 pages\AutoPages\totalRankList.go:35
+#: pages\CustomPages\dataTables.go:40 pages\CustomPages\dataTables.go:113
+#: pages\CustomPages\dataTables.go:210 pages\CustomPages\mail.go:68
+#: pages\CustomPages\onlineChart.go:43 pages\CustomPages\onlineChart.go:81
+#: pages\CustomPages\onlineChart.go:129 pages\CustomPages\playerInfo.go:35
+#: pages\CustomPages\playerInfo.go:114 pages\CustomPages\playerInfo.go:151
+#: pages\CustomPages\serverInfo.go:90 pages\CustomPages\serverInfo.go:411
+#: pages\CustomPages\serverInfo.go:1055 pages\CustomPages\serverInfo.go:1203
+#: pages\CustomPages\serverInfo.go:1341
+msgid "服务器ID"
+msgstr ""
+
+#: pages\AutoPages\t_account_characters.go:33
+#: pages\CustomPages\dataTables.go:355 pages\CustomPages\dataTables.go:665
+#: pages\CustomPages\mail.go:274
+msgid "服务器Id"
+msgstr ""
+
+#: pages\AutoPages\t_excel_config.go:98
+msgid "服务器id"
+msgstr ""
+
+#: pages\AutoPages\log_character_chats.go:39
+#: pages\AutoPages\log_character_onlines.go:37
+#: pages\AutoPages\log_player_amulet.go:40
+#: pages\AutoPages\log_player_dungeons.go:38
+#: pages\AutoPages\log_player_equip.go:38 pages\AutoPages\log_player_ertl.go:38
+#: pages\AutoPages\log_player_exps.go:43
+#: pages\AutoPages\log_player_item_add_error.go:47
+#: pages\AutoPages\log_player_items.go:43
+#: pages\AutoPages\log_player_levelups.go:37
+#: pages\AutoPages\log_player_moneys.go:43
+#: pages\AutoPages\log_player_quests.go:47
+#: pages\AutoPages\log_player_stone.go:39
+#: pages\AutoPages\operation_servers.go:54
+#: pages\AutoPages\operation_servers.go:728
+#: pages\AutoPages\operation_servers.go:896
+#: pages\AutoPages\operation_servers.go:1712 pages\AutoPages\t_exp_cfg.go:34
+#: pages\AutoPages\t_exp_cfg.go:46 pages\AutoPages\t_game_servers.go:63
+#: pages\CustomPages\serverInfo.go:412 pages\CustomPages\serverInfo.go:1342
+msgid "服务器名"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:729
+#: pages\AutoPages\operation_servers.go:1713
+msgid "服务器开启时间"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:56
+#: pages\AutoPages\operation_servers.go:898
+#: pages\AutoPages\operation_servers.go:1664
+#: pages\AutoPages\t_game_servers.go:65 pages\AutoPages\t_game_servers.go:188
+msgid "服务器开启状态"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:65
+#: pages\AutoPages\operation_servers.go:733
+#: pages\AutoPages\operation_servers.go:907
+#: pages\AutoPages\operation_servers.go:1648
+#: pages\AutoPages\operation_servers.go:1717
+#: pages\AutoPages\t_game_servers.go:74 pages\AutoPages\t_game_servers.go:172
+#: pages\CustomPages\serverInfo.go:56
+msgid "服务器标签"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:731
+#: pages\AutoPages\operation_servers.go:1715 pages\CustomPages\serverInfo.go:57
+msgid "服务器状态"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:536 pages\CustomPages\serverInfo.go:1439
+msgid "服务器管理"
+msgstr ""
+
+#: pages\AutoPages\t_game_servers.go:194
+msgid "服务器详情"
+msgstr ""
+
+#: pages\AutoPages\log_player_item_add_error.go:71
+#: pages\CustomPages\mail.go:289
+msgid "未成功添加的道具"
+msgstr ""
+
+#: pages\AutoPages\log_player_item_add_error.go:93
+msgid "未成功添加道具日志"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:203
+msgid "杀怪"
+msgstr ""
+
+#: mgr\timerMgr.go:1108
+msgid "条监测信息待处理!"
+msgstr ""
+
+#: fusion\Tools.go:1248 fusion\Tools.go:1251 fusion\Tools.go:1254
+#: fusion\Tools.go:1257 fusion\Tools.go:1261 fusion\Tools.go:1268
+msgid "来源"
+msgstr ""
+
+#: pages\CustomPages\onlineChart.go:32 pages\CustomPages\onlineChart.go:36
+#: pages\CustomPages\serverInfo.go:1044 pages\CustomPages\serverInfo.go:1048
+msgid "查找"
+msgstr ""
+
+#: pages\AutoPages\inst_player_char_brief.go:59
+msgid "查找玩家"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:1605
+#: pages\AutoPages\t_game_servers.go:129
+msgid "查看进程守护状态"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:362
+msgid "查询类型"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:122
+msgid "模拟充值"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:141
+msgid "模拟充值类型"
+msgstr ""
+
+#: pages\AutoPages\log_player_exps.go:66 pages\CustomPages\serverInfo.go:185
+#: pages\CustomPages\serverInfo.go:335
+msgid "次数"
+msgstr ""
+
+#: mgr\pageMgr\serverMgr.go:466 pages\CustomPages\serverInfo.go:607
+msgid "次日留存"
+msgstr ""
+
+#: mgr\pageMgr\serverMgr.go:470 pages\CustomPages\serverInfo.go:613
+msgid "次日留存(%)"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:415 pages\CustomPages\serverInfo.go:432
+msgid "此处填写后台服务器对应读取数据库配置"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:1345 pages\CustomPages\serverInfo.go:1363
+msgid "此处填写备份服务器对应读取数据库配置"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:205
+msgid "死亡惩罚"
+msgstr ""
+
+#: fusion\Tools.go:1268
+msgid "死亡掉落"
+msgstr ""
+
+#: common\def\logDef.go:191 common\def\questDef\questDef.go:60
+msgid "每日任务"
+msgstr ""
+
+#: common\def\logDef.go:194 common\def\questDef\questDef.go:61
+msgid "每日活跃"
+msgstr ""
+
+#: common\def\questDef\questDef.go:64
+msgid "江湖大盗任务"
+msgstr ""
+
+#: fusion\Tools.go:1285
+msgid "活动ID"
+msgstr ""
+
+#: common\def\questDef\questDef.go:45
+msgid "活动副本"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:225
+msgid "活动奖励"
+msgstr ""
+
+#: fusion\Tools.go:1287
+msgid "活动完成状态ID"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:298
+msgid "活动消耗"
+msgstr ""
+
+#: common\def\questDef\questDef.go:44
+msgid "活跃"
+msgstr ""
+
+#: mgr\pageMgr\serverMgr.go:458 pages\CustomPages\serverInfo.go:574
+msgid "活跃玩家"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:295
+msgid "流失统计"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:276
+msgid "消耗宠物智力转换器获得魔力之石"
+msgstr ""
+
+#: pages\AutoPages\t_notices.go:165
+msgid "添加广播"
+msgstr ""
+
+#: common\def\logDef.go:151
+msgid "添加道具"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:521
+msgid "清理旧资源->更新新资源->解压部署资源"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:1327
+msgid "清除资源文件"
+msgstr ""
+
+#: common\def\complaintDef.go:58
+msgid "游戏内提交"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:1583
+#: pages\AutoPages\t_game_servers.go:107
+msgid "游戏服数据库备份"
+msgstr ""
+
+#: pages\AutoPages\query_excellent_count.go:53
+msgid "满足条件的装备数量"
+msgstr ""
+
+#: common\def\serverDef.go:34
+msgid "火爆"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:265
+#: pages\AutoPages\operation_servers.go:1107
+msgid "热更新参数"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:264
+#: pages\AutoPages\operation_servers.go:1106
+msgid "热更新文件名"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:256
+#: pages\AutoPages\operation_servers.go:258
+#: pages\AutoPages\operation_servers.go:1098
+#: pages\AutoPages\operation_servers.go:1100
+msgid "热更新服务器"
+msgstr ""
+
+#: common\def\serverDef.go:35
+msgid "爆满"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:218
+msgid "物品到期"
+msgstr ""
+
+#: pages\AutoPages\complaint_management.go:61
+#: pages\AutoPages\complaint_management.go:83
+msgid "状态"
+msgstr ""
+
+#: common\def\logDef.go:195
+msgid "狼魂要塞"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:291
+msgid "玛雅装备合成"
+msgstr ""
+
+#: pages\AutoPages\inst_player_char_brief.go:38
+#: pages\AutoPages\t_activation_code_use.go:30
+#: pages\CustomPages\playerInfo.go:36
+msgid "玩家ID"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:59 pages\CustomPages\playerInfo.go:194
+msgid "玩家信息"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:329
+msgid "玩家信息统计"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:155
+msgid "玩家在线总时长"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:169
+msgid "玩家家族分布"
+msgstr ""
+
+#: pages\AutoPages\inst_player_char_brief.go:41 pages\CustomPages\mail.go:70
+#: pages\CustomPages\mail.go:272 pages\CustomPages\playerInfo.go:38
+msgid "玩家昵称"
+msgstr ""
+
+#: pages\AutoPages\inst_player_char_brief.go:43
+#: pages\CustomPages\playerInfo.go:39
+msgid "玩家等级"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:159
+msgid "玩家等级分布"
+msgstr ""
+
+#: pages\AutoPages\inst_player_char_brief.go:63
+#: pages\AutoPages\query_excellent_count.go:205
+#: pages\AutoPages\suspicious_data_record.go:95
+#: pages\CustomPages\playerInfo.go:191
+msgid "玩家详情"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:202
+msgid "玩法"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:77
+msgid "生成数量"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:68
+msgid "生成方式"
+msgstr ""
+
+#: common\def\logDef.go:193 common\def\flowDef\logFlowType.go:274
+#: fusion\Tools.go:1257
+msgid "生魂广场"
+msgstr ""
+
+#: pages\CustomPages\Email.go:44
+msgid "用于发送紧急邮件的邮箱"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:418 pages\CustomPages\serverInfo.go:435
+#: pages\CustomPages\serverInfo.go:1348 pages\CustomPages\serverInfo.go:1366
+msgid "用户名"
+msgstr ""
+
+#: pages\AutoPages\player_active_count.go:53
+msgid "用户日活跃"
+msgstr ""
+
+#: pages\CustomPages\Email.go:75
+msgid "电子邮件配置"
+msgstr ""
+
+#: pages\AutoPages\log_character_onlines.go:70
+msgid "登录IP"
+msgstr ""
+
+#: common\def\logDef.go:459 pages\AutoPages\log_character_onlines.go:75
+msgid "登录日志表格"
+msgstr ""
+
+#: pages\AutoPages\log_character_onlines.go:71
+msgid "登录时间"
+msgstr ""
+
+#: pages\AutoPages\t_ip_rules.go:37 pages\AutoPages\t_ip_rules.go:46
+msgid "白名单"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:39
+#: pages\AutoPages\t_activation_code.go:78
+msgid "礼包码"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code_use.go:36
+msgid "礼包码使用记录"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:79
+msgid "礼包码必须为8位，请尽量使用大写字母和数字，尽量避免使用'I','1','l','O','0'等不易区分的字符。"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:64
+#: pages\AutoPages\t_activation_code.go:103
+msgid "礼包码管理"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:42
+#: pages\AutoPages\t_activation_code.go:81
+msgid "礼包码类型"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:90
+msgid "礼物掉落ID对应掉落表中的掉落ID"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:59
+#: pages\AutoPages\t_activation_code.go:89
+msgid "礼物掉落Id"
+msgstr ""
+
+#: pages\CustomPages\mail.go:88
+msgid "票据"
+msgstr ""
+
+#: pages\AutoPages\global_cfg_check.go:87
+#: pages\AutoPages\global_cfg_check.go:101 pages\CustomPages\mail.go:89
+#: pages\CustomPages\mail.go:299
+msgid "票据ID"
+msgstr ""
+
+#: pages\AutoPages\global_cfg_check.go:134
+#: pages\AutoPages\global_cfg_check.go:152
+msgid "票据Id"
+msgstr ""
+
+#: pages\AutoPages\global_cfg_check.go:88
+#: pages\AutoPages\global_cfg_check.go:102 pages\CustomPages\mail.go:90
+#: pages\CustomPages\mail.go:300
+msgid "票据数量"
+msgstr ""
+
+#: common\def\logDef.go:495 pages\AutoPages\global_cfg_check.go:86
+#: pages\AutoPages\global_cfg_check.go:137
+msgid "票据获取总上限"
+msgstr ""
+
+#: common\def\logDef.go:497 pages\AutoPages\global_cfg_check.go:100
+#: pages\AutoPages\global_cfg_check.go:155
+msgid "票据获取日上限"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:121 pages\CustomPages\playerInfo.go:155
+msgid "禁言"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:139 pages\CustomPages\playerInfo.go:164
+msgid "禁言时间"
+msgstr ""
+
+#: pages\AutoPages\account_data_count.go:26
+msgid "离线七天以上账号数量"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:296
+msgid "离线托管"
+msgstr ""
+
+#: common\def\logDef.go:380
+msgid "私聊"
+msgstr ""
+
+#: pages\AutoPages\t_notices.go:44 pages\AutoPages\t_notices.go:149
+msgid "秒"
+msgstr ""
+
+#: common\def\logDef.go:517
+msgid "移动速度"
+msgstr ""
+
+#: common\def\logDef.go:230 common\def\logDef.go:309
+msgid "移除"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:120
+msgid "移除玩家道具"
+msgstr ""
+
+#: common\def\logDef.go:150
+msgid "移除道具"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:417 pages\CustomPages\serverInfo.go:434
+#: pages\CustomPages\serverInfo.go:1347 pages\CustomPages\serverInfo.go:1365
+msgid "端口"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:375
+msgid "第一周最大在线"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:382
+msgid "第一季度最大在线"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:377
+msgid "第三周最大在线"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:384
+msgid "第三季度最大在线"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:376
+msgid "第二周最大在线"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:383
+msgid "第二季度最大在线"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:379
+msgid "第五周最大在线"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:378
+msgid "第四周最大在线"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:385
+msgid "第四季度最大在线"
+msgstr ""
+
+#: pages\AutoPages\rankList.go:39
+msgid "等级排行"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:131
+msgid "等级疑似流失"
+msgstr ""
+
+#: pages\AutoPages\global_cfg_check.go:43
+#: pages\AutoPages\global_cfg_check.go:112
+msgid "类型"
+msgstr ""
+
+#: common\def\managerDef.go:295
+msgid "类型处理错误"
+msgstr ""
+
+#: common\def\itemdef.go:78
+msgid "精灵"
+msgstr ""
+
+#: fusion\Tools.go:1173
+msgid "系統"
+msgstr ""
+
+#: common\def\logDef.go:387 pages\CustomPages\mail.go:75
+msgid "系统"
+msgstr ""
+
+#: pages\AutoPages\query_excellent_count.go:55
+msgid "累计充值数量"
+msgstr ""
+
+#: pages\AutoPages\t_exp_cfg.go:40 pages\AutoPages\t_exp_cfg.go:53
+msgid "经验系数（万分比）"
+msgstr ""
+
+#: common\def\logDef.go:464 pages\AutoPages\log_player_exps.go:86
+msgid "经验获取日志"
+msgstr ""
+
+#: common\def\excelConfigDef\expconfigdef\expdef.go:40
+msgid "经验配置"
+msgstr ""
+
+#: common\def\currencyDef\currencyDef.go:32
+msgid "绑定钻石"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:79
+msgid "绑钻数量"
+msgstr ""
+
+#: common\def\questDef\questDef.go:78
+msgid "结束"
+msgstr ""
+
+#: pages\AutoPages\t_activation_code.go:61
+#: pages\AutoPages\t_activation_code.go:94 pages\AutoPages\t_affiche.go:35
+#: pages\AutoPages\t_affiche.go:47 pages\AutoPages\t_notices.go:43
+#: pages\AutoPages\t_notices.go:148
+msgid "结束时间"
+msgstr ""
+
+#: pages\AutoPages\t_client_version.go:35
+msgid "结果"
+msgstr ""
+
+#: common\def\serverDef.go:28
+msgid "维护"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:475
+msgid "编辑后台服务器读取数据库配置"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:1393
+msgid "编辑备份服务器读取数据库配置"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:94
+msgid "网页"
+msgstr ""
+
+#: pages\AutoPages\rankList.go:41
+msgid "网页充值排行"
+msgstr ""
+
+#: common\def\itemdef.go:75
+msgid "翅膀"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:248
+msgid "翅膀合成"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:249
+msgid "翅膀强化"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:250
+msgid "翅膀追加"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:251
+msgid "翅膀追加元素之魂"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:252
+msgid "翅膀追加元素之魂升级"
+msgstr ""
+
+#: common\def\logDef.go:458 pages\AutoPages\log_character_chats.go:70
+msgid "聊天日志"
+msgstr ""
+
+#: pages\AutoPages\log_player_equip.go:77
+msgid "背包修理"
+msgstr ""
+
+#: fusion\Tools.go:1334
+msgid "背包格子位置"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:195
+msgid "脚本"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:295
+msgid "自动减少PK等级"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:275
+msgid "自动战斗"
+msgstr ""
+
+#: common\def\itemdef.go:73
+msgid "艾尔特"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:242
+msgid "艾尔特分解"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:241
+msgid "艾尔特升级"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:240
+msgid "艾尔特升阶"
+msgstr ""
+
+#: pages\AutoPages\log_player_amulet.go:81
+msgid "艾尔特属性"
+msgstr ""
+
+#: pages\AutoPages\log_player_ertl.go:75
+msgid "艾尔特属性变更"
+msgstr ""
+
+#: common\def\logDef.go:463 pages\AutoPages\log_player_ertl.go:80
+msgid "艾尔特日志"
+msgstr ""
+
+#: pages\AutoPages\log_player_amulet.go:73
+#: pages\AutoPages\log_player_ertl.go:67
+msgid "艾尔特类型ID"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:235
+msgid "荧之石抽取"
+msgstr ""
+
+#: common\def\logDef.go:469 pages\AutoPages\log_player_stone.go:87
+msgid "荧之石日志"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:236
+msgid "荧光宝石合成"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:237
+msgid "荧光宝石强化"
+msgstr ""
+
+#: pages\AutoPages\log_player_exps.go:64
+msgid "获取经验"
+msgstr ""
+
+#: common\def\questDef\questDef.go:63
+msgid "藏宝图任务"
+msgstr ""
+
+#: common\def\logDef.go:189 common\def\flowDef\logFlowType.go:271
+#: fusion\Tools.go:1248
+msgid "血色城堡"
+msgstr ""
+
+#: common\def\itemdef.go:72
+msgid "装备"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:228
+msgid "装备再生"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:286
+msgid "装备分解"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:290
+msgid "装备合成"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:227
+msgid "装备强化"
+msgstr ""
+
+#: common\def\logDef.go:462 pages\AutoPages\log_player_equip.go:93
+msgid "装备日志"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:213
+msgid "装备物品"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:233
+msgid "装备移除宝石"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:230
+msgid "装备还原"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:229
+msgid "装备进化"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:231
+msgid "装备追加"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:232
+msgid "装备镶嵌宝石"
+msgstr ""
+
+#: pages\AutoPages\complaint_management.go:80 pages\AutoPages\exportForm.go:43
+#: pages\AutoPages\log_character_chats.go:47
+#: pages\AutoPages\log_character_onlines.go:45
+#: pages\AutoPages\log_player_amulet.go:48
+#: pages\AutoPages\log_player_dungeons.go:46
+#: pages\AutoPages\log_player_equip.go:46 pages\AutoPages\log_player_ertl.go:46
+#: pages\AutoPages\log_player_exps.go:52
+#: pages\AutoPages\log_player_item_add_error.go:62
+#: pages\AutoPages\log_player_items.go:51
+#: pages\AutoPages\log_player_levelups.go:46
+#: pages\AutoPages\log_player_moneys.go:51
+#: pages\AutoPages\log_player_quests.go:55
+#: pages\AutoPages\log_player_stone.go:47
+#: pages\AutoPages\query_excellent_count.go:46 pages\AutoPages\rankList.go:47
+#: pages\AutoPages\rankList.go:173 pages\AutoPages\rankList.go:419
+#: pages\AutoPages\suspicious_data_record.go:54
+#: pages\AutoPages\t_account_characters.go:36
+#: pages\AutoPages\totalRankList.go:40 pages\CustomPages\playerInfo.go:112
+#: pages\CustomPages\playerInfo.go:149
+msgid "角色ID"
+msgstr ""
+
+#: pages\AutoPages\complaint_management.go:58 pages\CustomPages\mail.go:270
+msgid "角色Id"
+msgstr ""
+
+#: pages\AutoPages\inst_player_char_brief.go:44
+msgid "角色创建时间"
+msgstr ""
+
+#: pages\AutoPages\complaint_management.go:57
+#: pages\AutoPages\complaint_management.go:79 pages\AutoPages\exportForm.go:45
+#: pages\AutoPages\log_character_chats.go:48
+#: pages\AutoPages\log_character_onlines.go:46 pages\AutoPages\rankList.go:48
+#: pages\AutoPages\rankList.go:174 pages\AutoPages\rankList.go:420
+#: pages\AutoPages\suspicious_data_record.go:55
+#: pages\AutoPages\totalRankList.go:41
+msgid "角色名"
+msgstr ""
+
+#: pages\AutoPages\t_account_characters.go:37
+msgid "角色名字"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:140 pages\CustomPages\playerInfo.go:165
+msgid "角色封禁时间"
+msgstr ""
+
+#: pages\AutoPages\log_player_amulet.go:49
+#: pages\AutoPages\log_player_dungeons.go:47
+#: pages\AutoPages\log_player_equip.go:47 pages\AutoPages\log_player_ertl.go:47
+#: pages\AutoPages\log_player_exps.go:53
+#: pages\AutoPages\log_player_item_add_error.go:63
+#: pages\AutoPages\log_player_items.go:53
+#: pages\AutoPages\log_player_levelups.go:47
+#: pages\AutoPages\log_player_moneys.go:52
+#: pages\AutoPages\log_player_quests.go:56
+#: pages\AutoPages\log_player_stone.go:48
+#: pages\AutoPages\query_excellent_count.go:48
+msgid "角色昵称"
+msgstr ""
+
+#: pages\AutoPages\log_character_onlines.go:48
+#: pages\AutoPages\log_player_amulet.go:51
+#: pages\AutoPages\log_player_dungeons.go:49
+#: pages\AutoPages\log_player_equip.go:49 pages\AutoPages\log_player_ertl.go:49
+#: pages\AutoPages\log_player_exps.go:55
+#: pages\AutoPages\log_player_item_add_error.go:64
+#: pages\AutoPages\log_player_items.go:55
+#: pages\AutoPages\log_player_levelups.go:49
+#: pages\AutoPages\log_player_moneys.go:54
+#: pages\AutoPages\log_player_quests.go:58
+#: pages\AutoPages\log_player_stone.go:50
+#: pages\AutoPages\query_excellent_count.go:50 pages\AutoPages\rankList.go:51
+msgid "角色等级"
+msgstr ""
+
+#: pages\AutoPages\complaint_management.go:59
+#: pages\AutoPages\complaint_management.go:81 pages\AutoPages\exportForm.go:48
+#: pages\AutoPages\log_character_chats.go:61
+#: pages\AutoPages\log_player_amulet.go:83
+#: pages\AutoPages\log_player_dungeons.go:72
+#: pages\AutoPages\log_player_ertl.go:76 pages\AutoPages\log_player_exps.go:82
+#: pages\AutoPages\log_player_item_add_error.go:90
+#: pages\AutoPages\log_player_levelups.go:58
+#: pages\AutoPages\log_player_moneys.go:102
+#: pages\AutoPages\log_player_quests.go:101
+#: pages\AutoPages\log_player_stone.go:83
+#: pages\AutoPages\player_active_count.go:50
+#: pages\AutoPages\suspicious_data_record.go:85
+#: pages\CustomPages\dataTables.go:223 pages\CustomPages\mail.go:283
+#: pages\CustomPages\serverInfo.go:1204
+msgid "记录时间"
+msgstr ""
+
+#: pages\AutoPages\log_player_amulet.go:60
+#: pages\AutoPages\log_player_equip.go:58 pages\AutoPages\log_player_ertl.go:58
+#: pages\AutoPages\log_player_items.go:96
+#: pages\AutoPages\log_player_stone.go:59
+#: pages\AutoPages\suspicious_data_record.go:56
+msgid "记录类型"
+msgstr ""
+
+#: common\def\complaintDef.go:56
+msgid "论坛"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:314
+msgid "设备信息"
+msgstr ""
+
+#: pages\CustomPages\dataTables.go:311
+msgid "设备类型"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:118 pages\CustomPages\playerInfo.go:134
+msgid "设置等级"
+msgstr ""
+
+#: pages\AutoPages\t_account_characters.go:50
+msgid "设置角色白名单"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:119
+msgid "设置货币"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:857
+msgid "该服务器已经通知热更"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:453
+msgid "请填写对应的服务器所部署的deploy服务端的地址"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:456
+msgid "请填写对应的服务器所部署的deploy服务端的端口"
+msgstr ""
+
+#: pages\CustomPages\mail.go:184
+msgid "请填写正确的玩家id"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:255 pages\CustomPages\playerInfo.go:265
+#: pages\CustomPages\playerInfo.go:277 pages\CustomPages\playerInfo.go:302
+msgid "请检查输入 "
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:227
+msgid "请输入正确的值 "
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:237 pages\CustomPages\playerInfo.go:245
+#: pages\CustomPages\playerInfo.go:321
+msgid "请输入正确的数量 "
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:251
+#: pages\AutoPages\operation_servers.go:408
+#: pages\AutoPages\operation_servers.go:579
+#: pages\AutoPages\operation_servers.go:715
+#: pages\AutoPages\operation_servers.go:866
+#: pages\AutoPages\operation_servers.go:1061
+#: pages\AutoPages\operation_servers.go:1286
+#: pages\AutoPages\operation_servers.go:1322
+#: pages\AutoPages\operation_servers.go:1358
+#: pages\AutoPages\operation_servers.go:1450
+#: pages\AutoPages\operation_servers.go:1487
+#: pages\AutoPages\operation_servers.go:1633
+#: pages\AutoPages\operation_servers.go:1698
+#: pages\AutoPages\t_game_servers.go:157
+msgid "请选择服务器"
+msgstr ""
+
+#: pages\AutoPages\t_function_switch.go:68 pages\AutoPages\t_notices.go:111
+#: pages\AutoPages\t_notices.go:139
+msgid "请选择条目"
+msgstr ""
+
+#: pages\AutoPages\exportForm.go:33
+msgid "请选择要导出的表"
+msgstr ""
+
+#: pages\AutoPages\log_character_onlines.go:44
+#: pages\AutoPages\log_player_levelups.go:45
+#: pages\AutoPages\query_excellent_count.go:45
+msgid "账号"
+msgstr ""
+
+#: pages\AutoPages\exportForm.go:41
+#: pages\AutoPages\inst_player_char_brief.go:39
+#: pages\AutoPages\log_character_chats.go:46
+#: pages\AutoPages\log_player_amulet.go:47
+#: pages\AutoPages\log_player_dungeons.go:45
+#: pages\AutoPages\log_player_equip.go:45 pages\AutoPages\log_player_ertl.go:45
+#: pages\AutoPages\log_player_exps.go:51
+#: pages\AutoPages\log_player_item_add_error.go:61
+#: pages\AutoPages\log_player_items.go:50
+#: pages\AutoPages\log_player_moneys.go:50
+#: pages\AutoPages\log_player_quests.go:54
+#: pages\AutoPages\log_player_stone.go:46
+#: pages\AutoPages\query_excellent_count.go:43 pages\AutoPages\rankList.go:50
+#: pages\AutoPages\suspicious_data_record.go:53 pages\CustomPages\mail.go:268
+#: pages\CustomPages\playerInfo.go:37 pages\CustomPages\playerInfo.go:113
+#: pages\CustomPages\playerInfo.go:150
+msgid "账号ID"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:54
+msgid "账号创建时间"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:56
+msgid "账号名"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:142 pages\CustomPages\playerInfo.go:166
+msgid "账号封禁时间"
+msgstr ""
+
+#: pages\AutoPages\log_player_moneys.go:75
+msgid "货币值"
+msgstr ""
+
+#: pages\AutoPages\log_player_moneys.go:73
+msgid "货币名称"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:136
+msgid "货币数量"
+msgstr ""
+
+#: common\def\logDef.go:467 pages\AutoPages\log_player_moneys.go:111
+msgid "货币日志"
+msgstr ""
+
+#: pages\AutoPages\log_player_moneys.go:63
+msgid "货币类型"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:287
+msgid "购买VIP卡"
+msgstr ""
+
+#: fusion\Tools.go:1315
+msgid "购买失败"
+msgstr ""
+
+#: fusion\Tools.go:1313
+msgid "购买消耗"
+msgstr ""
+
+#: fusion\Tools.go:1348
+msgid "购买玩家ID"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:81
+msgid "资产统计"
+msgstr ""
+
+#: common\def\logDef.go:190 common\def\flowDef\logFlowType.go:272
+#: fusion\Tools.go:1254
+msgid "赤色要塞"
+msgstr ""
+
+#: pages\CustomPages\index.go:46
+msgid "越南文"
+msgstr ""
+
+#: common\def\logDef.go:420
+msgid "跑马灯"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:1670
+msgid "踢出所有玩家"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:268
+msgid "转生"
+msgstr ""
+
+#: common\def\questDef\questDef.go:43
+msgid "转职"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:299
+msgid "运营活动"
+msgstr ""
+
+#: common\def\complaintDef.go:55
+msgid "运营转交"
+msgstr ""
+
+#: pages\CustomPages\Email.go:110 pages\CustomPages\index.go:144
+#: pages\CustomPages\mail.go:140 pages\CustomPages\playerInfo.go:327
+msgid "返回上级"
+msgstr ""
+
+#: pages\AutoPages\log_player_dungeons.go:68
+msgid "进入"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:282
+msgid "进入魔炼之地"
+msgstr ""
+
+#: common\def\logDef.go:272
+msgid "进化"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:278
+msgid "进化之石充能"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:277
+msgid "进化之石兑换"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:1627
+#: pages\AutoPages\t_game_servers.go:151
+msgid "进程守护状态为"
+msgstr ""
+
+#: common\def\logDef.go:199 common\def\flowDef\logFlowType.go:293
+msgid "迷宫"
+msgstr ""
+
+#: common\def\logDef.go:270
+msgid "追加"
+msgstr ""
+
+#: pages\CustomPages\mail.go:56
+msgid "选中的服务器"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:137
+msgid "选择移除道具"
+msgstr ""
+
+#: pages\AutoPages\exportForm.go:37
+msgid "选择要导出的服务器"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:135
+msgid "选择货币"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:209 pages\CustomPages\serverInfo.go:361
+msgid "通关人数"
+msgstr ""
+
+#: common\def\logDef.go:421
+msgid "通知"
+msgstr ""
+
+#: pages\AutoPages\t_game_servers.go:200
+msgid "通知到服务器"
+msgstr ""
+
+#: pages\AutoPages\log_player_dungeons.go:70
+msgid "通过"
+msgstr ""
+
+#: pages\CustomPages\mail.go:83
+msgid "道具"
+msgstr ""
+
+#: mgr\pageMgr\playerMgr.go:36
+msgid "道具GUID"
+msgstr ""
+
+#: fusion\Tools.go:1242 mgr\pageMgr\playerMgr.go:39
+#: pages\AutoPages\global_cfg_check.go:91
+#: pages\AutoPages\global_cfg_check.go:96
+#: pages\AutoPages\log_player_items.go:72 pages\CustomPages\mail.go:84
+#: pages\CustomPages\mail.go:294
+msgid "道具ID"
+msgstr ""
+
+#: pages\AutoPages\global_cfg_check.go:143
+#: pages\AutoPages\global_cfg_check.go:161
+msgid "道具Id"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:226
+msgid "道具合成"
+msgstr ""
+
+#: pages\AutoPages\log_player_items.go:74
+msgid "道具名称"
+msgstr ""
+
+#: fusion\Tools.go:1358 mgr\pageMgr\playerMgr.go:48
+#: pages\AutoPages\global_cfg_check.go:92
+#: pages\AutoPages\global_cfg_check.go:97
+#: pages\AutoPages\log_player_items.go:76 pages\CustomPages\mail.go:85
+#: pages\CustomPages\mail.go:295 pages\CustomPages\playerInfo.go:138
+msgid "道具数量"
+msgstr ""
+
+#: common\def\logDef.go:465 pages\AutoPages\log_player_items.go:107
+msgid "道具日志"
+msgstr ""
+
+#: mgr\pageMgr\playerMgr.go:33
+msgid "道具格子"
+msgstr ""
+
+#: common\def\logDef.go:496 pages\AutoPages\global_cfg_check.go:90
+#: pages\AutoPages\global_cfg_check.go:146
+msgid "道具获取总上限"
+msgstr ""
+
+#: common\def\logDef.go:498 pages\AutoPages\global_cfg_check.go:95
+#: pages\AutoPages\global_cfg_check.go:164
+msgid "道具获取日上限"
+msgstr ""
+
+#: pages\AutoPages\log_player_items.go:70
+msgid "道具装载位置"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:197 pages\CustomPages\mail.go:96
+msgid "邮件"
+msgstr ""
+
+#: fusion\Tools.go:1204
+msgid "邮件ID"
+msgstr ""
+
+#: pages\CustomPages\mail.go:61
+msgid "邮件新功能"
+msgstr ""
+
+#: pages\CustomPages\mail.go:80 pages\CustomPages\mail.go:303
+msgid "邮件标题"
+msgstr ""
+
+#: pages\CustomPages\mail.go:81 pages\CustomPages\mail.go:305
+msgid "邮件正文"
+msgstr ""
+
+#: pages\CustomPages\mail.go:118 pages\CustomPages\mail.go:187
+#: pages\CustomPages\mail.go:232 pages\CustomPages\mail.go:326
+msgid "邮件管理"
+msgstr ""
+
+#: fusion\Tools.go:1205 pages\CustomPages\mail.go:72
+msgid "邮件类型"
+msgstr ""
+
+#: pages\CustomPages\Email.go:48
+msgid "邮箱的授权码"
+msgstr ""
+
+#: pages\CustomPages\Email.go:41
+msgid "邮箱账号"
+msgstr ""
+
+#: pages\AutoPages\operation_servers.go:1255
+msgid "部署资源文件"
+msgstr ""
+
+#: pages\AutoPages\t_excel_config.go:66 pages\AutoPages\t_excel_config.go:166
+msgid "配置文件相关"
+msgstr ""
+
+#: pages\AutoPages\t_excel_config.go:53
+msgid "配置文件类型"
+msgstr ""
+
+#: pages\CustomPages\index.go:85
+msgid "配置管理"
+msgstr ""
+
+#: pages\AutoPages\t_excel_config.go:95
+msgid "配置类型"
+msgstr ""
+
+#: common\def\itemdef.go:74
+msgid "配饰"
+msgstr ""
+
+#: common\def\logDef.go:460 pages\AutoPages\log_player_amulet.go:87
+msgid "配饰镶嵌记录"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:198
+msgid "采集"
+msgstr ""
+
+#: common\def\logDef.go:271
+msgid "重生"
+msgstr ""
+
+#: pages\CustomPages\serverInfo.go:394 pages\CustomPages\serverInfo.go:1324
+msgid "重置"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:254
+msgid "野外BOSS"
+msgstr ""
+
+#: common\def\currencyDef\currencyDef.go:29
+msgid "金币"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:78
+msgid "金币数量"
+msgstr ""
+
+#: common\def\currencyDef\currencyDef.go:31
+msgid "钻石"
+msgstr ""
+
+#: pages\AutoPages\rankList.go:153
+msgid "钻石排行"
+msgstr ""
+
+#: pages\AutoPages\rankList.go:164 pages\CustomPages\playerInfo.go:80
+msgid "钻石数量"
+msgstr ""
+
+#: common\def\logDef.go:227 common\def\logDef.go:308
+msgid "镶嵌"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:292
+msgid "镶嵌精华"
+msgstr ""
+
+#: pages\AutoPages\complaint_management.go:42
+#: pages\AutoPages\complaint_management.go:75
+msgid "问题分类"
+msgstr ""
+
+#: pages\AutoPages\complaint_management.go:47
+#: pages\AutoPages\complaint_management.go:76
+msgid "问题来源"
+msgstr ""
+
+#: pages\AutoPages\t_notices.go:44 pages\AutoPages\t_notices.go:149
+msgid "间隔"
+msgstr ""
+
+#: common\def\logDef.go:383
+msgid "队伍"
+msgstr ""
+
+#: common\def\logDef.go:385
+msgid "阵营"
+msgstr ""
+
+#: common\def\serverDef.go:29
+msgid "隐藏"
+msgstr ""
+
+#: fusion\Tools.go:1286
+msgid "难度ID"
+msgstr ""
+
+#: pages\AutoPages\query_excellent_count.go:51
+msgid "需求的卓越属性条数"
+msgstr ""
+
+#: pages\AutoPages\log_character_chats.go:50
+msgid "频道"
+msgstr ""
+
+#: pages\CustomPages\mail.go:298
+msgid "额外补发票据"
+msgstr ""
+
+#: pages\CustomPages\mail.go:293
+msgid "额外补发道具"
+msgstr ""
+
+#: pages\CustomPages\playerInfo.go:49
+msgid "首次充值时间"
+msgstr ""
+
+#: common\def\flowDef\logFlowType.go:289
+msgid "魔炼之地取出路费"
+msgstr ""
+
+#: pages\AutoPages\t_ip_rules.go:35 pages\AutoPages\t_ip_rules.go:45
+msgid "黑名单"
+msgstr ""
